@@ -1060,69 +1060,69 @@
 
 0000F59C,8,coach_09
 
-0000F5A5,97,We're being run ragged!{换行}We need to watch some videos{换行}and do some tactical {队员1}analysis{队员1}.
+0000F5A5,97,We're being run ragged!{换行}We need to watch some videos{换行}and do some tactical {颜色?}analysis{颜色?}.
 
-0000F607,99,Our marking's too sloppy!{换行}More {队员1}marking{队员1} practice needed!{换行}We need to tighten things up.
+0000F607,99,Our marking's too sloppy!{换行}More {颜色?}marking{颜色?} practice needed!{换行}We need to tighten things up.
 
-0000F66B,103,We're giving them too much time{换行}and space! Make sure we work{换行}on {队员1}pressuring{队员1} our opponents.
+0000F66B,103,We're giving them too much time{换行}and space! Make sure we work{换行}on {颜色?}pressuring{颜色?} our opponents.
 
-0000F6D3,94,Too slow! What do I keep{换行}saying? We have to work on{换行}being quicker at {队员1}countering{队员1}!
+0000F6D3,94,Too slow! What do I keep{换行}saying? We have to work on{换行}being quicker at {颜色?}countering{颜色?}!
 
-0000F732,100,The lads aren't linking up as a{换行}team! We'll have to get them{换行}playing a few {队员1}mini-games{队员1}.
+0000F732,100,The lads aren't linking up as a{换行}team! We'll have to get them{换行}playing a few {颜色?}mini-games{颜色?}.
 
-0000F797,103,We're not pushing up far{换行}enough! It looks like we still need{换行}to work on our {队员1}line control{队员1}.
+0000F797,103,We're not pushing up far{换行}enough! It looks like we still need{换行}to work on our {颜色?}line control{颜色?}.
 
-0000F7FF,97,We can't squander chances{换行}like that! We need to work on{换行}more imaginative {队员1}set plays{队员1}.
+0000F7FF,97,We can't squander chances{换行}like that! We need to work on{换行}more imaginative {颜色?}set plays{颜色?}.
 
-0000F861,102,Keep hold of it! We have to{换行}learn to hold onto the ball more{换行}assertively when {队员1}dribbling{队员1}.
+0000F861,102,Keep hold of it! We have to{换行}learn to hold onto the ball more{换行}assertively when {颜色?}dribbling{颜色?}.
 
-0000F8C8,81,What was that?!{换行}Have we got no one who can{换行}take simple {队员1}place kicks{队员1}?
+0000F8C8,81,What was that?!{换行}Have we got no one who can{换行}take simple {颜色?}place kicks{颜色?}?
 
-0000F91A,111,Unbelievable! If that's all they're{换行}capable of, they'll have to do{换行}some proper {队员1}shooting{队员1} practice.
+0000F91A,111,Unbelievable! If that's all they're{换行}capable of, they'll have to do{换行}some proper {颜色?}shooting{颜色?} practice.
 
-0000F98A,85,Stop wasting time!{换行}{队员1}Passing{队员1} is the quickest way to{换行}move the ball around!
+0000F98A,85,Stop wasting time!{换行}{颜色?}Passing{颜色?} is the quickest way to{换行}move the ball around!
 
-0000F9E0,104,We've not even mastered the{换行}basics! We'll have to start again,{换行}beginning with {队员1}freestyling{队员1}.
+0000F9E0,104,We've not even mastered the{换行}basics! We'll have to start again,{换行}beginning with {颜色?}freestyling{颜色?}.
 
-0000FA49,100,You let him slip away from you!{换行}Do we need to practise {队员1}sliding{队员1}{换行}tackles all over again?
+0000FA49,100,You let him slip away from you!{换行}Do we need to practise {颜色?}sliding{颜色?}{换行}tackles all over again?
 
-0000FAAE,106,We're getting beaten in the air{换行}every time! Looks like we need{换行}to focus on {队员1}heading{队员1} practice.
+0000FAAE,106,We're getting beaten in the air{换行}every time! Looks like we need{换行}to focus on {颜色?}heading{颜色?} practice.
 
-0000FB19,95,The lads look knackered! We{换行}need to build stamina by doing{换行}some {队员1}running{队员1} training.
+0000FB19,95,The lads look knackered! We{换行}need to build stamina by doing{换行}some {颜色?}running{颜色?} training.
 
-0000FB79,105,We're losing every challenge!{换行}These lads need to do some{换行}{队员1}weight{队员1} training and bulk up a bit.
+0000FB79,105,We're losing every challenge!{换行}These lads need to do some{换行}{颜色?}weight{颜色?} training and bulk up a bit.
 
-0000FBE3,107,Before we start on tactics and{换行}the like, maybe we should work{换行}on our basic {队员1}kicking{队员1} technique.
+0000FBE3,107,Before we start on tactics and{换行}the like, maybe we should work{换行}on our basic {颜色?}kicking{颜色?} technique.
 
-0000FC4F,111,What are we dilly-dallying for?{换行}I think some {队员1}sprinting{队员1} practice to{换行}improve our speed is in order.
+0000FC4F,111,What are we dilly-dallying for?{换行}I think some {颜色?}sprinting{颜色?} practice to{换行}improve our speed is in order.
 
-0000FCBF,92,These lads move with all the{换行}grace of a pantomime horse.{换行}We need more {队员1}agility{队员1}.
+0000FCBF,92,These lads move with all the{换行}grace of a pantomime horse.{换行}We need more {颜色?}agility{颜色?}.
 
-0000FD1C,106,This team needs to get its act{换行}together! We'd better do some{换行}{队员1}aerobics{队员1} to work on our rhythm.
+0000FD1C,106,This team needs to get its act{换行}together! We'd better do some{换行}{颜色?}aerobics{颜色?} to work on our rhythm.
 
-0000FD87,97,We're stiffer than wooden{换行}goalposts... We have to make{换行}sure we remember to {队员1}stretch{队员1}.
+0000FD87,97,We're stiffer than wooden{换行}goalposts... We have to make{换行}sure we remember to {颜色?}stretch{颜色?}.
 
-0000FDE9,101,Ugh... What can we do about{换行}that?... Maybe we could try out{换行}that {队员1}oil therapy{队员1} thingy...?
+0000FDE9,101,Ugh... What can we do about{换行}that?... Maybe we could try out{换行}that {颜色?}oil therapy{颜色?} thingy...?
 
-0000FE4F,101,These lads are too easily{换行}distracted. Perhaps we should{换行}get them doing some {队员1}meditation{队员1}.
+0000FE4F,101,These lads are too easily{换行}distracted. Perhaps we should{换行}get them doing some {颜色?}meditation{颜色?}.
 
-0000FEB5,107,Not surprised the fans aren't{换行}happy. Things'll smooth over if{换行}the lads {队员1}sign{队员1} a few autographs.
+0000FEB5,107,Not surprised the fans aren't{换行}happy. Things'll smooth over if{换行}the lads {颜色?}sign{颜色?} a few autographs.
 
-0000FF21,97,Why are we so flustered?{换行}Looks like we'll have to go{换行}through the {队员1}PK practice{队员1} again.
+0000FF21,97,Why are we so flustered?{换行}Looks like we'll have to go{换行}through the {颜色?}PK practice{颜色?} again.
 
-0000FF83,99,We've no will to fight for it...{换行}Might be time to try out some{换行}{队员1}judo{队员1} to toughen us up.
+0000FF83,99,We've no will to fight for it...{换行}Might be time to try out some{换行}{颜色?}judo{颜色?} to toughen us up.
 
-0000FFE7,100,We're always one step behind...{换行}We need to work on {队员1}visualising{队员1}{换行}the next stage of play.
+0000FFE7,100,We're always one step behind...{换行}We need to work on {颜色?}visualising{颜色?}{换行}the next stage of play.
 
-0001004C,105,The lads don't understand what{换行}I'm looking for. We'll have a{换行}{队员1}meeting{队员1} to explain it to them.
+0001004C,105,The lads don't understand what{换行}I'm looking for. We'll have a{换行}{颜色?}meeting{颜色?} to explain it to them.
 
-000100B6,95,What's the matter? Are the lads{换行}too tense? Perhaps a trip to the{换行}{队员1}spa{队员1} is in order!
+000100B6,95,What's the matter? Are the lads{换行}too tense? Perhaps a trip to the{换行}{颜色?}spa{颜色?} is in order!
 
-00010116,101,There's something seriously{换行}wrong here. Let's have a {队员1}mini-{换行}camp{队员1} and start from scratch!
+00010116,101,There's something seriously{换行}wrong here. Let's have a {颜色?}mini-{换行}camp{颜色?} and start from scratch!
 
-0001017C,102,We're under too much stress...{换行}We should try some video{换行}{队员1}gaming{队员1} to take our minds off it.
+0001017C,102,We're under too much stress...{换行}We should try some video{换行}{颜色?}gaming{颜色?} to take our minds off it.
 
-000101E3,104,The lads seem down and out...{换行}We'll have to cheer them up{换行}with a spot of {队员1}karaoke{队员1}, I think.
+000101E3,104,The lads seem down and out...{换行}We'll have to cheer them up{换行}with a spot of {颜色?}karaoke{颜色?}, I think.
 
 0001024C,253,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Beginner League matches start.{控制符4}{换行}{控制符2}You've got 5 opponents to play and hopefully{换行}defeat. Let's do our best to get promoted to the{换行}Advanced League!{控制符4}{控制符2}
 
@@ -1482,13 +1482,9 @@
 
 000147D4,59,Boss! {数字8} got injured while{换行}training at the Team Camp.{换行}
 
-00014810,41,He needs {数字3} {数字0} to recover from{换行}
+00014810,56,He needs {数字3} {数字0} to recover from{换行}{待测8}.{控制符4}
 
-00014840,8,.{控制符4}
-
-00014849,7,Due to 
-
-00014857,52,, he'll be out of action{换行}for {数字3} {数字0}.{控制符4}
+00014849,66,Due to {待测8}, he'll be out of action{换行}for {数字3} {数字0}.{控制符4}
 
 0001488C,131,{控制符2}Of course, while injured, he can't play in{换行}matches and his abilities will decrease slightly.{换行}It hurts the whole team.{控制符4}
 
@@ -1742,9 +1738,7 @@
 
 00016EE9,64,Apparently this player struggled with injury{换行}last season.{控制符4}
 
-00016F2A,41,This player's been playing for a team in{换行}
-
-00016F5A,8,.{控制符4}
+00016F2A,56,This player's been playing for a team in{换行}{待测7}.{控制符4}
 
 00016F63,50,This player's signed to {队名2}{换行}apparently.{控制符4}
 
