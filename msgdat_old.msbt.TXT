@@ -1,6 +1,6 @@
-00006294,137,You haven't got enough players, boss.{换行}If you want to play a local wireless game,{换行}you have to have at least {数字1} {数字8}.{控制符3}{控制符4}
+00006294,137,You haven't got enough players, boss.{换行}If you want to play a local wireless game,{换行}you have to have at least {数字1} {数字8}.{控制符4}{结束}
 
-0000631E,32,{控制符1}{控制符2}Preparing match...
+0000631E,32,{控制符2}{控制符3}Preparing match...
 
 0000633F,8,multi_02
 
@@ -12,21 +12,17 @@
 
 00006363,8,multi_06
 
-0000636C,26,{控制符1}{控制符2}Match ready!
+0000636C,26,{控制符2}{控制符3}Match ready!
 
-0000639B,7,{控制符4}
+0000639B,7,{结束}
 
-000063A3,51,{控制符1}{控制符2}Preparing to kick off.{换行}Please wait...
+000063A3,51,{控制符2}{控制符3}Preparing to kick off.{换行}Please wait...
 
-000063E5,51,{控制符1}{控制符2}Preparing to kick off.{换行}Please wait...
+000063E5,51,{控制符2}{控制符3}Preparing to kick off.{换行}Please wait...
 
-00006427,90,{控制符2}{数字1} managed by{换行}{数字8}{换行}are searching for an opponent.{换行}Do you want to play them?
+00006427,104,{控制符3}{数字0} managed by{换行}{数字8}{换行}are searching for an opponent.{换行}Do you want to play them?{控制符1}{结束}
 
-00006488,7,{控制符4}
-
-00006490,39,{控制符2}Play {数字1} managed by{换行}{数字8}?
-
-000064BE,7,{控制符4}
+00006490,53,{控制符3}Play {数字0} managed by{换行}{数字8}?{控制符1}{结束}
 
 000064C6,8,multi_12
 
@@ -56,65 +52,59 @@
 
 000065B2,8,multi_25
 
-000065BB,63,{控制符2}Someone else is already joining the match.{控制符3}{控制符4}
+000065BB,63,{控制符3}Someone else is already joining the match.{控制符4}{结束}
 
 000065FB,8,multi_27
 
-00006604,105,{控制符1}{控制符2}Use the Start Match option to search for{换行}opponents. Select an opponent to join{换行}their match.
+00006604,105,{控制符2}{控制符3}Use the Start Match option to search for{换行}opponents. Select an opponent to join{换行}their match.
 
-0000666E,33,{控制符1}{控制符2}Select an opponent.
+0000666E,33,{控制符2}{控制符3}Select an opponent.
 
-00006690,43,{控制符1}{控制符2}Waiting for others to join...
+00006690,43,{控制符2}{控制符3}Waiting for others to join...
 
-000066BC,97,{控制符2}The open match has been cancelled. You will{换行}now return to the wireless menu.{控制符3}{控制符4}
+000066BC,97,{控制符3}The open match has been cancelled. You will{换行}now return to the wireless menu.{控制符4}{结束}
 
 0000671E,8,multi_32
 
 00006727,8,multi_33
 
-00006730,37,{控制符2}Sending request to join match!
+00006730,37,{控制符3}Sending request to join match!
 
-0000676A,7,{控制符4}
+0000676A,7,{结束}
 
-00006772,69,{控制符2}Waiting for a response from the match creator. {换行}Please wait...
+00006772,69,{控制符3}Waiting for a response from the match creator. {换行}Please wait...
 
 000067B8,8,multi_36
 
-000067C1,105,<DEBUG> {控制符2}Unexpected opponent ID received{换行}from parent.{换行}(Own={数字1}, Opponent={数字3}){控制符3}{控制符4}
+000067C1,105,<DEBUG> {控制符3}Unexpected opponent ID received{换行}from parent.{换行}(Own={数字1}, Opponent={数字3}){控制符4}{结束}
 
 0000682B,8,multi_38
 
-00006834,42,{控制符2}Downloading opponent's latest data.
+00006834,42,{控制符3}Downloading opponent's latest data.
 
-0000687B,45,<DEBUG> {控制符2}Delete all match results data?
+0000687B,51,<DEBUG> {控制符3}Delete all match results data?{待测2}
 
-000068AF,7,{控制符4}
+000068AF,7,{结束}
 
-000068B7,61,{控制符2}Match against {数字8}.{换行}(ID: {数字1}){换行}Watch this match?
+000068B7,75,{控制符3}Match against {数字8}.{换行}(ID: {数字0}){换行}Watch this match?{控制符1}{结束}
 
-000068FB,7,{控制符4}
-
-00006903,89,{控制符2}Match against {数字8}.{换行}(ID: {数字1}){换行}Connect to the internet and{换行}watch this match?
-
-00006963,7,{控制符4}
+00006903,103,{控制符3}Match against {数字8}.{换行}(ID: {数字0}){换行}Connect to the internet and{换行}watch this match?{控制符1}{结束}
 
 0000696B,8,multi_43
 
-00006974,119,{控制符2}<DEBUG> Reset Club ID?{换行}When next connecting, you'll appear in rankings{换行}as a new club. Points etc. will be reset.
+00006974,125,{控制符3}<DEBUG> Reset Club ID?{换行}When next connecting, you'll appear in rankings{换行}as a new club. Points etc. will be reset.{待测2}
 
-000069F2,7,{控制符4}
+000069F2,7,{结束}
 
-000069FA,35,{控制符2}<DEBUG> Resetting Club ID...
+000069FA,35,{控制符3}<DEBUG> Resetting Club ID...
 
-00006A1E,44,{控制符2}<DEBUG> Reset complete.{控制符3}{控制符4}
+00006A1E,44,{控制符3}<DEBUG> Reset complete.{控制符4}{结束}
 
-00006A4B,53,{控制符2}<DEBUG> Could not reset Club ID.{控制符3}{控制符4}
+00006A4B,53,{控制符3}<DEBUG> Could not reset Club ID.{控制符4}{结束}
 
-00006A81,52,{控制符2}Video for this game ID found.{换行}View this game?
+00006A81,66,{控制符3}Video for this game ID found.{换行}View this game?{控制符1}{结束}
 
-00006ABC,7,{控制符4}
-
-00006AC4,153,[DEBUG]{换行}{控制符2}Video found for this game ID, but data is{换行}incomplete as the result has been changed{换行}using debug. You cannot view this match.{控制符3}{控制符4}
+00006AC4,153,[DEBUG]{换行}{控制符3}Video found for this game ID, but data is{换行}incomplete as the result has been changed{换行}using debug. You cannot view this match.{控制符4}{结束}
 
 00006B5E,75,Your opponent has left the match.{换行}You will now return to the wireless menu.
 
@@ -168,7 +158,7 @@
 
 00006DE2,7,wifi_00
 
-00006DEA,73,{控制符2}We're about to kick off!{换行}Do not turn off the power. Please wait...
+00006DEA,73,{控制符3}We're about to kick off!{换行}Do not turn off the power. Please wait...
 
 00006E34,7,wifi_02
 
@@ -176,13 +166,13 @@
 
 00006E44,7,wifi_04
 
-00006E4C,103,{控制符2}<DEBUG> Current settings are as follows:{换行}- {数字8}{换行}- {数字1}{换行}- Times sent by StreetPass: {数字1}
+00006E4C,103,{控制符3}<DEBUG> Current settings are as follows:{换行}- {数字8}{换行}- {数字0}{换行}- Times sent by StreetPass: {数字1}
 
-00006EB4,109,{控制符2}You cannot play a match that would affect the{换行}points of the team in the other save slot.{控制符3}{控制符4}
+00006EB4,109,{控制符3}You cannot play a match that would affect the{换行}points of the team in the other save slot.{控制符4}{结束}
 
 00006F22,7,wifi_07
 
-00006F2A,296,{控制符2}A substitute manager will give orders during a{换行}ranking match, but it's possible for you to specify{换行}these commands beforehand.{控制符3}{换行}{控制符1}{控制符2}You can set these commands from the{换行}Command Options menu and your formation{换行}and player selection from the starting line-up{换行}menu.{控制符3}{控制符4}
+00006F2A,296,{控制符3}A substitute manager will give orders during a{换行}ranking match, but it's possible for you to specify{换行}these commands beforehand.{控制符4}{换行}{控制符2}{控制符3}You can set these commands from the{换行}Command Options menu and your formation{换行}and player selection from the starting line-up{换行}menu.{控制符4}{结束}
 
 00007053,7,wifi_09
 
@@ -198,7 +188,7 @@
 
 00007083,7,wifi_15
 
-0000708B,85,You've changed the club's name.{换行}Let's hope the new name brings us luck!{控制符3}{控制符4}
+0000708B,85,You've changed the club's name.{换行}Let's hope the new name brings us luck!{控制符4}{结束}
 
 000070E1,7,wifi_17
 
@@ -216,11 +206,9 @@
 
 00007119,7,wifi_24
 
-00007121,55,{控制符1}{控制符2}Cancel entry and return to previous menu?
+00007121,69,{控制符2}{控制符3}Cancel entry and return to previous menu?{控制符1}{结束}
 
-0000715F,7,{控制符4}
-
-00007167,55,{控制符2}Saving data...{换行}Please do not turn off the power.
+00007167,55,{控制符3}Saving data...{换行}Please do not turn off the power.
 
 0000719F,7,wifi_27
 
@@ -238,49 +226,41 @@
 
 000071D7,7,wifi_34
 
-000071DF,57,{控制符2}Cancel changes and close the{换行}Command Options menu?
+000071DF,71,{控制符3}Cancel changes and close the{换行}Command Options menu?{控制符1}{结束}
 
-0000721F,7,{控制符4}
+00007227,41,{控制符3}Command Options have been changed.
 
-00007227,41,{控制符2}Command Options have been changed.
-
-0000725E,7,{控制符4}
+0000725E,7,{结束}
 
 00007266,7,wifi_37
 
-0000726E,65,{控制符2}Do you want to disconnect and return{换行}to the wireless menu?
-
-000072B6,7,{控制符4}
+0000726E,79,{控制符3}Do you want to disconnect and return{换行}to the wireless menu?{控制符1}{结束}
 
 000072BE,7,wifi_39
 
 000072C6,41,(This match will not affect your points.)
 
-000072F0,101,{控制符2}To take part in a ranking match, the system{换行}must connect to the internet. Is it OK to{换行}connect?
+000072F0,115,{控制符3}To take part in a ranking match, the system{换行}must connect to the internet. Is it OK to{换行}connect?{控制符1}{结束}
 
-0000735C,7,{控制符4}
-
-00007364,131,{控制符2}Boss, you need at least {数字2} {数字8} to take part{换行}in a ranking match. We'll have to give it a miss{换行}for now.{控制符3}{控制符4}
+00007364,131,{控制符3}Boss, you need at least {数字2} {数字8} to take part{换行}in a ranking match. We'll have to give it a miss{换行}for now.{控制符4}{结束}
 
 000073E8,7,wifi_43
 
 000073F0,7,wifi_44
 
-000073F8,46,{控制符1}{控制符2}Play {数字1} managed by{换行}{数字8}?
+000073F8,46,{控制符2}{控制符3}Play {数字0} managed by{换行}{数字8}?
 
 0000742E,7,wifi_46
 
-00007436,76,{控制符1}{控制符2}Enter a club ID and press the X Button{换行}or touch OK to confirm.
+00007436,76,{控制符2}{控制符3}Enter a club ID and press the X Button{换行}or touch OK to confirm.
 
-00007483,103,{控制符1}{控制符2}Enter the ID of the match you want to view and{换行}press the X Button or touch OK to confirm.
+00007483,103,{控制符2}{控制符3}Enter the ID of the match you want to view and{换行}press the X Button or touch OK to confirm.
 
-000074EB,82,{控制符1}{控制符2}Team found. Do you want to play them?{换行}(Points will not be affected.)
-
-00007544,7,{控制符4}
+000074EB,96,{控制符2}{控制符3}Team found. Do you want to play them?{换行}(Points will not be affected.){控制符1}{结束}
 
 0000754C,7,wifi_50
 
-00007554,59,{控制符2}You cannot play against your own team.{控制符3}{控制符4}
+00007554,59,{控制符3}You cannot play against your own team.{控制符4}{结束}
 
 00007590,7,wifi_52
 
@@ -334,15 +314,15 @@
 
 00007658,7,wifi_77
 
-00007660,32,{控制符2}Connecting to internet...
+00007660,32,{控制符3}Connecting to internet...
 
-00007681,36,{控制符2}Retrieving latest rankings...
+00007681,36,{控制符3}Retrieving latest rankings...
 
-000076A6,34,{控制符2}Retrieving match results...
+000076A6,34,{控制符3}Retrieving match results...
 
-000076C9,40,{控制符2}Retrieving tournament rankings...
+000076C9,40,{控制符3}Retrieving tournament rankings...
 
-000076F2,43,{控制符2}Retrieving latest friend rankings...
+000076F2,43,{控制符3}Retrieving latest friend rankings...
 
 0000771E,12,wifierror_05
 
@@ -350,9 +330,9 @@
 
 00007738,12,wifierror_07
 
-00007745,31,{控制符2}Retrieving match info...
+00007745,31,{控制符3}Retrieving match info...
 
-00007765,41,{控制符2}Disconnecting from the internet...
+00007765,41,{控制符3}Disconnecting from the internet...
 
 0000778F,12,wifierror_10
 
@@ -594,29 +574,25 @@
 
 00008822,6,cec_19
 
-00008829,187,{控制符2}You cannot activate StreetPass for any more{换行}titles on this system. Please deactivate{换行}StreetPass for one or more titles under{换行}StreetPass Management in System Settings.{控制符3}{控制符4}
+00008829,187,{控制符3}You cannot activate StreetPass for any more{换行}titles on this system. Please deactivate{换行}StreetPass for one or more titles under{换行}StreetPass Management in System Settings.{控制符4}{结束}
 
-000088E5,271,{控制符2}Activate StreetPass to exchange your team via{换行}StreetPass with other players even when you{换行}are not playing the game. Your team data will{换行}be updated each time you save the game.{控制符3}{换行}{控制符1}{控制符2}Do you want to activate StreetPass using the{换行}team data for {队名1}?
+000088E5,285,{控制符3}Activate StreetPass to exchange your team via{换行}StreetPass with other players even when you{换行}are not playing the game. Your team data will{换行}be updated each time you save the game.{控制符4}{换行}{控制符2}{控制符3}Do you want to activate StreetPass using the{换行}team data for {队名1}?{控制符1}{结束}
 
-000089FB,7,{控制符4}
+00008A03,62,{控制符3}Do you want to deactivate StreetPass for{换行}{队名1}?{待测2}
 
-00008A03,56,{控制符2}Do you want to deactivate StreetPass for{换行}{队名1}?
+00008A42,7,{结束}
 
-00008A42,7,{控制符4}
+00008A4A,162,{控制符3}Do you want to activate SpotPass for this title{换行}to receive notifications (including advertising and{换行}promotions) and other data from Nintendo?{控制符1}{结束}
 
-00008A4A,148,{控制符2}Do you want to activate SpotPass for this title{换行}to receive notifications (including advertising and{换行}promotions) and other data from Nintendo?
+00008AED,145,{控制符3}Are you sure you want to deactivate SpotPass?{换行}You will not be able to receive SpotPass teams{换行}or play matches against them if you do.{待测2}
 
-00008AE5,7,{控制符4}
-
-00008AED,139,{控制符2}Are you sure you want to deactivate SpotPass?{换行}You will not be able to receive SpotPass teams{换行}or play matches against them if you do.
-
-00008B7F,7,{控制符4}
+00008B7F,7,{结束}
 
 00008B87,6,cec_25
 
-00008B8E,101,{控制符2}<DEBUG> Team data is saved to SD card.{换行}(Address: {数字1}+{数字3}, size: {数字4}){控制符3}{控制符4}
+00008B8E,101,{控制符3}<DEBUG> Team data is saved to SD card.{换行}(Address: {数字1}+{数字3}, size: {数字4}){控制符4}{结束}
 
-00008BF4,65,{控制符2}<DEBUG> Could not save team data to SD card.{控制符3}{控制符4}
+00008BF4,65,{控制符3}<DEBUG> Could not save team data to SD card.{控制符4}{结束}
 
 00008C36,6,cec_28
 
@@ -624,15 +600,15 @@
 
 00008C44,6,cec_30
 
-00008C4B,55,{控制符2}StreetPass could not be activated.{控制符3}{控制符4}
+00008C4B,55,{控制符3}StreetPass could not be activated.{控制符4}{结束}
 
-00008C83,128,{控制符2}To activate StreetPass you must agree to the{换行}latest Nintendo 3DS Service User Agreement{换行}and Privacy Policy.{控制符3}{控制符4}
+00008C83,128,{控制符3}To activate StreetPass you must agree to the{换行}latest Nintendo 3DS Service User Agreement{换行}and Privacy Policy.{控制符4}{结束}
 
-00008D04,62,{控制符2}<DEBUG>The address filter has been reset.{控制符3}{控制符4}
+00008D04,62,{控制符3}<DEBUG>The address filter has been reset.{控制符4}{结束}
 
-00008D43,254,{控制符2}<DEBUG> Could not reset the address filter.{换行}{控制符2}This function cannot be used unless it has been{换行}specified in debug mode.{控制符3}{换行}{控制符1}{控制符2}Please return to the HOME Menu and boot{换行}CONFIG. Select OtherSetting->DebugMode->{换行}enable.{控制符3}{控制符4}
+00008D43,254,{控制符3}<DEBUG> Could not reset the address filter.{换行}{控制符3}This function cannot be used unless it has been{换行}specified in debug mode.{控制符4}{换行}{控制符2}{控制符3}Please return to the HOME Menu and boot{换行}CONFIG. Select OtherSetting->DebugMode->{换行}enable.{控制符4}{结束}
 
-00008E42,56,{控制符2}Retrieving latest StreetPass data.{换行}Please wait...
+00008E42,56,{控制符3}Retrieving latest StreetPass data.{换行}Please wait...
 
 00008E7B,6,cec_36
 
@@ -640,15 +616,15 @@
 
 00008E89,6,cec_38
 
-00008E90,49,{控制符2}SpotPass has been activated.{控制符3}{控制符4}
+00008E90,49,{控制符3}SpotPass has been activated.{控制符4}{结束}
 
-00008EC2,51,{控制符2}SpotPass has been deactivated.{控制符3}{控制符4}
+00008EC2,51,{控制符3}SpotPass has been deactivated.{控制符4}{结束}
 
-00008EF6,152,{控制符2}You need at least 7 players in order for{换行}StreetPass to work. Gather some more players,{换行}save the game, then come back and try again.{控制符3}{控制符4}
+00008EF6,152,{控制符3}You need at least 7 players in order for{换行}StreetPass to work. Gather some more players,{换行}save the game, then come back and try again.{控制符4}{结束}
 
-00008F8F,51,{控制符2}StreetPass has been activated.{控制符3}{控制符4}
+00008F8F,51,{控制符3}StreetPass has been activated.{控制符4}{结束}
 
-00008FC3,153,{控制符1}{控制符2}You've received {数字1} {数字8} for friendlies or{换行}practice matches. You can accept these offers{换行}on weeks without an official match to play.
+00008FC3,153,{控制符2}{控制符3}You've received {数字1} {数字8} for friendlies or{换行}practice matches. You can accept these offers{换行}on weeks without an official match to play.
 
 0000905D,38,[DEBUG]{换行}(You rejected {数字3} offers.)
 
@@ -656,31 +632,31 @@
 
 000090C0,93,StreetPass setting was cancelled{换行}because StreetPass has been{换行}restricted by Parental Controls.
 
-0000911E,165,{控制符2}You cannot use StreetPass as you haven't{换行}specified a goalkeeper for your team.{换行}Set a goalkeeper for your team in the Squad{换行}screen and try again.{控制符3}{控制符4}
+0000911E,165,{控制符3}You cannot use StreetPass as you haven't{换行}specified a goalkeeper for your team.{换行}Set a goalkeeper for your team in the Squad{换行}screen and try again.{控制符4}{结束}
 
-000091C4,72,{控制符2}Updating opponent team...{换行}Do not turn off the power. Please wait.
+000091C4,72,{控制符3}Updating opponent team...{换行}Do not turn off the power. Please wait.
 
-0000920D,180,{控制符2}You received a SpotPass team:{换行}{数字8}!{控制符3}{换行}{控制符1}{控制符2}You can play friendlies against this team in the{换行}{控制符2}Stadium on weeks without an official match.{控制符3}{控制符4}
+0000920D,180,{控制符3}You received a SpotPass team:{换行}{数字8}!{控制符4}{换行}{控制符2}{控制符3}You can play friendlies against this team in the{换行}{控制符3}Stadium on weeks without an official match.{控制符4}{结束}
 
-000092C2,180,{控制符2}You received a SpotPass team:{换行}{数字8}!{控制符3}{换行}{控制符1}{控制符2}You can play friendlies against this team in the{换行}{控制符2}Stadium on weeks without an official match.{控制符3}{控制符4}
+000092C2,180,{控制符3}You received a SpotPass team:{换行}{数字8}!{控制符4}{换行}{控制符2}{控制符3}You can play friendlies against this team in the{换行}{控制符3}Stadium on weeks without an official match.{控制符4}{结束}
 
-00009377,51,{控制符2}The download task was deleted.{控制符3}{控制符4}
+00009377,51,{控制符3}The download task was deleted.{控制符4}{结束}
 
-000093AB,60,{控制符2}The download task has been added again.{控制符3}{控制符4}
+000093AB,60,{控制符3}The download task has been added again.{控制符4}{结束}
 
-000093E8,460,Let me give you a quick introduction to{换行}{队名1}'s home town.{控制符3}{换行}{控制符1}You'll need to visit these buildings in town{换行}to go about your various jobs as manager.{控制符3}{换行}{控制符1}Matches take place at the Stadium. On weeks{换行}without an official match, you can have a{换行}practice match or a friendly there too.{控制符3}{换行}{控制符1}Your first challenge is easy, a practice match{换行}against a slightly higher level team. I think you{换行}should be able to cope with that.{控制符3}{控制符4}
+000093E8,460,Let me give you a quick introduction to{换行}{队名1}'s home town.{控制符4}{换行}{控制符2}You'll need to visit these buildings in town{换行}to go about your various jobs as manager.{控制符4}{换行}{控制符2}Matches take place at the Stadium. On weeks{换行}without an official match, you can have a{换行}practice match or a friendly there too.{控制符4}{换行}{控制符2}Your first challenge is easy, a practice match{换行}against a slightly higher level team. I think you{换行}should be able to cope with that.{控制符4}{结束}
 
-000095B5,445,I see you've found some training cards. You{换行}should go to the Team Camp and use them to{换行}train up your players.{控制符3}{换行}{控制符1}The match is over, so we're now in week two.{换行}You can have a match in the Stadium or, if you'd{换行}rather not play a match, just select Next Week to{换行}move on to the following week.{控制符3}{换行}{控制符1}If you want to stop playing, make sure you save{换行}your progress using the Clock Tower in the{换行}middle of the Touch Screen.{控制符3}{控制符4}
+000095B5,445,I see you've found some training cards. You{换行}should go to the Team Camp and use them to{换行}train up your players.{控制符4}{换行}{控制符2}The match is over, so we're now in week two.{换行}You can have a match in the Stadium or, if you'd{换行}rather not play a match, just select Next Week to{换行}move on to the following week.{控制符4}{换行}{控制符2}If you want to stop playing, make sure you save{换行}your progress using the Clock Tower in the{换行}middle of the Touch Screen.{控制符4}{结束}
 
-00009773,430,Oh, and before I rush off I should tell you that{换行}if you ever get stuck, I've prepared some{换行}Manager's Notes to help you out.{控制符3}{换行}{控制符1}Whenever you need to check something, just{换行}touch one of the ? icons, which you'll see in{换行}several different screens, to open up the notes.{控制符3}{换行}{控制符1}OK! I hope you'll be able to settle in quickly and{换行}get to work building a successful football team!{换行}Now, I really must dash...{控制符3}{控制符4}
+00009773,430,Oh, and before I rush off I should tell you that{换行}if you ever get stuck, I've prepared some{换行}Manager's Notes to help you out.{控制符4}{换行}{控制符2}Whenever you need to check something, just{换行}touch one of the ? icons, which you'll see in{换行}several different screens, to open up the notes.{控制符4}{换行}{控制符2}OK! I hope you'll be able to settle in quickly and{换行}get to work building a successful football team!{换行}Now, I really must dash...{控制符4}{结束}
 
-00009922,80,{控制符2}When you're ready, select Second Half{换行}to restart the match.{控制符3}{控制符4}
+00009922,80,{控制符3}When you're ready, select Second Half{换行}to restart the match.{控制符4}{结束}
 
-00009973,202,The players will get on with their own personal{换行}training each week, even if you don't specifically{换行}direct them to do so. This results in a gradual{换行}improvement in their abilities over time.{控制符3}{控制符4}
+00009973,202,The players will get on with their own personal{换行}training each week, even if you don't specifically{换行}direct them to do so. This results in a gradual{换行}improvement in their abilities over time.{控制符4}{结束}
 
-00009A3E,467,The season's getting started, so I'd like to{换行}remind you to keep an eye on the condition of{换行}your players. They'll get fatigued as they train{换行}and take part in matches.{控制符3}{换行}{控制符1}How fatigued they become depends on what{换行}happens during matches, what kind of training{换行}you set for them and each player's toughness{换行}level.{控制符3}{换行}{控制符1}The more fatigued a player becomes, the more{换行}likely he is to get injured, so keep an eye on{换行}your players' fatigue icons.{控制符3}{控制符4}
+00009A3E,467,The season's getting started, so I'd like to{换行}remind you to keep an eye on the condition of{换行}your players. They'll get fatigued as they train{换行}and take part in matches.{控制符4}{换行}{控制符2}How fatigued they become depends on what{换行}happens during matches, what kind of training{换行}you set for them and each player's toughness{换行}level.{控制符4}{换行}{控制符2}The more fatigued a player becomes, the more{换行}likely he is to get injured, so keep an eye on{换行}your players' fatigue icons.{控制符4}{结束}
 
-00009C12,172,Just to remind you, boss, the transfer deadline is{换行}looming. If you want to make any offers for{换行}players, make sure you get them in before{换行}the end of the month!{控制符3}{控制符4}
+00009C12,172,Just to remind you, boss, the transfer deadline is{换行}looming. If you want to make any offers for{换行}players, make sure you get them in before{换行}the end of the month!{控制符4}{结束}
 
 00009CBF,11,tutorial_07
 
@@ -688,7 +664,7 @@
 
 00009CD7,11,tutorial_09
 
-00009CE3,772,OK, boss. This is your first match. Don't worry,{换行}I'm here to fill you in on what you can do during{换行}the match as manager.{控制符3}{换行}{控制符1}Today we'll be playing a practice match.{换行}A practice match is only one half long. In other{换行}words it only lasts 45 minutes.{控制符3}{换行}{控制符1}Before a match, you can make various changes{换行}to your team using the Squad and Team Tactics{换行}options.{控制符3}{换行}{控制符1}During a match, you can make substitutions and{换行}change player positions. In official matches and{换行}friendlies, you can make up to 3 substitutions.{控制符3}{换行}{控制符1}For more details about what you can do here,{换行}touch the ? icon to open the Manager's Notes{换行}that our secretary's prepared for you.{控制符3}{换行}{控制符1}Choose wisely and lead your team to victory!{换行}I know you can do it, boss!{控制符3}{控制符4}
+00009CE3,772,OK, boss. This is your first match. Don't worry,{换行}I'm here to fill you in on what you can do during{换行}the match as manager.{控制符4}{换行}{控制符2}Today we'll be playing a practice match.{换行}A practice match is only one half long. In other{换行}words it only lasts 45 minutes.{控制符4}{换行}{控制符2}Before a match, you can make various changes{换行}to your team using the Squad and Team Tactics{换行}options.{控制符4}{换行}{控制符2}During a match, you can make substitutions and{换行}change player positions. In official matches and{换行}friendlies, you can make up to 3 substitutions.{控制符4}{换行}{控制符2}For more details about what you can do here,{换行}touch the ? icon to open the Manager's Notes{换行}that our secretary's prepared for you.{控制符4}{换行}{控制符2}Choose wisely and lead your team to victory!{换行}I know you can do it, boss!{控制符4}{结束}
 
 00009FE8,11,tutorial_11
 
@@ -696,17 +672,17 @@
 
 0000A000,11,tutorial_13
 
-0000A00C,561,Here we are at the Team Camp, boss. As you{换行}can see, the players are out training on the{换行}practice ground.{控制符3}{换行}{控制符1}Come here at any time to strengthen your team{换行}by using the training cards you find during a{换行}match, or by adjusting your squad and tactics.{控制符3}{换行}{控制符1}Select a player from the Player Data screen{换行}to set some training for him.{控制符3}{换行}{控制符1}Any videos you save of a game can be viewed{换行}here for you to analyse.{控制符3}{换行}{控制符1}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符3}{控制符4}
+0000A00C,561,Here we are at the Team Camp, boss. As you{换行}can see, the players are out training on the{换行}practice ground.{控制符4}{换行}{控制符2}Come here at any time to strengthen your team{换行}by using the training cards you find during a{换行}match, or by adjusting your squad and tactics.{控制符4}{换行}{控制符2}Select a player from the Player Data screen{换行}to set some training for him.{控制符4}{换行}{控制符2}Any videos you save of a game can be viewed{换行}here for you to analyse.{控制符4}{换行}{控制符2}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符4}{结束}
 
-0000A23E,211,This is the Video Library. You can watch any{换行}videos of games and goals you've recorded.{控制符3}{换行}{控制符1}You can also watch videos of Ranking Matches,{换行}by searching for them using the relevant{换行}game ID.{控制符3}{控制符4}
+0000A23E,211,This is the Video Library. You can watch any{换行}videos of games and goals you've recorded.{控制符4}{换行}{控制符2}You can also watch videos of Ranking Matches,{换行}by searching for them using the relevant{换行}game ID.{控制符4}{结束}
 
 0000A312,27,Welcome to my world, {玩家名}
 
 0000A32E,54,!{换行}I'm in here all hours trying to take care of things.
 
-0000A372,731,{换行}This is the Club Office, and all of the{换行}general running of the club takes place here.{控制符3}{换行}{控制符1}You can take care of all team management{换行}tasks, such as finding and dismissing players,{换行}adjusting player positions and so on.{控制符3}{换行}{控制符1}Also, you can adjust the club name, kit{换行}and emblem here.{控制符3}{换行}{控制符1}Your manager backing rate shows how much{换行}support you have from the fans.{控制符3}{换行}{控制符1}The rate increases and decreases based on your{换行}results in official matches and friendlies.{控制符3}{换行}{控制符1}Careful! If your backing rate gets too low, you{换行}may get the sack. Don't say I didn't warn you!{控制符3}{换行}{控制符1}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符3}{控制符4}
+0000A372,731,{换行}This is the Club Office, and all of the{换行}general running of the club takes place here.{控制符4}{换行}{控制符2}You can take care of all team management{换行}tasks, such as finding and dismissing players,{换行}adjusting player positions and so on.{控制符4}{换行}{控制符2}Also, you can adjust the club name, kit{换行}and emblem here.{控制符4}{换行}{控制符2}Your manager backing rate shows how much{换行}support you have from the fans.{控制符4}{换行}{控制符2}The rate increases and decreases based on your{换行}results in official matches and friendlies.{控制符4}{换行}{控制符2}Careful! If your backing rate gets too low, you{换行}may get the sack. Don't say I didn't warn you!{控制符4}{换行}{控制符2}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符4}{结束}
 
-0000A64E,556,Hello, boss! Since this is your first visit to the{换行}Federation, let me give you some advice. You{换行}can see the fixtures and results for league and{换行}cup matches, as well as various other info.{控制符3}{换行}{控制符1}For example, you can see the goal and assist{换行}rankings, your manager backing rate and{换行}information about other teams.{控制符3}{换行}{控制符1}Keep your voice down though... It's best not{换行}to ruffle the feathers of the bigwigs in here!{控制符3}{换行}{控制符1}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符3}{控制符4}
+0000A64E,556,Hello, boss! Since this is your first visit to the{换行}Federation, let me give you some advice. You{换行}can see the fixtures and results for league and{换行}cup matches, as well as various other info.{控制符4}{换行}{控制符2}For example, you can see the goal and assist{换行}rankings, your manager backing rate and{换行}information about other teams.{控制符4}{换行}{控制符2}Keep your voice down though... It's best not{换行}to ruffle the feathers of the bigwigs in here!{控制符4}{换行}{控制符2}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符4}{结束}
 
 0000A87B,11,tutorial_18
 
@@ -714,143 +690,137 @@
 
 0000A893,17,Ah, sorry, {玩家名}
 
-0000A8A5,114,, I still haven't{换行}explained how to train the players, have I?{控制符3}{换行}{控制符2}Would you like to hear an explanation?
+0000A8A5,121,, I still haven't{换行}explained how to train the players, have I?{控制符4}{换行}{控制符3}Would you like to hear an explanation?{控制符1}
 
-0000A91F,200,{控制符1}To train your players, you need to use the{换行}training cards you find during a match.{控制符3}{换行}{控制符1}The players' abilities will increase according to{换行}the type of training you choose.{控制符3}{控制符1}
+0000A91F,200,{控制符2}To train your players, you need to use the{换行}training cards you find during a match.{控制符4}{换行}{控制符2}The players' abilities will increase according to{换行}the type of training you choose.{控制符4}{控制符2}
 
-0000A9E8,316,Each time you set training for a player, you can{换行}use up to three training cards at once.{控制符3}{换行}{控制符1}By combining different training cards, you may{换行}discover special combos.{控制符3}{换行}{控制符1}Experiment with different combinations and see{换行}which special combos you can find!{换行}There you go! Job's a good 'un!{控制符3}{控制符1}
+0000A9E8,316,Each time you set training for a player, you can{换行}use up to three training cards at once.{控制符4}{换行}{控制符2}By combining different training cards, you may{换行}discover special combos.{控制符4}{换行}{控制符2}Experiment with different combinations and see{换行}which special combos you can find!{换行}There you go! Job's a good 'un!{控制符4}{控制符2}
 
 0000AB25,11,tutorial_23
 
-0000AB31,901,Boss! What are you doing here? You don't have{换行}any business trips scheduled, that's for sure!{换行}While you're here, let me explain what you{换行}can do in the Airport.{控制符3}{换行}{控制符1}Here you can connect to the internet to take part{换行}in ranking matches against teams from all over{换行}Europe.{控制符3}{换行}{控制符1}You can play local wireless matches here, and{换行}adjust settings for StreetPass and SpotPass.{控制符3}{换行}{控制符1}Activate StreetPass to be able to play against{换行}any teams you may receive via StreetPass, and{换行}activate SpotPass to receive SpotPass teams.{控制符3}{换行}{控制符1}Both kinds of match can be played from the{换行}Stadium, so go there to see which teams are{换行}available for you to play against.{控制符3}{换行}{控制符1}Now I must dash, I have an important meeting{换行}to attend and I don't want to be late!{控制符3}{换行}{控制符1}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符3}{控制符4}
+0000AB31,901,Boss! What are you doing here? You don't have{换行}any business trips scheduled, that's for sure!{换行}While you're here, let me explain what you{换行}can do in the Airport.{控制符4}{换行}{控制符2}Here you can connect to the internet to take part{换行}in ranking matches against teams from all over{换行}Europe.{控制符4}{换行}{控制符2}You can play local wireless matches here, and{换行}adjust settings for StreetPass and SpotPass.{控制符4}{换行}{控制符2}Activate StreetPass to be able to play against{换行}any teams you may receive via StreetPass, and{换行}activate SpotPass to receive SpotPass teams.{控制符4}{换行}{控制符2}Both kinds of match can be played from the{换行}Stadium, so go there to see which teams are{换行}available for you to play against.{控制符4}{换行}{控制符2}Now I must dash, I have an important meeting{换行}to attend and I don't want to be late!{控制符4}{换行}{控制符2}Don't forget, for more details about what you{换行}can do here, touch the ? icon to open the{换行}Manager's Notes.{控制符4}{结束}
 
-0000AEB7,116,This is the bench. If you need to{换行}make a substitution or change the{换行}formation, just let me know, boss.{控制符3}{控制符4}
+0000AEB7,116,This is the bench. If you need to{换行}make a substitution or change the{换行}formation, just let me know, boss.{控制符4}{结束}
 
-0000AF2C,165,Boss, I expect you'll be wanting to get the{换行}players to do some training. Let's head over to{换行}the Team Camp now so that I can fill you in on{换行}the details.{控制符3}{控制符4}
+0000AF2C,165,Boss, I expect you'll be wanting to get the{换行}players to do some training. Let's head over to{换行}the Team Camp now so that I can fill you in on{换行}the details.{控制符4}{结束}
 
-0000AFD2,298,Go to the Stadium to have friendlies or practice{换行}matches. Remember that playing matches will{换行}earn you training cards.{控制符3}{换行}{控制符1}You should play lots of matches to make your{换行}team as strong as possible. Are you sure you{换行}want to skip having a match this week and move{换行}directly on to the next week?
+0000AFD2,304,Go to the Stadium to have friendlies or practice{换行}matches. Remember that playing matches will{换行}earn you training cards.{控制符4}{换行}{控制符2}You should play lots of matches to make your{换行}team as strong as possible. Are you sure you{换行}want to skip having a match this week and move{换行}directly on to the next week?{待测2}
 
-0000B103,7,{控制符4}
+0000B103,7,{结束}
 
-0000B10B,306,Ah, boss! Just thought I'd let you know that the{换行}fixtures schedule for this season has been{换行}announced at last.{控制符3}{换行}{控制符1}You can take a look at the schedule in the{换行}Federation, but try to concentrate on winning{换行}your first few matches before you start worrying{换行}about the rest of the season.{控制符3}{控制符4}
+0000B10B,306,Ah, boss! Just thought I'd let you know that the{换行}fixtures schedule for this season has been{换行}announced at last.{控制符4}{换行}{控制符2}You can take a look at the schedule in the{换行}Federation, but try to concentrate on winning{换行}your first few matches before you start worrying{换行}about the rest of the season.{控制符4}{结束}
 
-0000B23E,187,As manager, it's up to you to let the players{换行}know what kind of football you envisage them{换行}playing. In the Team Camp, use the Team{换行}Tactics option to put them in the picture.{控制符3}{控制符4}
+0000B23E,187,As manager, it's up to you to let the players{换行}know what kind of football you envisage them{换行}playing. In the Team Camp, use the Team{换行}Tactics option to put them in the picture.{控制符4}{结束}
 
-0000B2FA,228,Boss, you know that you've got some unused{换行}funds left in the budget, don't you? Why not{换行}use them to further strengthen the team?{控制符3}{换行}{控制符1}If you want to, you can make offers for new{换行}players in the Club Office.{控制符3}{控制符4}
+0000B2FA,228,Boss, you know that you've got some unused{换行}funds left in the budget, don't you? Why not{换行}use them to further strengthen the team?{控制符4}{换行}{控制符2}If you want to, you can make offers for new{换行}players in the Club Office.{控制符4}{结束}
 
-0000B3DF,272,It'll soon be time for the first game of the{换行}season. This will be your first real test at the{换行}club. Whatever the result, I'm sure it'll be{换行}a memorable game for you!{控制符3}{换行}{控制符1}Once you've made all your preparations, head{换行}over to the Stadium for the match.{控制符3}{控制符4}
+0000B3DF,272,It'll soon be time for the first game of the{换行}season. This will be your first real test at the{换行}club. Whatever the result, I'm sure it'll be{换行}a memorable game for you!{控制符4}{换行}{控制符2}Once you've made all your preparations, head{换行}over to the Stadium for the match.{控制符4}{结束}
 
-0000B4F0,325,In a practice match, how you play is much more{换行}important than the result. In friendlies, on the{换行}other hand, the fans are present, so you need to{换行}take more care over the result.{控制符3}{换行}{控制符1}If you manage to beat a stronger team, you'll{换行}make the fans happy, which will in turn give{换行}a boost to your backing rate.{控制符3}{控制符4}
+0000B4F0,325,In a practice match, how you play is much more{换行}important than the result. In friendlies, on the{换行}other hand, the fans are present, so you need to{换行}take more care over the result.{控制符4}{换行}{控制符2}If you manage to beat a stronger team, you'll{换行}make the fans happy, which will in turn give{换行}a boost to your backing rate.{控制符4}{结束}
 
-0000B636,201,A player selected for the All Star team gets the{换行}chance to learn from other top players. Playing{换行}in such a big game should also give him a big{换行}boost and really broaden his playing skills.{控制符3}{控制符4}
+0000B636,201,A player selected for the All Star team gets the{换行}chance to learn from other top players. Playing{换行}in such a big game should also give him a big{换行}boost and really broaden his playing skills.{控制符4}{结束}
 
-0000B700,249,Boss, we've had some match offers. If you want{换行}to find some more training cards, it might be an{换行}idea to accept some of them.{控制符3}{换行}{控制符1}Remember a practice match only lasts{换行}45 minutes, while a friendly match lasts a full{换行}90 minutes.{控制符3}{控制符4}
+0000B700,249,Boss, we've had some match offers. If you want{换行}to find some more training cards, it might be an{换行}idea to accept some of them.{控制符4}{换行}{控制符2}Remember a practice match only lasts{换行}45 minutes, while a friendly match lasts a full{换行}90 minutes.{控制符4}{结束}
 
-0000B7FA,285,You'll find different training cards depending on{换行}your opponents' capabilities and the situations{换行}that occur during the match.{控制符3}{换行}{控制符1}It's better to accept friendly and practice match{换行}offers from stronger clubs higher up in the{换行}league if you want to make progress.{控制符3}{控制符4}
+0000B7FA,285,You'll find different training cards depending on{换行}your opponents' capabilities and the situations{换行}that occur during the match.{控制符4}{换行}{控制符2}It's better to accept friendly and practice match{换行}offers from stronger clubs higher up in the{换行}league if you want to make progress.{控制符4}{结束}
 
-0000B918,177,Players with low stamina can't keep running for{换行}the full duration of a match. When you see one{换行}get tired, you'd be better off substituting him{换行}with another player.{控制符3}{控制符4}
+0000B918,177,Players with low stamina can't keep running for{换行}the full duration of a match. When you see one{换行}get tired, you'd be better off substituting him{换行}with another player.{控制符4}{结束}
 
-0000B9CA,302,Focused training teams are now available to{换行}purchase!{控制符3} Play against these teams to be{换行}rewarded with sets of training cards that can{换行}be used together to create special combos.{控制符3}{换行}{控制符1}The sets you get from playing against the{换行}challenge teams depend on the outcome of{换行}the match.{控制符3}{控制符4}
+0000B9CA,302,Focused training teams are now available to{换行}purchase!{控制符4} Play against these teams to be{换行}rewarded with sets of training cards that can{换行}be used together to create special combos.{控制符4}{换行}{控制符2}The sets you get from playing against the{换行}challenge teams depend on the outcome of{换行}the match.{控制符4}{结束}
 
-0000BAF9,254,In the Squad menu, you can make changes to{换行}your starting line-up and adjust each player's{换行}position.{控制符3}{换行}{控制符1}The Formations option lets you change the{换行}team's formation. There are some example{换行}formations already in there for you to use.{控制符3}{控制符4}
+0000BAF9,254,In the Squad menu, you can make changes to{换行}your starting line-up and adjust each player's{换行}position.{控制符4}{换行}{控制符2}The Formations option lets you change the{换行}team's formation. There are some example{换行}formations already in there for you to use.{控制符4}{结束}
 
-0000BBF8,288,In the Team Tactics menu, you can make{换行}changes to the zone, change the team's{换行}emphasis between attack and defence, and{换行}select opposition players for your team to mark.{控制符3}{换行}{控制符1}You can also make changes to these options{换行}at half-time or whenever you make a{换行}substitution.{控制符3}{控制符4}
+0000BBF8,288,In the Team Tactics menu, you can make{换行}changes to the zone, change the team's{换行}emphasis between attack and defence, and{换行}select opposition players for your team to mark.{控制符4}{换行}{控制符2}You can also make changes to these options{换行}at half-time or whenever you make a{换行}substitution.{控制符4}{结束}
 
-0000BD19,640,Let me give you a bit more information about{换行}what you can do in this menu, boss.{控制符3}{换行}{控制符1}The zone's important as it marks out your team's{换行}play area. If it's further up the pitch, your players{换行}will stand a better chance of scoring, but you'll{换行}also find that you concede more goals too.{控制符3}{换行}{控制符1}That's why, at first, your zone's set up not too{换行}far away from your own goal line - to give your{换行}team a bit more defensive solidity.{控制符3}{换行}{控制符1}It's also important to think about your team's{换行}attacking and defensive balance. It's wise{换行}to assign which of your opponent's players{换行}you want your team to keep an eye on too.{控制符3}{控制符4}
+0000BD19,640,Let me give you a bit more information about{换行}what you can do in this menu, boss.{控制符4}{换行}{控制符2}The zone's important as it marks out your team's{换行}play area. If it's further up the pitch, your players{换行}will stand a better chance of scoring, but you'll{换行}also find that you concede more goals too.{控制符4}{换行}{控制符2}That's why, at first, your zone's set up not too{换行}far away from your own goal line - to give your{换行}team a bit more defensive solidity.{控制符4}{换行}{控制符2}It's also important to think about your team's{换行}attacking and defensive balance. It's wise{换行}to assign which of your opponent's players{换行}you want your team to keep an eye on too.{控制符4}{结束}
 
-0000BF9A,252,You can keep hold of the training cards you find{换行}in a match. You don't have to use them right{换行}away.{控制符3}{换行}{控制符1}Sometimes it's better to save them up before{换行}you try to use them. That way you stand more{换行}chance of finding a special combo.{控制符3}{控制符4}
+0000BF9A,252,You can keep hold of the training cards you find{换行}in a match. You don't have to use them right{换行}away.{控制符4}{换行}{控制符2}Sometimes it's better to save them up before{换行}you try to use them. That way you stand more{换行}chance of finding a special combo.{控制符4}{结束}
 
-0000C097,271,In the Team Tactics menu you find in the Team{换行}Camp, you can set the general tactics you want{换行}the team to use in each game.{控制符3}{换行}{控制符1}Once you enter the Stadium, you can use the{换行}same menu there to make tactical adjustments{换行}for that particular match only.{控制符3}{控制符4}
+0000C097,271,In the Team Tactics menu you find in the Team{换行}Camp, you can set the general tactics you want{换行}the team to use in each game.{控制符4}{换行}{控制符2}Once you enter the Stadium, you can use the{换行}same menu there to make tactical adjustments{换行}for that particular match only.{控制符4}{结束}
 
-0000C1A7,301,Different players reach their peak potential at{换行}different stages of their careers.{控制符3}{换行}{控制符1}Players who have passed their peak will{换行}gradually start to lose their potential making it{换行}difficult for them to improve their abilities. Bear{换行}this in mind when training your veteran players.{控制符3}{控制符4}
+0000C1A7,301,Different players reach their peak potential at{换行}different stages of their careers.{控制符4}{换行}{控制符2}Players who have passed their peak will{换行}gradually start to lose their potential making it{换行}difficult for them to improve their abilities. Bear{换行}this in mind when training your veteran players.{控制符4}{结束}
 
-0000C2D5,142,Teamwork is improved by playing matches.{换行}Play lots of matches to instil a sense of team{换行}spirit and togetherness in your players.{控制符3}{控制符4}
+0000C2D5,142,Teamwork is improved by playing matches.{换行}Play lots of matches to instil a sense of team{换行}spirit and togetherness in your players.{控制符4}{结束}
 
-0000C364,315,The zone setting in Team Tactics is important{换行}as it marks out your team's play area.{控制符3}{换行}{控制符1}If it's short, you'll find that it's easier to make{换行}and intercept passes, but your players will get{换行}tired much quicker.{控制符3}{换行}{控制符1}Remember to consider your players' stamina{换行}when setting up the zone.{控制符3}{控制符4}
+0000C364,315,The zone setting in Team Tactics is important{换行}as it marks out your team's play area.{控制符4}{换行}{控制符2}If it's short, you'll find that it's easier to make{换行}and intercept passes, but your players will get{换行}tired much quicker.{控制符4}{换行}{控制符2}Remember to consider your players' stamina{换行}when setting up the zone.{控制符4}{结束}
 
-0000C4A0,201,As you play in more and more league matches,{换行}your players will get fatigued and are more likely{换行}to get injured in practice or in matches. Make{换行}sure you train up other players as reserves.{控制符3}{控制符4}
+0000C4A0,201,As you play in more and more league matches,{换行}your players will get fatigued and are more likely{换行}to get injured in practice or in matches. Make{换行}sure you train up other players as reserves.{控制符4}{结束}
 
-0000C56A,206,Sometimes you'll find that your players aren't{换行}working as a team and aren't attacking. In such{换行}cases, it's worth trying new attacking options to{换行}inject some fresh impetus into the team's play.{控制符3}{控制符4}
+0000C56A,206,Sometimes you'll find that your players aren't{换行}working as a team and aren't attacking. In such{换行}cases, it's worth trying new attacking options to{换行}inject some fresh impetus into the team's play.{控制符4}{结束}
 
-0000C639,227,Boss, when you're playing against stronger{换行}teams, try setting the zone in Team Tactics to{换行}be more defensive.{控制符3}{换行}{控制符1}Also, you can try making the zone more{换行}compact so it's easier to make your passes{换行}connect.{控制符3}{控制符4}
+0000C639,227,Boss, when you're playing against stronger{换行}teams, try setting the zone in Team Tactics to{换行}be more defensive.{控制符4}{换行}{控制符2}Also, you can try making the zone more{换行}compact so it's easier to make your passes{换行}connect.{控制符4}{结束}
 
-0000C71D,148,If you keep losing your official matches, why not{换行}try playing a practice match or a friendly to{换行}give your players' confidence a boost!{控制符3}{控制符4}
+0000C71D,148,If you keep losing your official matches, why not{换行}try playing a practice match or a friendly to{换行}give your players' confidence a boost!{控制符4}{结束}
 
-0000C7B2,149,Select a player and press the A Button to bring{换行}up the menu.{换行}From that menu, select the Train option to{换行}assign training to that player.{控制符3}{控制符4}
+0000C7B2,149,Select a player and press the A Button to bring{换行}up the menu.{换行}From that menu, select the Train option to{换行}assign training to that player.{控制符4}{结束}
 
-0000C848,193,Each player's potential peaks at different times.{换行}As manager it's your job to keep an eye on this.{换行}Get the most out of your players by training{换行}them while their potential is high.{控制符3}{控制符4}
+0000C848,193,Each player's potential peaks at different times.{换行}As manager it's your job to keep an eye on this.{换行}Get the most out of your players by training{换行}them while their potential is high.{控制符4}{结束}
 
-0000C90A,375,Players become fatigued through training and{换行}playing matches. The more a player's fatigue{换行}level builds up, the more likely he is to pick up{换行}an injury, whether in training or during a match.{控制符3}{换行}{控制符1}Be sure to give your players adequate rest{换行}when they become fatigued.{换行}Improving your players' stamina and toughness{换行}will help stave off the onset of fatigue.{控制符3}{控制符4}
+0000C90A,375,Players become fatigued through training and{换行}playing matches. The more a player's fatigue{换行}level builds up, the more likely he is to pick up{换行}an injury, whether in training or during a match.{控制符4}{换行}{控制符2}Be sure to give your players adequate rest{换行}when they become fatigued.{换行}Improving your players' stamina and toughness{换行}will help stave off the onset of fatigue.{控制符4}{结束}
 
-0000CA82,229,Boss, you need to consider each player's{换行}position when choosing what training to give{换行}him.{控制符3}{换行}{控制符1}For example, improving your goalkeeper's{换行}jumping ability will help him when dealing with{换行}high balls and shots.{控制符3}{控制符4}
+0000CA82,229,Boss, you need to consider each player's{换行}position when choosing what training to give{换行}him.{控制符4}{换行}{控制符2}For example, improving your goalkeeper's{换行}jumping ability will help him when dealing with{换行}high balls and shots.{控制符4}{结束}
 
-0000CB68,272,Training will affect not just a player's abilities,{换行}but also his movement and positional sense.{控制符3}{换行}{控制符1}Tailor your training depending on each player's{换行}role in the team. For example, "Line Control" is{换行}a good training card to give to a defensive{换行}player.{控制符3}{控制符4}
+0000CB68,272,Training will affect not just a player's abilities,{换行}but also his movement and positional sense.{控制符4}{换行}{控制符2}Tailor your training depending on each player's{换行}role in the team. For example, "Line Control" is{换行}a good training card to give to a defensive{换行}player.{控制符4}{结束}
 
-0000CC79,187,A player with low willpower might not perform{换行}to the best of his ability in away matches.{换行}Bear in mind whether it's a home or away{换行}match when selecting your starting eleven.{控制符3}{控制符4}
+0000CC79,187,A player with low willpower might not perform{换行}to the best of his ability in away matches.{换行}Bear in mind whether it's a home or away{换行}match when selecting your starting eleven.{控制符4}{结束}
 
-0000CD35,128,Some special combos will give your player a{换行}new skill or goal celebration that he can then{换行}perform during matches.{控制符3}{控制符4}
+0000CD35,128,Some special combos will give your player a{换行}new skill or goal celebration that he can then{换行}perform during matches.{控制符4}{结束}
 
-0000CDB6,154,Players have various different abilities, such as{换行}kicking, stamina and others.{换行}Different types of training will improve{换行}different abilities.{控制符3}{控制符4}
+0000CDB6,154,Players have various different abilities, such as{换行}kicking, stamina and others.{换行}Different types of training will improve{换行}different abilities.{控制符4}{结束}
 
-0000CE51,259,Use the training cards you find during matches{换行}to boost your players' abilities. Try to boost the{换行}abilities most relevant to that player's position.{控制符3}{换行}{控制符1}Abilities are ranked from E to S, with E being{换行}the lowest level and S the highest.{控制符3}{控制符4}
+0000CE51,259,Use the training cards you find during matches{换行}to boost your players' abilities. Try to boost the{换行}abilities most relevant to that player's position.{控制符4}{换行}{控制符2}Abilities are ranked from E to S, with E being{换行}the lowest level and S the highest.{控制符4}{结束}
 
-0000CF55,148,Here you can make offers for players who{换行}belong to other clubs.{换行}You can also use the Friend Market to share{换行}players with your friends.{控制符3}{控制符4}
+0000CF55,148,Here you can make offers for players who{换行}belong to other clubs.{换行}You can also use the Friend Market to share{换行}players with your friends.{控制符4}{结束}
 
-0000CFEA,318,This player's type has changed!{控制符3}{换行}A player's type affects his movement and{换行}behaviour when he's not got the ball.{控制符3}{换行}{控制符1}A player's type may change depending on the{换行}training you give him. Consider each player's{换行}position and role in the team when you select{换行}training and special combos for him.{控制符3}{控制符4}
+0000CFEA,318,This player's type has changed!{控制符4}{换行}A player's type affects his movement and{换行}behaviour when he's not got the ball.{控制符4}{换行}{控制符2}A player's type may change depending on the{换行}training you give him. Consider each player's{换行}position and role in the team when you select{换行}training and special combos for him.{控制符4}{结束}
 
-0000D129,249,Hi boss! I'm the team's physiotherapist. When{换行}one of our players gets injured, I'll do my best to{换行}aid his recovery.{控制符3}{换行}{控制符1}Players are more susceptible to injury when{换行}they're fatigued. Keep an eye on your players'{换行}fatigue icons.{控制符3}{控制符4}
+0000D129,249,Hi boss! I'm the team's physiotherapist. When{换行}one of our players gets injured, I'll do my best to{换行}aid his recovery.{控制符4}{换行}{控制符2}Players are more susceptible to injury when{换行}they're fatigued. Keep an eye on your players'{换行}fatigue icons.{控制符4}{结束}
 
-0000D223,24,{控制符2}Start a new game?
+0000D223,38,{控制符3}Start a new game?{控制符1}{结束}
 
-0000D242,7,{控制符4}
+0000D24A,194,Pro League 1 is the top level of national football.{换行}Every week, its 12 star-studded teams battle it{换行}out between themselves, all of them cheered on{换行}by legions of loyal fans.{控制符4}{换行}{控制符2}And now
 
-0000D24A,194,Pro League 1 is the top level of national football.{换行}Every week, its 12 star-studded teams battle it{换行}out between themselves, all of them cheered on{换行}by legions of loyal fans.{控制符3}{换行}{控制符1}And now
+0000D32B,123,a small club managed by a novice{换行}manager appears on the scene, with dreams of{换行}making it to the big leagues...{控制符4}{结束}
 
-0000D32B,123,a small club managed by a novice{换行}manager appears on the scene, with dreams of{换行}making it to the big leagues...{控制符3}{控制符4}
-
-0000D3A7,611,Look, I'm far too busy to deal with...{换行}Oh! I'm sorry! You must be the new manager!{换行}I'm the secretary here, so allow me to welcome{换行}you to the club!{控制符3}{换行}{控制符1}First of all, you need to choose a Mii so that{换行}all the employees at the club know what you{换行}look like.{控制符3}{换行}{控制符1}If you don't have a Mii on your system, you can{换行}choose one of the default Mii characters, but{换行}you can also make your own Mii in Mii Maker.{控制符3}{换行}{控制符1}Once you've chosen a Mii, you can't change it.{换行}The Mii will represent you in StreetPass{换行}communications, local wireless matches and{换行}online matches, so choose carefully.{控制符3}{控制符4}
+0000D3A7,611,Look, I'm far too busy to deal with...{换行}Oh! I'm sorry! You must be the new manager!{换行}I'm the secretary here, so allow me to welcome{换行}you to the club!{控制符4}{换行}{控制符2}First of all, you need to choose a Mii so that{换行}all the employees at the club know what you{换行}look like.{控制符4}{换行}{控制符2}If you don't have a Mii on your system, you can{换行}choose one of the default Mii characters, but{换行}you can also make your own Mii in Mii Maker.{控制符4}{换行}{控制符2}Once you've chosen a Mii, you can't change it.{换行}The Mii will represent you in StreetPass{换行}communications, local wireless matches and{换行}online matches, so choose carefully.{控制符4}{结束}
 
 0000D60B,6,{玩家名}
 
-0000D612,62,? OK...{控制符3}{换行}{控制符2}Are you sure you're happy with this Mii?
+0000D612,76,? OK...{控制符4}{换行}{控制符3}Are you sure you're happy with this Mii?{控制符1}{结束}
 
-0000D657,7,{控制符4}
+0000D65F,184,Which country do you want to play in?{换行}(The choice is yours, but if you want to appear{换行}alongside your compatriots in online rankings,{换行}you should choose your home country.){控制符4}{结束}
 
-0000D65F,184,Which country do you want to play in?{换行}(The choice is yours, but if you want to appear{换行}alongside your compatriots in online rankings,{换行}you should choose your home country.){控制符3}{控制符4}
+0000D718,128,OK, so you've made {国家}{换行}your base country! I hope you've got what it{换行}takes to meet the home fans' expectations!{控制符4}{结束}
 
-0000D718,128,OK, so you've made {国家}{换行}your base country! I hope you've got what it{换行}takes to meet the home fans' expectations!{控制符3}{控制符4}
-
-0000D799,142,This is the Team Camp. I just need to go and{换行}fetch some paperwork for you to fill in. Have a{换行}word with the coach while you wait.{控制符3}{控制符4}
+0000D799,142,This is the Team Camp. I just need to go and{换行}fetch some paperwork for you to fill in. Have a{换行}word with the coach while you wait.{控制符4}{结束}
 
 0000D828,24,Nice to meet you, {玩家名}
 
-0000D841,166,!{换行}I'm the coach, and I'm here to help! We're still a{换行}relatively unknown side, but we're hoping you'll{换行}help to turn us into stars! We're counting on you!{控制符3}{控制符4}
+0000D841,166,!{换行}I'm the coach, and I'm here to help! We're still a{换行}relatively unknown side, but we're hoping you'll{换行}help to turn us into stars! We're counting on you!{控制符4}{结束}
 
-0000D8E8,140,I'm back... I heard you wanted to change the{换行}club name, so I already got the forms ready for{换行}you. Did you have a name in mind?{控制符3}{控制符4}
+0000D8E8,140,I'm back... I heard you wanted to change the{换行}club name, so I already got the forms ready for{换行}you. Did you have a name in mind?{控制符4}{结束}
 
-0000D975,197,I took the liberty of preparing the paperwork for{换行}changes to the kit. Have you thought about a{换行}new design for the start of the club's new era?{换行}(You can change the design at any time.){控制符3}{控制符4}
+0000D975,197,I took the liberty of preparing the paperwork for{换行}changes to the kit. Have you thought about a{换行}new design for the start of the club's new era?{换行}(You can change the design at any time.){控制符4}{结束}
 
-0000DA3B,87,Wow! What a great design. I want to see it in{换行}action as soon as possible!{控制符3}{控制符4}
+0000DA3B,87,Wow! What a great design. I want to see it in{换行}action as soon as possible!{控制符4}{结束}
 
-0000DA93,199,The last piece of business is the club's emblem.{换行}Would you like to adjust that too, boss? The fans{换行}always have fun making their banners with it!{换行}(You can change the design at any time.){控制符3}{控制符4}
+0000DA93,199,The last piece of business is the club's emblem.{换行}Would you like to adjust that too, boss? The fans{换行}always have fun making their banners with it!{换行}(You can change the design at any time.){控制符4}{结束}
 
-0000DB5B,112,What a corker, boss! We'll fly this proudly over{换行}the training camp every day to motivate{换行}the team!{控制符3}{控制符4}
+0000DB5B,112,What a corker, boss! We'll fly this proudly over{换行}the training camp every day to motivate{换行}the team!{控制符4}{结束}
 
-0000DBCC,563,{队名1} has a large and{换行}dedicated fan base around the local area.{控制符3}{换行}{控制符1}I must warn you that the toughest part of your{换行}job will be keeping them as happy as possible.{控制符3}{换行}{控制符1}The club monitors the fans' opinion of you.{换行}This is known as the manager backing rate.{控制符3}{换行}{控制符1}If this rate gets too low, the club may decide{换行}to let you go. So for your own sake, make sure{换行}you keep an eye on your backing rate!{控制符3}{换行}{控制符1}{队名1} is still a{换行}relatively unknown club, so we hope that you're{换行}going to be able to show us some spectacular{换行}football, {玩家名}
+0000DBCC,563,{队名1} has a large and{换行}dedicated fan base around the local area.{控制符4}{换行}{控制符2}I must warn you that the toughest part of your{换行}job will be keeping them as happy as possible.{控制符4}{换行}{控制符2}The club monitors the fans' opinion of you.{换行}This is known as the manager backing rate.{控制符4}{换行}{控制符2}If this rate gets too low, the club may decide{换行}to let you go. So for your own sake, make sure{换行}you keep an eye on your backing rate!{控制符4}{换行}{控制符2}{队名1} is still a{换行}relatively unknown club, so we hope that you're{换行}going to be able to show us some spectacular{换行}football, {玩家名}
 
-0000DE00,171,.{控制符3}{换行}{控制符1}The dream is to win the treble, which means{换行}winning the Pro League 1 title, the Federation{换行}Cup, and the World Club Classic all in one{换行}season!{控制符3}{控制符4}
+0000DE00,171,.{控制符4}{换行}{控制符2}The dream is to win the treble, which means{换行}winning the Pro League 1 title, the Federation{换行}Cup, and the World Club Classic all in one{换行}season!{控制符4}{结束}
 
-0000DEAC,166,{控制符2}Press the A Button or touch the kit to select{换行}the one you want to adjust.{换行}Once you're done, press the X Button or touch{换行}OK to confirm the design.{控制符3}{控制符4}
+0000DEAC,166,{控制符3}Press the A Button or touch the kit to select{换行}the one you want to adjust.{换行}Once you're done, press the X Button or touch{换行}OK to confirm the design.{控制符4}{结束}
 
-0000DF53,112,{控制符2}Design your club's emblem.{换行}When you've finished, press the X Button or{换行}touch OK to confirm.{控制符3}{控制符4}
+0000DF53,112,{控制符3}Design your club's emblem.{换行}When you've finished, press the X Button or{换行}touch OK to confirm.{控制符4}{结束}
 
 0000DFC4,10,newgame_16
 
 0000DFCF,10,newgame_17
 
-0000DFDA,58,Are you sure you want to use{换行}{数字8} as your base country?
-
-0000E01B,7,{控制符4}
+0000DFDA,72,Are you sure you want to use{换行}{数字8} as your base country?{控制符1}{结束}
 
 0000E023,10,newgame_19
 
@@ -858,17 +828,17 @@
 
 0000E039,10,newgame_21
 
-0000E044,50,{控制符2}Do you want to go back to the title screen?
+0000E044,56,{控制符3}Do you want to go back to the title screen?{待测2}
 
-0000E07D,7,{控制符4}
+0000E07D,7,{结束}
 
-0000E085,45,{控制符2}Do you want to change the club's name?
+0000E085,51,{控制符3}Do you want to change the club's name?{待测2}
 
-0000E0B9,7,{控制符4}
+0000E0B9,7,{结束}
 
 0000E0C1,11,teamname_01
 
-0000E0CD,62,OK, let's stick with{换行}{队名1}{换行}for the time being.{控制符3}{控制符4}
+0000E0CD,62,OK, let's stick with{换行}{队名1}{换行}for the time being.{控制符4}{结束}
 
 0000E10C,11,teamname_03
 
@@ -888,15 +858,15 @@
 
 0000E16C,11,teamname_11
 
-0000E178,96,{控制符1}{控制符2}Please enter a name for the club.{换行}You can use up to {数字2} {数字8}.{控制符3}{控制符4}
+0000E178,96,{控制符2}{控制符3}Please enter a name for the club.{换行}You can use up to {数字2} {数字8}.{控制符4}{结束}
 
 0000E1D9,11,teamname_13
 
-0000E1E5,51,{队名1}...{换行}That's a really cool name!{控制符3}{控制符1}
+0000E1E5,51,{队名1}...{换行}That's a really cool name!{控制符4}{控制符2}
 
 0000E219,11,teamname_15
 
-0000E225,168,You also need to enter a 3-character{换行}abbreviation that will be used in places like{换行}results and fixtures tables.{控制符3}{换行}Go ahead and enter one now, please.{控制符3}{控制符4}
+0000E225,168,You also need to enter a 3-character{换行}abbreviation that will be used in places like{换行}results and fixtures tables.{控制符4}{换行}Go ahead and enter one now, please.{控制符4}{结束}
 
 0000E2CE,11,teamname_17
 
@@ -904,107 +874,95 @@
 
 0000E2E6,11,teamname_19
 
-0000E2F2,36,{控制符2}Before I submit these, {玩家名}
+0000E2F2,36,{控制符3}Before I submit these, {玩家名}
 
-0000E317,120,,{换行}I just want to check you're happy with the name.{换行}You've chosen {队名1}{换行}with {短队名} as the abbreviation. Are these OK?
-
-0000E396,7,{控制符4}
+0000E317,134,,{换行}I just want to check you're happy with the name.{换行}You've chosen {队名1}{换行}with {短队名} as the abbreviation. Are these OK?{控制符1}{结束}
 
 0000E39E,11,teamname_21
 
-0000E3AA,47,Hmph...{换行}OK, let's try that again.{控制符3}{控制符4}
+0000E3AA,47,Hmph...{换行}OK, let's try that again.{控制符4}{结束}
 
-0000E3DA,44,{控制符2}Do you want to save your game,{换行}{玩家名}
+0000E3DA,44,{控制符3}Do you want to save your game,{换行}{玩家名}
 
-0000E40F,7,{控制符4}
+0000E407,15,?{控制符1}{结束}
 
-0000E417,39,{控制符1}{控制符2}Game saved.{控制符3}{控制符4}
+0000E417,39,{控制符2}{控制符3}Game saved.{控制符4}{结束}
 
-0000E43F,45,{控制符2}Do you want to open the wireless menu?
+0000E43F,59,{控制符3}Do you want to open the wireless menu?{控制符1}{结束}
 
-0000E473,7,{控制符4}
+0000E47B,113,{控制符3}Your data needs to be saved before{换行}the wireless menu can be opened.{换行}Do you want to save now?{控制符1}{结束}
 
-0000E47B,99,{控制符2}Your data needs to be saved before{换行}the wireless menu can be opened.{换行}Do you want to save now?
+0000E4ED,122,{控制符3}{控制符2}Save failed.{换行}There may be a problem with the game card.{控制符4}{换行}{控制符3}{控制符2}Please try again.{控制符4}{控制符2}
 
-0000E4E5,7,{控制符4}
+0000E568,68,{控制符3}{控制符2}Saving data...{换行}Do not turn off the power. Please wait.
 
-0000E4ED,122,{控制符2}{控制符1}Save failed.{换行}There may be a problem with the game card.{控制符3}{换行}{控制符2}{控制符1}Please try again.{控制符3}{控制符1}
-
-0000E568,68,{控制符2}{控制符1}Saving data...{换行}Do not turn off the power. Please wait.
-
-0000E5AD,98,You've been playing for at least 30 minutes.{换行}You should consider taking a break now.{控制符3}{控制符4}
+0000E5AD,98,You've been playing for at least 30 minutes.{换行}You should consider taking a break now.{控制符4}{结束}
 
 0000E610,9,system_07
 
-0000E61A,46,{控制符1}{控制符2}Do you want to continue playing?
+0000E61A,52,{控制符2}{控制符3}Do you want to continue playing?{待测1}
 
-0000E64F,7,{控制符4}
+0000E64F,7,{结束}
 
-0000E657,61,{控制符1}{控制符2}OK. Thanks for all your hard work today,{换行}{玩家名}
+0000E657,61,{控制符2}{控制符3}OK. Thanks for all your hard work today,{换行}{玩家名}
 
-0000E695,15,.{控制符3}{控制符4}
+0000E695,15,.{控制符4}{结束}
 
-0000E6A5,81,{控制符2}Do you want to close the wireless menu{换行}and return to the Home Town screen?
+0000E6A5,95,{控制符3}Do you want to close the wireless menu{换行}and return to the Home Town screen?{控制符1}{结束}
 
-0000E6FD,7,{控制符4}
+0000E705,62,{控制符3}Are you sure you want to delete data{换行}for {队名1}?{待测2}
 
-0000E705,56,{控制符2}Are you sure you want to delete data{换行}for {队名1}?
+0000E744,7,{结束}
 
-0000E744,7,{控制符4}
+0000E74C,53,{控制符3}Are you sure you want to reset all data?{待测2}
 
-0000E74C,47,{控制符2}Are you sure you want to reset all data?
+0000E782,7,{结束}
 
-0000E782,7,{控制符4}
+0000E78A,63,{控制符3}Deleting data...{换行}Do not turn off the power. Please wait.
 
-0000E78A,63,{控制符2}Deleting data...{换行}Do not turn off the power. Please wait.
+0000E7D8,51,{控制符2}{控制符3}Finished deleting data.{控制符4}{结束}
 
-0000E7D8,51,{控制符1}{控制符2}Finished deleting data.{控制符3}{控制符4}
+0000E80C,50,{控制符2}{控制符3}Could not delete data.{控制符4}{结束}
 
-0000E80C,50,{控制符1}{控制符2}Could not delete data.{控制符3}{控制符4}
+0000E83F,93,{控制符3}Once deleted the data cannot be recovered.{换行}Are you sure want to delete the data?{待测2}
 
-0000E83F,87,{控制符2}Once deleted the data cannot be recovered.{换行}Are you sure want to delete the data?
+0000E89D,7,{结束}
 
-0000E89D,7,{控制符4}
+0000E8A5,65,{控制符3}Do you want to continue with this save file?{控制符1}{结束}
 
-0000E8A5,51,{控制符2}Do you want to continue with this save file?
+0000E8E7,36,{控制符3}Select a save file to delete.
 
-0000E8DF,7,{控制符4}
+0000E90C,80,<DEBUG>{控制符3} File system error occurred.{换行}{数字8}{换行}{数字0}{换行}{数字9}{控制符4}{控制符2}
 
-0000E8E7,36,{控制符2}Select a save file to delete.
+0000E95D,77,{控制符3}An error occurred while saving.{换行}{控制符3}Please try again.{控制符4}{结束}
 
-0000E90C,59,<DEBUG>{控制符2} File system error occurred.{换行}{数字8}{换行}{数字1}{换行}
+0000E9AB,101,{控制符3}There is a corrupted save file.{换行}Press the A Button to delete the corrupted file.{控制符4}{结束}
 
-0000E94E,14,{控制符3}{控制符1}
+0000EA11,133,<DEBUG> {控制符3}There's a corrupted save file.{换行}Press the A Button to delete the file.{换行}File name: {数字8}{换行}Reason: {数字0}{控制符4}{结束}
 
-0000E95D,77,{控制符2}An error occurred while saving.{换行}{控制符2}Please try again.{控制符3}{控制符4}
+0000EA97,50,{控制符3}Data could not be recognised.{控制符4}{结束}
 
-0000E9AB,101,{控制符2}There is a corrupted save file.{换行}Press the A Button to delete the corrupted file.{控制符3}{控制符4}
+0000EACA,50,{控制符3}Data could not be recognised.{控制符4}{结束}
 
-0000EA11,133,<DEBUG> {控制符2}There's a corrupted save file.{换行}Press the A Button to delete the file.{换行}File name: {数字8}{换行}Reason: {数字1}{控制符3}{控制符4}
+0000EAFD,101,{控制符3}The save data may be corrupted.{换行}Press the A Button to delete the corrupted file.{控制符4}{结束}
 
-0000EA97,50,{控制符2}Data could not be recognised.{控制符3}{控制符4}
+0000EB63,101,{控制符3}The save data may be corrupted.{换行}Press the A Button to delete the corrupted file.{控制符4}{结束}
 
-0000EACA,50,{控制符2}Data could not be recognised.{控制符3}{控制符4}
+0000EBC9,50,{控制符3}Data could not be recognised.{控制符4}{结束}
 
-0000EAFD,101,{控制符2}The save data may be corrupted.{换行}Press the A Button to delete the corrupted file.{控制符3}{控制符4}
+0000EBFC,53,{控制符3}Not enough free space available.{控制符4}{结束}
 
-0000EB63,101,{控制符2}The save data may be corrupted.{换行}Press the A Button to delete the corrupted file.{控制符3}{控制符4}
+0000EC32,50,{控制符3}Data could not be recognised.{控制符4}{结束}
 
-0000EBC9,50,{控制符2}Data could not be recognised.{控制符3}{控制符4}
+0000EC65,50,{控制符3}Data could not be recognised.{控制符4}{结束}
 
-0000EBFC,53,{控制符2}Not enough free space available.{控制符3}{控制符4}
+0000EC98,78,{控制符3}The Mii Maker save data was corrupted{换行}and has been reset.{控制符4}{结束}
 
-0000EC32,50,{控制符2}Data could not be recognised.{控制符3}{控制符4}
+0000ECE7,73,{控制符3}Preparing to start game...{换行}Do not turn off the power. Please wait.
 
-0000EC65,50,{控制符2}Data could not be recognised.{控制符3}{控制符4}
+0000ED31,165,{控制符3}The save data may be corrupted.{换行}Press the A Button to delete the corrupted data.{控制符4}{换行}{控制符2}{控制符3}Deleting data...{换行}Do not turn off the power. Please wait.
 
-0000EC98,78,{控制符2}The Mii Maker save data was corrupted{换行}and has been reset.{控制符3}{控制符4}
-
-0000ECE7,73,{控制符2}Preparing to start game...{换行}Do not turn off the power. Please wait.
-
-0000ED31,165,{控制符2}The save data may be corrupted.{换行}Press the A Button to delete the corrupted data.{控制符3}{换行}{控制符1}{控制符2}Deleting data...{换行}Do not turn off the power. Please wait.
-
-0000EDE5,136,{控制符2}The save data may be corrupted.{换行}To try to restore the data, please turn off the{换行}system and re-insert the game card.{控制符3}{控制符4}
+0000EDE5,136,{控制符3}The save data may be corrupted.{换行}To try to restore the data, please turn off the{换行}system and re-insert the game card.{控制符4}{结束}
 
 0000EE6E,9,system_35
 
@@ -1012,45 +970,43 @@
 
 0000EE82,9,system_37
 
-0000EE8C,77,{控制符2}Cannot use SpotPass as extra data could{换行}not be accessed.{控制符3}{控制符4}
+0000EE8C,77,{控制符3}Cannot use SpotPass as extra data could{换行}not be accessed.{控制符4}{结束}
 
-0000EEDA,44,{控制符2}No SD card is inserted.{控制符3}{控制符4}
+0000EEDA,44,{控制符3}No SD card is inserted.{控制符4}{结束}
 
-0000EF07,64,{控制符2}Extra data does not exist so must be created.{换行}Is that OK?
-
-0000EF4E,7,{控制符4}
+0000EF07,78,{控制符3}Extra data does not exist so must be created.{换行}Is that OK?{控制符1}{结束}
 
 0000EF56,9,system_41
 
-0000EF60,54,{控制符2}Extra data is corrupted.{换行}Create new extra data?
+0000EF60,60,{控制符3}Extra data is corrupted.{换行}Create new extra data?{待测2}
 
-0000EF9D,7,{控制符4}
+0000EF9D,7,{结束}
 
 0000EFA5,9,system_43
 
-0000EFAF,54,{控制符2}Extra data is corrupted.{换行}Create new extra data?
+0000EFAF,60,{控制符3}Extra data is corrupted.{换行}Create new extra data?{待测2}
 
-0000EFEC,7,{控制符4}
+0000EFEC,7,{结束}
 
-0000EFF4,67,{控制符2}There is not enough free space on the SD card.{控制符3}{控制符4}
+0000EFF4,67,{控制符3}There is not enough free space on the SD card.{控制符4}{结束}
 
-0000F038,105,{控制符2}An error occurred while accessing the SD card.{换行}The creation process was interrupted.{控制符3}{控制符4}
+0000F038,105,{控制符3}An error occurred while accessing the SD card.{换行}The creation process was interrupted.{控制符4}{结束}
 
-0000F0A2,64,{控制符2}Write-protection is enabled on the SD card.{控制符3}{控制符4}
+0000F0A2,64,{控制符3}Write-protection is enabled on the SD card.{控制符4}{结束}
 
-0000F0E3,109,{控制符2}The SD card could not be recognised. Please{换行}turn off the power and reinsert the SD card.{控制符3}{控制符4}
+0000F0E3,109,{控制符3}The SD card could not be recognised. Please{换行}turn off the power and reinsert the SD card.{控制符4}{结束}
 
-0000F151,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F151,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F18B,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F18B,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F1C5,41,{控制符2}Starting SpotPass...{控制符3}{控制符4}
+0000F1C5,41,{控制符3}Starting SpotPass...{控制符4}{结束}
 
-0000F1EF,47,{控制符2}Could not set up SpotPass.{控制符3}{控制符4}
+0000F1EF,47,{控制符3}Could not set up SpotPass.{控制符4}{结束}
 
-0000F21F,49,{控制符2}Extra data has been created.{控制符3}{控制符4}
+0000F21F,49,{控制符3}Extra data has been created.{控制符4}{结束}
 
-0000F251,29,{控制符2}Creating extra data...
+0000F251,29,{控制符3}Creating extra data...
 
 0000F26F,9,system_55
 
@@ -1062,27 +1018,27 @@
 
 0000F297,9,system_59
 
-0000F2A1,50,{控制符2}There is no SD card inserted.{控制符3}{控制符4}
+0000F2A1,50,{控制符3}There is no SD card inserted.{控制符4}{结束}
 
-0000F2D4,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F2D4,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F30E,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F30E,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F348,51,{控制符2}Extra data is corrupted or has been altered.
+0000F348,51,{控制符3}Extra data is corrupted or has been altered.
 
-0000F37C,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F37C,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F3B6,52,{控制符2}The SD card is write-protected.{控制符3}{控制符4}
+0000F3B6,52,{控制符3}The SD card is write-protected.{控制符4}{结束}
 
-0000F3EB,109,{控制符2}The SD card could not be recognised. Please{换行}turn off the power and reinsert the SD card.{控制符3}{控制符4}
+0000F3EB,109,{控制符3}The SD card could not be recognised. Please{换行}turn off the power and reinsert the SD card.{控制符4}{结束}
 
-0000F459,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F459,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F493,67,{控制符2}There is not enough free space on the SD card.{控制符3}{控制符4}
+0000F493,67,{控制符3}There is not enough free space on the SD card.{控制符4}{结束}
 
-0000F4D7,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F4D7,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
-0000F511,57,{控制符2}The SD card could not be recognised.{控制符3}{控制符4}
+0000F511,57,{控制符3}The SD card could not be recognised.{控制符4}{结束}
 
 0000F54B,8,coach_00
 
@@ -1168,349 +1124,327 @@
 
 000101E3,104,The lads seem down and out...{换行}We'll have to cheer them up{换行}with a spot of {队员1}karaoke{队员1}, I think.
 
-0001024C,253,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Beginner League matches start.{控制符3}{换行}{控制符1}You've got 5 opponents to play and hopefully{换行}defeat. Let's do our best to get promoted to the{换行}Advanced League!{控制符3}{控制符1}
+0001024C,253,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Beginner League matches start.{控制符4}{换行}{控制符2}You've got 5 opponents to play and hopefully{换行}defeat. Let's do our best to get promoted to the{换行}Advanced League!{控制符4}{控制符2}
 
-0001034A,236,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Advanced League matches start.{控制符3}{换行}{控制符1}Do your best to win this league and we'll have{换行}a shot at the Pros if we can win the play-off!{控制符3}{控制符1}
+0001034A,236,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Advanced League matches start.{控制符4}{换行}{控制符2}Do your best to win this league and we'll have{换行}a shot at the Pros if we can win the play-off!{控制符4}{控制符2}
 
-00010437,282,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Pro League 2 matches start.{控制符3}{换行}{控制符1}If we can win this league, we'll get promoted to{换行}Pro League 1. But even if we only make second{换行}place, we still have a chance via the play-off!{控制符3}{控制符1}
+00010437,282,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Pro League 2 matches start.{控制符4}{换行}{控制符2}If we can win this league, we'll get promoted to{换行}Pro League 1. But even if we only make second{换行}place, we still have a chance via the play-off!{控制符4}{控制符2}
 
-00010552,273,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Pro League 1 matches start.{控制符3}{换行}{控制符1}Coming first or second in this league will{换行}qualify us for the European Challenge Cup. At{换行}the very least, we have to avoid relegation!{控制符3}{控制符1}
+00010552,273,It's the start of a new season. We'd better{换行}start doing some preparation before the{换行}Pro League 1 matches start.{控制符4}{换行}{控制符2}Coming first or second in this league will{换行}qualify us for the European Challenge Cup. At{换行}the very least, we have to avoid relegation!{控制符4}{控制符2}
 
-00010664,479,It's the start of a new season. We'll be playing{换行}against overseas clubs this season. Let's try to{换行}win in Europe, so we can take part on the world{换行}stage.{控制符3}{换行}{控制符1}We're gradually inching closer to our dream of{换行}winning the treble, which means we have to win{换行}Pro League 1, the Federation Cup, and the{换行}World Club Classic all in one season.{控制符3}{换行}{控制符1}The schedule this season is truly demanding, but{换行}if we all work as a team there's every chance{换行}we can make it!{控制符3}{控制符1}
+00010664,479,It's the start of a new season. We'll be playing{换行}against overseas clubs this season. Let's try to{换行}win in Europe, so we can take part on the world{换行}stage.{控制符4}{换行}{控制符2}We're gradually inching closer to our dream of{换行}winning the treble, which means we have to win{换行}Pro League 1, the Federation Cup, and the{换行}World Club Classic all in one season.{控制符4}{换行}{控制符2}The schedule this season is truly demanding, but{换行}if we all work as a team there's every chance{换行}we can make it!{控制符4}{控制符2}
 
 00010844,78,Have you thought about what kind of team you{换行}want to field this season, {玩家名}
 
-00010893,181,?{控制符3}{换行}{控制符1}Remember you have until the end of June to{换行}renew your players' contracts. If you don't do{换行}this, you may find that players will start to leave{换行}the club.{控制符3}{控制符4}
+00010893,181,?{控制符4}{换行}{控制符2}Remember you have until the end of June to{换行}renew your players' contracts. If you don't do{换行}this, you may find that players will start to leave{换行}the club.{控制符4}{结束}
 
-00010949,173,You worked hard this season, boss.{换行}Now it's time to reflect upon the successes and{换行}failures of this season, and use that knowledge{换行}to prepare for the next one!{控制符3}{控制符4}
+00010949,173,You worked hard this season, boss.{换行}Now it's time to reflect upon the successes and{换行}failures of this season, and use that knowledge{换行}to prepare for the next one!{控制符4}{结束}
 
-000109F7,80,We've now played all the league matches{换行}scheduled for this season.{控制符3}{控制符4}
+000109F7,80,We've now played all the league matches{换行}scheduled for this season.{控制符4}{结束}
 
-00010A48,64,That was the last of the league games this{换行}season.{控制符3}{控制符4}
+00010A48,64,That was the last of the league games this{换行}season.{控制符4}{结束}
 
-00010A89,86,The play-off match is over, and that brings our{换行}league season to an end.{控制符3}{控制符4}
+00010A89,86,The play-off match is over, and that brings our{换行}league season to an end.{控制符4}{结束}
 
-00010AE0,195,Boss, we've won {数字1} coins in{换行}{数字8} prize money!{控制符3}{换行}{控制符1}I'll add this amount to next season's budget.{换行}Now we should be able to make some strong{换行}signings for next season!{控制符3}{控制符4}
+00010AE0,195,Boss, we've won {数字0} coins in{换行}{数字8} prize money!{控制符4}{换行}{控制符2}I'll add this amount to next season's budget.{换行}Now we should be able to make some strong{换行}signings for next season!{控制符4}{结束}
 
-00010BA4,78,That's the end of the season, boss.{换行}Thanks for all your efforts!{控制符3}{控制符1}
+00010BA4,78,That's the end of the season, boss.{换行}Thanks for all your efforts!{控制符4}{控制符2}
 
-00010BF3,53,The club has grown in standing and is now{换行}ranked as "
+00010BF3,59,The club has grown in standing and is now{换行}ranked as "{待测5}
 
-00010C2F,42,".{换行}The budget has increased.{控制符3}{控制符4}
+00010C2F,42,".{换行}The budget has increased.{控制符4}{结束}
 
-00010C5A,69,The club has suffered a blow to its reputation{换行}and is now ranked as "
+00010C5A,75,The club has suffered a blow to its reputation{换行}and is now ranked as "{待测5}
 
-00010CA6,42,".{换行}The budget has decreased.{控制符3}{控制符4}
+00010CA6,42,".{换行}The budget has decreased.{控制符4}{结束}
 
-00010CD1,300,The players' contracts have expired. You can{换行}take care of next season's contracts in the Club{换行}Office.{控制符3}{换行}{控制符1}Make offers to players to renew their contracts.{换行}Players who are unsure of whether they want{换行}to stay at the club or not will give you an{换行}answer by the first week of June.{控制符3}{控制符4}
+00010CD1,300,The players' contracts have expired. You can{换行}take care of next season's contracts in the Club{换行}Office.{控制符4}{换行}{控制符2}Make offers to players to renew their contracts.{换行}Players who are unsure of whether they want{换行}to stay at the club or not will give you an{换行}answer by the first week of June.{控制符4}{结束}
 
 00010DFE,9,season_09
 
-00010E08,69,We've won the Beginner League, boss!{换行}I'm over the moon!{控制符3}{控制符4}
+00010E08,69,We've won the Beginner League, boss!{换行}I'm over the moon!{控制符4}{结束}
 
-00010E4E,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符3}{控制符4}
+00010E4E,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符4}{结束}
 
-00010EEA,165,We've won the Advanced League, boss!{换行}I'm pleased as punch!{控制符3}{换行}{控制符1}All we have to do now to get into the Pro League{换行}is to win the play-off match!{控制符3}{控制符4}
+00010EEA,165,We've won the Advanced League, boss!{换行}I'm pleased as punch!{控制符4}{换行}{控制符2}All we have to do now to get into the Pro League{换行}is to win the play-off match!{控制符4}{结束}
 
-00010F90,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符3}{控制符4}
+00010F90,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符4}{结束}
 
-0001102C,85,We've won, boss!{换行}We're going up into Pro League 1!{换行}I'm chuffed to bits!{控制符3}{控制符4}
+0001102C,85,We've won, boss!{换行}We're going up into Pro League 1!{换行}I'm chuffed to bits!{控制符4}{结束}
 
-00011082,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符3}{控制符4}
+00011082,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符4}{结束}
 
-0001111E,110,We're the champions of Pro League 1, boss!{换行}I'm so glad to have been a part of{换行}{队名1}'s victory!{控制符3}{控制符4}
+0001111E,110,We're the champions of Pro League 1, boss!{换行}I'm so glad to have been a part of{换行}{队名1}'s victory!{控制符4}{结束}
 
-0001118D,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符3}{控制符4}
+0001118D,155,Ah... Well, after this week's result, we definitely{换行}can't win this season. We'll just have to carry on{换行}playing our best until the last match.{控制符4}{结束}
 
-00011229,53,We did it!{换行}We've won promotion at last!{控制符3}{控制符4}
+00011229,53,We did it!{换行}We've won promotion at last!{控制符4}{结束}
 
-0001125F,141,Great! Now we've qualified for the European{换行}Challenge Cup! Do your best in any remaining{换行}matches, but keep next season in mind!{控制符3}{控制符4}
+0001125F,141,Great! Now we've qualified for the European{换行}Challenge Cup! Do your best in any remaining{换行}matches, but keep next season in mind!{控制符4}{结束}
 
-000112ED,106,We're facing a play-off match. We've come a{换行}long way, so I really hope we can win promotion!{控制符3}{控制符4}
+000112ED,106,We're facing a play-off match. We've come a{换行}long way, so I really hope we can win promotion!{控制符4}{结束}
 
-00011358,121,OK, we're in the promotion places now. If we{换行}can though, it'd be better to win and get{换行}automatic promotion!{控制符3}{控制符4}
+00011358,121,OK, we're in the promotion places now. If we{换行}can though, it'd be better to win and get{换行}automatic promotion!{控制符4}{结束}
 
-000113D2,113,Oh no... Looks like we're not going up this{换行}season. What a shame...{换行}But there's always next season!{控制符3}{控制符4}
+000113D2,113,Oh no... Looks like we're not going up this{换行}season. What a shame...{换行}But there's always next season!{控制符4}{结束}
 
-00011444,144,Oh no... Looks like we haven't qualified for the{换行}European Challenge Cup this season.{换行}It's a shame, but there's always next season!{控制符3}{控制符4}
+00011444,144,Oh no... Looks like we haven't qualified for the{换行}European Challenge Cup this season.{换行}It's a shame, but there's always next season!{控制符4}{结束}
 
-000114D5,109,Well, we've ensured that we can't get relegated.{换行}Let's try to get as high a position as we can!{控制符3}{控制符4}
+000114D5,109,Well, we've ensured that we can't get relegated.{换行}Let's try to get as high a position as we can!{控制符4}{结束}
 
-00011543,109,We've been entered into a play-off for a chance{换行}to avoid relegation. We do not want to lose it!{控制符3}{控制符4}
+00011543,109,We've been entered into a play-off for a chance{换行}to avoid relegation. We do not want to lose it!{控制符4}{结束}
 
-000115B1,140,Oh no... Looks like we're in the relegation zone.{换行}Let's do our best to avoid coming last so we can{换行}avoid automatic relegation.{控制符3}{控制符4}
+000115B1,140,Oh no... Looks like we're in the relegation zone.{换行}Let's do our best to avoid coming last so we can{换行}avoid automatic relegation.{控制符4}{结束}
 
-0001163E,99,Thankfully we've managed to avoid automatic{换行}relegation. However, it's not over yet...{控制符3}{控制符4}
+0001163E,99,Thankfully we've managed to avoid automatic{换行}relegation. However, it's not over yet...{控制符4}{结束}
 
-000116A2,126,Oh no... We've been relegated. After all the hard{换行}work we put in, it's such a shame...{换行}What were we doing wrong?{控制符3}{控制符4}
+000116A2,126,Oh no... We've been relegated. After all the hard{换行}work we put in, it's such a shame...{换行}What were we doing wrong?{控制符4}{结束}
 
 00011721,9,season_29
 
-0001172B,105,We've won the Beginner League, boss!{换行}We're going up into the Advanced League!{换行}I'm so happy!{控制符3}{控制符4}
+0001172B,105,We've won the Beginner League, boss!{换行}We're going up into the Advanced League!{换行}I'm so happy!{控制符4}{结束}
 
-00011795,108,Well, we didn't win or get promoted...{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符3}{控制符4}
+00011795,108,Well, we didn't win or get promoted...{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符4}{结束}
 
-00011802,144,We've won the Advanced League, boss! Now{换行}we've got the chance to get into Pro League 2{换行}if we can win the play-off. I'm so excited!{控制符3}{控制符4}
+00011802,144,We've won the Advanced League, boss! Now{换行}we've got the chance to get into Pro League 2{换行}if we can win the play-off. I'm so excited!{控制符4}{结束}
 
-00011893,142,We didn't win the league...{换行}And we've missed out on promotion this time.{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符3}{控制符4}
+00011893,142,We didn't win the league...{换行}And we've missed out on promotion this time.{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符4}{结束}
 
-00011922,62,We've won Pro League 2, boss!{换行}I'm over the moon!{控制符3}{控制符4}
+00011922,62,We've won Pro League 2, boss!{换行}I'm over the moon!{控制符4}{结束}
 
-00011961,108,We missed out on winning the league...{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符3}{控制符4}
+00011961,108,We missed out on winning the league...{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符4}{结束}
 
-000119CE,110,We're the champions of Pro League 1, boss!{换行}I'm so glad to have been a part of{换行}{队名1}'s victory!{控制符3}{控制符4}
+000119CE,110,We're the champions of Pro League 1, boss!{换行}I'm so glad to have been a part of{换行}{队名1}'s victory!{控制符4}{结束}
 
-00011A3D,108,We missed out on winning the league...{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符3}{控制符4}
+00011A3D,108,We missed out on winning the league...{换行}I'm gutted, because I thought we were in with{换行}a shot...{控制符4}{结束}
 
-00011AAA,153,We managed to get promoted! The level will be{换行}much higher next season, but that means there'll{换行}be more chances for us to improve as a team!{控制符3}{控制符4}
+00011AAA,153,We managed to get promoted! The level will be{换行}much higher next season, but that means there'll{换行}be more chances for us to improve as a team!{控制符4}{结束}
 
-00011B44,116,We did it! We qualified for the European{换行}Challenge Cup!{换行}Now I'm really looking forward to next season!{控制符3}{控制符4}
+00011B44,116,We did it! We qualified for the European{换行}Challenge Cup!{换行}Now I'm really looking forward to next season!{控制符4}{结束}
 
-00011BB9,148,That's it for the league matches, next up is{换行}the play-off. Don't lose focus, just concentrate{换行}on getting the team ready for the match.{控制符3}{控制符4}
+00011BB9,148,That's it for the league matches, next up is{换行}the play-off. Don't lose focus, just concentrate{换行}on getting the team ready for the match.{控制符4}{结束}
 
-00011C4E,148,That's it for the league matches, next up is{换行}the play-off. Don't lose focus, just concentrate{换行}on getting the team ready for the match.{控制符3}{控制符4}
+00011C4E,148,That's it for the league matches, next up is{换行}the play-off. Don't lose focus, just concentrate{换行}on getting the team ready for the match.{控制符4}{结束}
 
-00011CE3,118,Ah... So close but no promotion this season.{换行}It's a shame, but we'll just have to try again{换行}next season.{控制符3}{控制符4}
+00011CE3,118,Ah... So close but no promotion this season.{换行}It's a shame, but we'll just have to try again{换行}next season.{控制符4}{结束}
 
-00011D5A,139,Ah... We missed out on qualifying for the{换行}European Challenge Cup. It's a shame, but{换行}we'll just have to try again next season.{控制符3}{控制符4}
+00011D5A,139,Ah... We missed out on qualifying for the{换行}European Challenge Cup. It's a shame, but{换行}we'll just have to try again next season.{控制符4}{结束}
 
-00011DE6,88,Phew! We managed to stay up.{换行}Let's try to finish next season a bit higher!{控制符3}{控制符4}
+00011DE6,88,Phew! We managed to stay up.{换行}Let's try to finish next season a bit higher!{控制符4}{结束}
 
-00011E3F,105,It's the play-off match next.{换行}This is our last chance to avoid relegation.{换行}We mustn't lose!{控制符3}{控制符4}
+00011E3F,105,It's the play-off match next.{换行}This is our last chance to avoid relegation.{换行}We mustn't lose!{控制符4}{结束}
 
-00011EA9,105,It's the play-off match next.{换行}This is our last chance to avoid relegation.{换行}We mustn't lose!{控制符3}{控制符4}
+00011EA9,105,It's the play-off match next.{换行}This is our last chance to avoid relegation.{换行}We mustn't lose!{控制符4}{结束}
 
-00011F13,69,Looks like we've managed to avoid automatic{换行}relegation.{控制符3}{控制符4}
+00011F13,69,Looks like we've managed to avoid automatic{换行}relegation.{控制符4}{结束}
 
-00011F59,126,Oh no... We got relegated after all.{换行}With all the work we put in, it's such a shame...{换行}What were we doing wrong?{控制符3}{控制符4}
+00011F59,126,Oh no... We got relegated after all.{换行}With all the work we put in, it's such a shame...{换行}What were we doing wrong?{控制符4}{结束}
 
-00011FD8,70,We need to beat {队名2}{换行}in our next match against them, boss...{控制符3}
+00011FD8,70,We need to beat {队名2}{换行}in our next match against them, boss...{控制符4}
 
-0001201F,71,We can't afford to get less than a draw against{换行}{队名2}, boss...{控制符3}
+0001201F,71,We can't afford to get less than a draw against{换行}{队名2}, boss...{控制符4}
 
-00012067,55,We need at least a draw against{换行}{队名2}, boss...{控制符3}
+00012067,55,We need at least a draw against{换行}{队名2}, boss...{控制符4}
 
-0001209F,78,We've got to win against{换行}{队名2}, boss.{换行}Otherwise, we'll be in trouble.{控制符3}
+0001209F,78,We've got to win against{换行}{队名2}, boss.{换行}Otherwise, we'll be in trouble.{控制符4}
 
-000120EE,125,{控制符1}If we win the next match, we'll win the league{换行}and get promoted to the Advanced League.{换行}Good luck, boss!{控制符3}{控制符4}
+000120EE,125,{控制符2}If we win the next match, we'll win the league{换行}and get promoted to the Advanced League.{换行}Good luck, boss!{控制符4}{结束}
 
-0001216C,116,{控制符1}Looks like we might have to give up on hopes of{换行}victory and promotion to the Advanced League...{控制符3}{控制符4}
+0001216C,116,{控制符2}Looks like we might have to give up on hopes of{换行}victory and promotion to the Advanced League...{控制符4}{结束}
 
-000121E1,105,{控制符1}If we win the next match, we'll get a chance{换行}in the play-off match!{换行}Good luck, boss!{控制符3}{控制符4}
+000121E1,105,{控制符2}If we win the next match, we'll get a chance{换行}in the play-off match!{换行}Good luck, boss!{控制符4}{结束}
 
-0001224B,94,{控制符1}Looks like we might not be victorious or make{换行}the play-off spot either...{控制符3}{控制符4}
+0001224B,94,{控制符2}Looks like we might not be victorious or make{换行}the play-off spot either...{控制符4}{结束}
 
-000122AA,95,{控制符1}We've got the chance to go straight up into{换行}Pro League 1! Good luck, boss!{控制符3}{控制符4}
+000122AA,95,{控制符2}We've got the chance to go straight up into{换行}Pro League 1! Good luck, boss!{控制符4}{结束}
 
-0001230A,107,{控制符1}We may not win the league this season... If so,{换行}we'll lose out on automatic promotion.{控制符3}{控制符4}
+0001230A,107,{控制符2}We may not win the league this season... If so,{换行}we'll lose out on automatic promotion.{控制符4}{结束}
 
-00012376,86,{控制符1}A win will clinch the Pro League 1 title for us!{换行}Good luck, boss!{控制符3}{控制符4}
+00012376,86,{控制符2}A win will clinch the Pro League 1 title for us!{换行}Good luck, boss!{控制符4}{结束}
 
-000123CD,63,{控制符1}We may not win Pro League 1 this season...{控制符3}{控制符4}
+000123CD,63,{控制符2}We may not win Pro League 1 this season...{控制符4}{结束}
 
 0001240D,10,nextseg_12
 
-00012418,138,{控制符1}This will decide whether we qualify for the{换行}European Challenge Cup!{换行}I hope we can clinch it sooner rather than later!{控制符3}{控制符4}
+00012418,138,{控制符2}This will decide whether we qualify for the{换行}European Challenge Cup!{换行}I hope we can clinch it sooner rather than later!{控制符4}{结束}
 
-000124A3,92,{控制符1}This will decide whether we make the play-off.{换行}Let's keep our hopes up!{控制符3}{控制符4}
+000124A3,92,{控制符2}This will decide whether we make the play-off.{换行}Let's keep our hopes up!{控制符4}{结束}
 
-00012500,126,{控制符1}This will decide whether we finish in a promotion{换行}spot. I hope we can settle it sooner rather{换行}than later.{控制符3}{控制符4}
+00012500,126,{控制符2}This will decide whether we finish in a promotion{换行}spot. I hope we can settle it sooner rather{换行}than later.{控制符4}{结束}
 
-0001257F,89,{控制符1}Our chances of promotion could be completely{换行}destroyed. You've got to do something
+0001257F,89,{控制符2}Our chances of promotion could be completely{换行}destroyed. You've got to do something
 
-000125EF,15,.{控制符3}{控制符4}
+000125EF,15,.{控制符4}{结束}
 
-000125FF,93,{控制符1}We could miss out on a place in the European{换行}Challenge Cup.{换行}You've got to do something
+000125FF,93,{控制符2}We could miss out on a place in the European{换行}Challenge Cup.{换行}You've got to do something
 
-00012673,15,.{控制符3}{控制符4}
+00012673,15,.{控制符4}{结束}
 
-00012683,102,{控制符1}Winning this match will ensure that we can't{换行}get relegated. I really hope we win!{控制符3}{控制符4}
+00012683,102,{控制符2}Winning this match will ensure that we can't{换行}get relegated. I really hope we win!{控制符4}{结束}
 
-000126EA,95,{控制符1}This will decide whether we have to take part in{换行}the play-off match. Hm...{控制符3}{控制符4}
+000126EA,95,{控制符2}This will decide whether we have to take part in{换行}the play-off match. Hm...{控制符4}{结束}
 
-0001274A,121,{控制符1}It's looking like we might not escape the{换行}relegation zone. We have to avoid that if at all{换行}possible.{控制符3}{控制符4}
+0001274A,121,{控制符2}It's looking like we might not escape the{换行}relegation zone. We have to avoid that if at all{换行}possible.{控制符4}{结束}
 
-000127C4,113,{控制符1}At least we can still avoid automatic relegation{换行}this season. That's some small consolation.{控制符3}{控制符4}
+000127C4,113,{控制符2}At least we can still avoid automatic relegation{换行}this season. That's some small consolation.{控制符4}{结束}
 
-00012836,102,{控制符1}This will decide whether we avoid relegation.{换行}I'm a bit nervous about this one...{控制符3}{控制符4}
+00012836,102,{控制符2}This will decide whether we avoid relegation.{换行}I'm a bit nervous about this one...{控制符4}{结束}
 
-0001289D,109,Boss, we could clinch the title in the next match.{换行}That'd mean promotion, so let's do our best!{控制符3}{控制符4}
+0001289D,109,Boss, we could clinch the title in the next match.{换行}That'd mean promotion, so let's do our best!{控制符4}{结束}
 
-0001290B,151,Boss, we could clinch the title in the next match.{换行}That'd mean we get a chance at a play-off to get{换行}into Pro League 2. Let's do our best!{控制符3}{控制符4}
+0001290B,151,Boss, we could clinch the title in the next match.{换行}That'd mean we get a chance at a play-off to get{换行}into Pro League 2. Let's do our best!{控制符4}{结束}
 
-000129A3,152,Boss, we could clinch the title in the next match.{换行}That'd mean we get automatic promotion to{换行}Pro League 1, so let's give it our best shot!{控制符3}{控制符4}
+000129A3,152,Boss, we could clinch the title in the next match.{换行}That'd mean we get automatic promotion to{换行}Pro League 1, so let's give it our best shot!{控制符4}{结束}
 
-00012A3C,172,Boss, we could clinch the title in the next match.{换行}It all depends on the results of other matches{换行}though, so for now let's just concentrate on{换行}doing our best!{控制符3}{控制符4}
+00012A3C,172,Boss, we could clinch the title in the next match.{换行}It all depends on the results of other matches{换行}though, so for now let's just concentrate on{换行}doing our best!{控制符4}{结束}
 
 00012AE9,22,I'm speechless, {玩家名}
 
-00012B18,79,{换行}The fans have had enough of you, and it seems{换行}the club agrees...{控制符3}{控制符1}
+00012B18,79,{换行}The fans have had enough of you, and it seems{换行}the club agrees...{控制符4}{控制符2}
 
 00012B68,40,You've really worked hard for us,{换行}{玩家名}
 
-00012B91,67,. But you've been given the{换行}sack. I'm sorry to say...{控制符3}{控制符4}
+00012B91,67,. But you've been given the{换行}sack. I'm sorry to say...{控制符4}{结束}
 
 00012BD5,33,We tried our best for you, {玩家名}
 
-00012BF7,277,,{换行}but it looks like it wasn't enough.{控制符3}{换行}{控制符1}I didn't think you were doing much wrong...{控制符3}{换行}{控制符1}But in this game, results are everything.{控制符3}{换行}{控制符1}I'm sorry, boss! It may not count for much,{换行}but the team would play for you again in a{换行}heartbeat.{控制符3}{控制符4}
+00012BF7,277,,{换行}but it looks like it wasn't enough.{控制符4}{换行}{控制符2}I didn't think you were doing much wrong...{控制符4}{换行}{控制符2}But in this game, results are everything.{控制符4}{换行}{控制符2}I'm sorry, boss! It may not count for much,{换行}but the team would play for you again in a{换行}heartbeat.{控制符4}{结束}
 
 00012D0D,33,We tried our best for you, {玩家名}
 
-00012D2F,267,,{换行}but it looks like it wasn't enough.{控制符3}{换行}{控制符1}I didn't think you were doing much wrong...{控制符3}{换行}{控制符1}But in this game, results are everything.{控制符3}{换行}{控制符1}I'm sorry, boss! It may not count for much,{换行}but I'd work with you again in a heartbeat.{控制符3}{控制符4}
+00012D2F,267,,{换行}but it looks like it wasn't enough.{控制符4}{换行}{控制符2}I didn't think you were doing much wrong...{控制符4}{换行}{控制符2}But in this game, results are everything.{控制符4}{换行}{控制符2}I'm sorry, boss! It may not count for much,{换行}but I'd work with you again in a heartbeat.{控制符4}{结束}
 
 00012E3B,14,Boss... {玩家名}
 
 00012E69,8,{换行}Goodbye
 
-00012E90,14,{控制符3}{控制符4}
+00012E90,14,{控制符4}{结束}
 
 00012E9F,8,match_00
 
-00012EA8,35,{控制符2}Boss, can we stop the video?
+00012EA8,41,{控制符3}Boss, can we stop the video?{待测2}
 
-00012ED2,7,{控制符4}
+00012ED2,7,{结束}
 
-00012EDA,152,{控制符2}Boss, we're in the middle of a match!{换行}This could annoy the fans, and have a{换行}negative impact on your backing rate!{换行}Are you sure you want to leave?
+00012EDA,158,{控制符3}Boss, we're in the middle of a match!{换行}This could annoy the fans, and have a{换行}negative impact on your backing rate!{换行}Are you sure you want to leave?{待测2}
 
-00012F79,7,{控制符4}
+00012F79,7,{结束}
 
-00012F81,74,{控制符2}Are you off already, boss?{换行}You can leave things to us.{换行}Don't worry.
+00012F81,80,{控制符3}Are you off already, boss?{换行}You can leave things to us.{换行}Don't worry.{待测2}
 
-00012FD2,7,{控制符4}
+00012FD2,7,{结束}
 
-00012FDA,80,{控制符2}Do you want me to wind the video all{换行}the way back to the beginning, boss?
-
-00013031,7,{控制符4}
+00012FDA,94,{控制符3}Do you want me to wind the video all{换行}the way back to the beginning, boss?{控制符1}{结束}
 
 00013039,38,So it's come down to penalties,{换行}{玩家名}
 
-00013060,85,. If you're happy with the{换行}order of the penalty takers, just select OK.{控制符3}{控制符4}
+00013060,85,. If you're happy with the{换行}order of the penalty takers, just select OK.{控制符4}{结束}
 
-000130B6,67,{控制符2}If you win the toss, would you prefer to go first{换行}or second?
+000130B6,67,{控制符3}If you win the toss, would you prefer to go first{换行}or second?
 
-000130FA,125,{控制符2}Boss, we're still in the middle of a{换行}match! You're supposed to be the{换行}All Star manager! Are you really{换行}going to leave?
+000130FA,131,{控制符3}Boss, we're still in the middle of a{换行}match! You're supposed to be the{换行}All Star manager! Are you really{换行}going to leave?{待测2}
 
-0001317E,7,{控制符4}
+0001317E,7,{结束}
 
-00013186,67,And the result of the coin toss is...{换行}We'll go first.{控制符3}{控制符4}
+00013186,67,And the result of the coin toss is...{换行}We'll go first.{控制符4}{结束}
 
-000131CA,79,And the result of the coin toss is...{换行}Our opponent will go first.{控制符3}{控制符4}
+000131CA,79,And the result of the coin toss is...{换行}Our opponent will go first.{控制符4}{结束}
 
-0001321A,93,{控制符2}Due to a lack of players (less than {数字1}),{换行}{数字8} forfeit the match.{控制符3}{控制符4}
+0001321A,93,{控制符3}Due to a lack of players (less than {数字1}),{换行}{数字8} forfeit the match.{控制符4}{结束}
 
-00013278,83,{控制符2}{数字8} no longer have {换行}{数字1} players, so the match is over.{控制符3}{控制符4}
+00013278,83,{控制符3}{数字8} no longer have {换行}{数字1} players, so the match is over.{控制符4}{结束}
 
-000132CC,102,{控制符2}The match could not take place, because there{换行}were not enough players registered.{控制符3}{控制符4}
+000132CC,102,{控制符3}The match could not take place, because there{换行}were not enough players registered.{控制符4}{结束}
 
-00013333,43,{控制符1}{控制符2}OK! Let's get to the stadium.
+00013333,57,{控制符2}{控制符3}OK! Let's get to the stadium.{控制符1}{结束}
 
-00013365,7,{控制符4}
+0001336D,183,Boss, you need at least 7 players to have a{换行}match. You need to get some more players.{控制符4}{换行}{控制符2}Go to the Club Office to manage your team and{换行}sign some more players.{控制符4}{结束}
 
-0001336D,183,Boss, you need at least 7 players to have a{换行}match. You need to get some more players.{控制符3}{换行}{控制符1}Go to the Club Office to manage your team and{换行}sign some more players.{控制符3}{控制符4}
+00013425,182,Boss, you've only got {数字1} {数字8} who can take{换行}part in the match!{控制符4}{换行}{控制符3}Do you want to go to the Club Office to manage{换行}your team and sign some more players?{控制符1}{结束}
 
-00013425,168,Boss, you've only got {数字1} {数字8} who can take{换行}part in the match!{控制符3}{换行}{控制符2}Do you want to go to the Club Office to manage{换行}your team and sign some more players?
+000134DC,120,{控制符2}Well...that's up to you, but it won't be much of{换行}a game...{换行}{控制符3}Do you want to go to the stadium?{控制符1}{结束}
 
-000134D4,7,{控制符4}
-
-000134DC,106,{控制符1}Well...that's up to you, but it won't be much of{换行}a game...{换行}{控制符2}Do you want to go to the stadium?
-
-0001354D,7,{控制符4}
-
-00013555,65,{控制符2}Erm, are you sure you want to go to the stadium{换行}like this?
-
-0001359D,7,{控制符4}
+00013555,79,{控制符3}Erm, are you sure you want to go to the stadium{换行}like this?{控制符1}{结束}
 
 000135A5,12,gotomatch_05
 
-000135B2,47,Do you want to play a friendly against{换行}{队名2}?
+000135B2,61,Do you want to play a friendly against{换行}{队名2}?{控制符1}{结束}
 
-000135E8,7,{控制符4}
+000135F0,53,{控制符2}OK! Let's head off to the match.{控制符4}{结束}
 
-000135F0,53,{控制符1}OK! Let's head off to the match.{控制符3}{控制符4}
+00013626,67,Do you want to play a practice match against{换行}{队名2}?{控制符1}{结束}
 
-00013626,53,Do you want to play a practice match against{换行}{队名2}?
+0001366A,89,You don't have any practice match offers.{换行}All the other teams must be busy.{控制符4}{结束}
 
-00013662,7,{控制符4}
+000136C4,67,{队名2}?{换行}Are you sure you want to reject the offer from{换行}them?{待测2}
 
-0001366A,89,You don't have any practice match offers.{换行}All the other teams must be busy.{控制符3}{控制符4}
+00013708,7,{结束}
 
-000136C4,61,{队名2}?{换行}Are you sure you want to reject the offer from{换行}them?
+00013710,78,Understood. I'll let{换行}{队名2} know that{换行}you've decided to cancel.{控制符4}{结束}
 
-00013708,7,{控制符4}
-
-00013710,78,Understood. I'll let{换行}{队名2} know that{换行}you've decided to cancel.{控制符3}{控制符4}
-
-0001375F,72,OK. Let's play a friendly against{换行}{队名2} some other{换行}time.{控制符3}{控制符4}
+0001375F,72,OK. Let's play a friendly against{换行}{队名2} some other{换行}time.{控制符4}{结束}
 
 000137A8,42,You haven't specified a goalkeeper,{换行}{玩家名}
 
-000137D3,98,. Please rearrange your{换行}squad so that you have a goalkeeper{换行}in the starting line-up.{控制符3}{控制符4}
+000137D3,98,. Please rearrange your{换行}squad so that you have a goalkeeper{换行}in the starting line-up.{控制符4}{结束}
 
-00013836,122,You have players in your starting line-up who{换行}cannot play right now. Please rearrange your{换行}starting line-up.{控制符3}{控制符4}
+00013836,122,You have players in your starting line-up who{换行}cannot play right now. Please rearrange your{换行}starting line-up.{控制符4}{结束}
 
-000138B1,124,Some players on your bench cannot play right{换行}now.{控制符3} {控制符2}Are you sure you want to start the match{换行}with these players?
+000138B1,130,Some players on your bench cannot play right{换行}now.{控制符4} {控制符3}Are you sure you want to start the match{换行}with these players?{待测2}
 
-00013934,7,{控制符4}
+00013934,7,{结束}
 
-0001393C,59,OK, we'll start the match with these players.{控制符3}{控制符4}
+0001393C,59,OK, we'll start the match with these players.{控制符4}{结束}
 
-00013978,423,{数字8}This is it! Our first official match!{换行}Good luck!{控制符3}{换行}{控制符1}Before official matches, you can see the fans'{换行}prediction for the match outcome as a{换行}percentage in the "Results Forecast" column.{控制符3}{换行}{控制符1}You can use these figures as a rough guide to{换行}how strong each team is.{控制符3}{换行}{控制符1}Try to organise your team effectively and lead{换行}them to victory!{控制符3}{换行}{控制符1}{控制符2}Well then, let's head into the stadium.
+00013978,437,{数字8}This is it! Our first official match!{换行}Good luck!{控制符4}{换行}{控制符2}Before official matches, you can see the fans'{换行}prediction for the match outcome as a{换行}percentage in the "Results Forecast" column.{控制符4}{换行}{控制符2}You can use these figures as a rough guide to{换行}how strong each team is.{控制符4}{换行}{控制符2}Try to organise your team effectively and lead{换行}them to victory!{控制符4}{换行}{控制符2}{控制符3}Well then, let's head into the stadium.{控制符1}{结束}
 
-00013B26,7,{控制符4}
+00013B2E,272,{数字8}Today's the first match of the Federation Cup!{换行}The tournament runs alongside the regular{换行}league games, so make sure you keep an eye on{换行}the condition of your players as you soldier on.{控制符4}{控制符2}{换行}{控制符2}{控制符3}Well then, let's head into the stadium.{控制符1}{结束}
 
-00013B2E,258,{数字8}Today's the first match of the Federation Cup!{换行}The tournament runs alongside the regular{换行}league games, so make sure you keep an eye on{换行}the condition of your players as you soldier on.{控制符3}{控制符1}{换行}{控制符1}{控制符2}Well then, let's head into the stadium.
+00013C3F,104,Boss, this week we have an official match.{控制符4}{换行}{控制符3}Do you want to go to the stadium?{控制符1}{结束}
 
-00013C37,7,{控制符4}
+00013CA8,56,Boss, this week we have an official match.{控制符4}{控制符2}
 
-00013C3F,90,Boss, this week we have an official match.{控制符3}{换行}{控制符2}Do you want to go to the stadium?
+00013CE1,238,{控制符3}The match is over. Press the X Button if you{换行}want to record the video of the match.{控制符4}{换行}{控制符2}{控制符3}You can watch matches you've recorded in the{换行}Video Library in the Team Camp.{换行}You can save up to {数字2} {数字8}.{控制符4}{结束}
 
-00013CA0,7,{控制符4}
+00013DD0,62,{控制符3}Do you want to save a video of this goal?{控制符1}{结束}
 
-00013CA8,56,Boss, this week we have an official match.{控制符3}{控制符1}
+00013E0F,97,{控制符3}Select this option while watching a goal replay{换行}to save a video of the goal.{控制符4}{结束}
 
-00013CE1,238,{控制符2}The match is over. Press the X Button if you{换行}want to record the video of the match.{控制符3}{换行}{控制符1}{控制符2}You can watch matches you've recorded in the{换行}Video Library in the Team Camp.{换行}You can save up to {数字2} {数字8}.{控制符3}{控制符4}
+00013E71,103,{控制符3}Boss, there was a problem and we were unable{换行}to record a video of today's match...{控制符4}{结束}
 
-00013DD0,48,{控制符2}Do you want to save a video of this goal?
+00013ED9,111,{控制符3}Boss, you can't save any more videos, so{换行}please select a match video you'd like to delete.{控制符4}{结束}
 
-00013E07,7,{控制符4}
+00013F49,110,{控制符3}Boss, you can't save any more videos, so{换行}please select a goal video you'd like to delete.{控制符4}{结束}
 
-00013E0F,97,{控制符2}Select this option while watching a goal replay{换行}to save a video of the goal.{控制符3}{控制符4}
+00013FB8,69,{控制符3}Are you sure you want to delete the video of this{换行}match?{待测2}
 
-00013E71,103,{控制符2}Boss, there was a problem and we were unable{换行}to record a video of today's match...{控制符3}{控制符4}
+00013FFE,7,{结束}
 
-00013ED9,111,{控制符2}Boss, you can't save any more videos, so{换行}please select a match video you'd like to delete.{控制符3}{控制符4}
+00014006,68,{控制符3}Are you sure you want to delete the video of this{换行}goal?{待测2}
 
-00013F49,110,{控制符2}Boss, you can't save any more videos, so{换行}please select a goal video you'd like to delete.{控制符3}{控制符4}
+0001404B,7,{结束}
 
-00013FB8,63,{控制符2}Are you sure you want to delete the video of this{换行}match?
+00014053,153,{控制符3}Are you sure you want to delete this video and{换行}save today's match? (If you save it, the video{换行}of today's match will be moved to the bottom.){待测2}
 
-00013FFE,7,{控制符4}
+000140ED,7,{结束}
 
-00014006,62,{控制符2}Are you sure you want to delete the video of this{换行}goal?
+000140F5,171,{控制符3}Are you sure you want to delete the video of this{换行}goal and save the new goal video?{换行}(If you save it, the video of the goal scene will{换行}be moved to the bottom.){待测2}
 
-0001404B,7,{控制符4}
-
-00014053,147,{控制符2}Are you sure you want to delete this video and{换行}save today's match? (If you save it, the video{换行}of today's match will be moved to the bottom.)
-
-000140ED,7,{控制符4}
-
-000140F5,165,{控制符2}Are you sure you want to delete the video of this{换行}goal and save the new goal video?{换行}(If you save it, the video of the goal scene will{换行}be moved to the bottom.)
-
-000141A1,7,{控制符4}
+000141A1,7,{结束}
 
 000141A9,6,vtr_10
 
-000141B0,69,{控制符1}{控制符2}Saving video...{换行}Do not turn off the power. Please wait.
+000141B0,69,{控制符2}{控制符3}Saving video...{换行}Do not turn off the power. Please wait.
 
-000141F6,71,{控制符1}{控制符2}Deleting video...{换行}Do not turn off the power. Please wait.
+000141F6,71,{控制符2}{控制符3}Deleting video...{换行}Do not turn off the power. Please wait.
 
-0001423E,54,{控制符1}{控制符2}Finished saving the video.{控制符3}{控制符4}
+0001423E,54,{控制符2}{控制符3}Finished saving the video.{控制符4}{结束}
 
-00014275,56,{控制符1}{控制符2}Finished deleting the video.{控制符3}{控制符4}
+00014275,56,{控制符2}{控制符3}Finished deleting the video.{控制符4}{结束}
 
-000142AE,53,{控制符1}{控制符2}Could not save the video.{控制符3}{控制符4}
+000142AE,53,{控制符2}{控制符3}Could not save the video.{控制符4}{结束}
 
-000142E4,55,{控制符1}{控制符2}Could not delete the video.{控制符3}{控制符4}
+000142E4,55,{控制符2}{控制符3}Could not delete the video.{控制符4}{结束}
 
 0001431C,6,vtr_17
 
@@ -1520,69 +1454,63 @@
 
 00014331,6,vtr_20
 
-00014338,74,{控制符1}{控制符2}Saving goal video...{换行}Do not turn off the power. Please wait.
+00014338,74,{控制符2}{控制符3}Saving goal video...{换行}Do not turn off the power. Please wait.
 
-00014383,76,{控制符1}{控制符2}Deleting goal video...{换行}Do not turn off the power. Please wait.
+00014383,76,{控制符2}{控制符3}Deleting goal video...{换行}Do not turn off the power. Please wait.
 
-000143D0,59,{控制符1}{控制符2}Finished saving the goal video.{控制符3}{控制符4}
+000143D0,59,{控制符2}{控制符3}Finished saving the goal video.{控制符4}{结束}
 
-0001440C,61,{控制符1}{控制符2}Finished deleting the goal video.{控制符3}{控制符4}
+0001440C,61,{控制符2}{控制符3}Finished deleting the goal video.{控制符4}{结束}
 
-0001444A,58,{控制符1}{控制符2}Could not save the goal video.{控制符3}{控制符4}
+0001444A,58,{控制符2}{控制符3}Could not save the goal video.{控制符4}{结束}
 
-00014485,60,{控制符1}{控制符2}Could not delete the goal video.{控制符3}{控制符4}
+00014485,60,{控制符2}{控制符3}Could not delete the goal video.{控制符4}{结束}
 
-000144C2,62,{控制符2}Are you sure you want to play the video for this{换行}match?
+000144C2,76,{控制符3}Are you sure you want to play the video for this{换行}match?{控制符1}{结束}
 
-00014507,7,{控制符4}
+0001450F,82,{控制符3}Found video for this game ID.{换行}Do you want to play this video?{控制符1}{结束}
 
-0001450F,68,{控制符2}Found video for this game ID.{换行}Do you want to play this video?
+00014562,136,{控制符2}{控制符3}Finished saving the goal video.{控制符4}{换行}{控制符2}{控制符3}You can watch it in the Video Library{换行}in the Team Camp.{控制符4}{结束}
 
-0001455A,7,{控制符4}
+000145EB,92,I'm back from injury, boss!{换行}I'll try my best to make up for the time I missed.{控制符4}{结束}
 
-00014562,136,{控制符1}{控制符2}Finished saving the goal video.{控制符3}{换行}{控制符1}{控制符2}You can watch it in the Video Library{换行}in the Team Camp.{控制符3}{控制符4}
+00014648,191,I've been given too many yellow cards, boss.{换行}So I'm not allowed to play in the next official{换行}match.{控制符4}{换行}{控制符2}Sorry about that, boss...{换行}I didn't mean to let the side down...{控制符4}{结束}
 
-000145EB,92,I'm back from injury, boss!{换行}I'll try my best to make up for the time I missed.{控制符3}{控制符4}
-
-00014648,191,I've been given too many yellow cards, boss.{换行}So I'm not allowed to play in the next official{换行}match.{控制符3}{换行}{控制符1}Sorry about that, boss...{换行}I didn't mean to let the side down...{控制符3}{控制符4}
-
-00014708,129,I won't be able to appear in the next official{换行}match because of the red card I got today.{换行}I'm really sorry, boss...{控制符3}{控制符4}
+00014708,129,I won't be able to appear in the next official{换行}match because of the red card I got today.{换行}I'm really sorry, boss...{控制符4}{结束}
 
 0001478A,66,Boss, we've got the results of the medical{换行}tests for {数字8} back.
 
 000147D4,59,Boss! {数字8} got injured while{换行}training at the Team Camp.{换行}
 
-00014810,41,He needs {数字3} {数字1} to recover from{换行}
+00014810,41,He needs {数字3} {数字0} to recover from{换行}
 
-00014840,8,.{控制符3}
+00014840,8,.{控制符4}
 
 00014849,7,Due to 
 
-00014857,52,, he'll be out of action{换行}for {数字3} {数字1}.{控制符3}
+00014857,52,, he'll be out of action{换行}for {数字3} {数字0}.{控制符4}
 
-0001488C,131,{控制符1}Of course, while injured, he can't play in{换行}matches and his abilities will decrease slightly.{换行}It hurts the whole team.{控制符3}
+0001488C,131,{控制符2}Of course, while injured, he can't play in{换行}matches and his abilities will decrease slightly.{换行}It hurts the whole team.{控制符4}
 
 00014910,44,Boss, {数字8} got injured during the match!{换行}
 
-0001493D,119,{控制符2}Select a kit to wear and then press OK.{控制符3}{换行}{控制符1}{控制符2}You can switch kit with the A Button.{控制符3}{控制符4}
+0001493D,119,{控制符3}Select a kit to wear and then press OK.{控制符4}{换行}{控制符2}{控制符3}You can switch kit with the A Button.{控制符4}{结束}
 
-000149B5,41,{控制符2}Do you want to cancel the changes?
+000149B5,55,{控制符3}Do you want to cancel the changes?{控制符1}{结束}
 
-000149E5,7,{控制符4}
+000149ED,39,{控制符3}The kit design has been changed.
 
-000149ED,39,{控制符2}The kit design has been changed.
+00014A29,7,{结束}
 
-00014A29,7,{控制符4}
+00014A31,42,{控制符3}The emblem design has been changed.
 
-00014A31,42,{控制符2}The emblem design has been changed.
-
-00014A70,7,{控制符4}
+00014A70,7,{结束}
 
 00014A78,8,pldat_00
 
-00014A81,52,{控制符2}Are you sure you want to dismiss this player?
+00014A81,58,{控制符3}Are you sure you want to dismiss this player?{待测2}
 
-00014ABC,7,{控制符4}
+00014ABC,7,{结束}
 
 00014AC4,8,pldat_02
 
@@ -1600,119 +1528,111 @@
 
 00014B03,8,pldat_09
 
-00014B0C,58,{控制符2}This is {队员2}'s number.{换行}Do you want to switch it?
-
-00014B4D,7,{控制符4}
+00014B0C,72,{控制符3}This is {队员2}'s number.{换行}Do you want to switch it?{控制符1}{结束}
 
 00014B55,8,pldat_11
 
 00014B5E,8,pldat_12
 
-00014B67,123,We've managed to complete the contract{换行}negotiations straight away.{换行}Let's hope he proves an asset to the team.{控制符3}{控制符4}
+00014B67,123,We've managed to complete the contract{换行}negotiations straight away.{换行}Let's hope he proves an asset to the team.{控制符4}{结束}
 
 00014BE3,8,staff_01
 
-00014BEC,88,I'll make contact as soon as possible.{换行}Let's hope we get a quick response!{控制符3}{控制符4}
+00014BEC,88,I'll make contact as soon as possible.{换行}Let's hope we get a quick response!{控制符4}{结束}
 
-00014C45,96,You've already made several offers. Try again{换行}after you've heard back about those.{控制符3}{控制符4}
+00014C45,96,You've already made several offers. Try again{换行}after you've heard back about those.{控制符4}{结束}
 
-00014CA6,42,He's agreed to join {队名1}!{控制符3}{控制符4}
+00014CA6,42,He's agreed to join {队名1}!{控制符4}{结束}
 
-00014CD1,150,If this player joins the club, the total salary bill{换行}will be {数字1} {数字8} over budget.{控制符3}{换行}{控制符2}Would you like to dismiss other players first?
-
-00014D6E,7,{控制符4}
+00014CD1,164,If this player joins the club, the total salary bill{换行}will be {数字0} {数字8} over budget.{控制符4}{换行}{控制符3}Would you like to dismiss other players first?{控制符1}{结束}
 
 00014D76,8,staff_06
 
-00014D7F,68,We'll have to abandon signing this player.{控制符3}{换行}{控制符2}Is that OK?
+00014D7F,82,We'll have to abandon signing this player.{控制符4}{换行}{控制符3}Is that OK?{控制符1}{结束}
 
-00014DCA,7,{控制符4}
+00014DD2,51,OK...{换行}It seems it wasn't meant to be.{控制符4}{结束}
 
-00014DD2,51,OK...{换行}It seems it wasn't meant to be.{控制符3}{控制符4}
+00014E06,98,Unfortunately your offer's been rejected.{换行}Why not consider another available player?{控制符4}{结束}
 
-00014E06,98,Unfortunately your offer's been rejected.{换行}Why not consider another available player?{控制符3}{控制符4}
+00014E69,64,{控制符3}Do you want to give this player a contract?{控制符1}{结束}
 
-00014E69,50,{控制符2}Do you want to give this player a contract?
+00014EAA,101,He's now a part of the team here at{换行}{队名1}.{换行}Let's hope he proves to be a good signing.{控制符4}{结束}
 
-00014EA2,7,{控制符4}
+00014F10,73,Oh, I see... That's a shame.{换行}Well, then, I'll let him know.{控制符4}{结束}
 
-00014EAA,101,He's now a part of the team here at{换行}{队名1}.{换行}Let's hope he proves to be a good signing.{控制符3}{控制符4}
+00014F5A,157,What?! Well, we did make him the offer,{换行}remember? Just let me check again with you...{控制符4}{换行}{控制符3}Do you want to give this player a contract?{控制符1}{结束}
 
-00014F10,73,Oh, I see... That's a shame.{换行}Well, then, I'll let him know.{控制符3}{控制符4}
+00014FF8,66,He's decided to retire...{换行}That's sad news, isn't it?{控制符4}{结束}
 
-00014F5A,143,What?! Well, we did make him the offer,{换行}remember? Just let me check again with you...{控制符3}{换行}{控制符2}Do you want to give this player a contract?
+0001503B,147,He's {数字8}decided{换行}to move to {队名2}.{换行}They're in the same league as us, so go easy on{换行}him, when you meet him in a match, won't you?{控制符4}{结束}
 
-00014FF0,7,{控制符4}
+000150CF,138,He's {数字8}decided{换行}to move to {队名2}.{换行}They're not in the same league as us, so let's{换行}wish him all the best for the future.{控制符4}{结束}
 
-00014FF8,66,He's decided to retire...{换行}That's sad news, isn't it?{控制符3}{控制符4}
+0001515A,107,He hasn't decided what team he wants to move{换行}to, but we wish him all the best for the future.{控制符4}{结束}
 
-0001503B,147,He's {数字8}decided{换行}to move to {队名2}.{换行}They're in the same league as us, so go easy on{换行}him, when you meet him in a match, won't you?{控制符3}{控制符4}
+000151C6,97,{控制符3}We're over budget. We need to reduce our{换行}salary payments by {数字0} {数字8}.{控制符4}{结束}
 
-000150CF,138,He's {数字8}decided{换行}to move to {队名2}.{换行}They're not in the same league as us, so let's{换行}wish him all the best for the future.{控制符3}{控制符4}
+00015228,62,We're in no situation to be making offers, boss!{控制符4}{结束}
 
-0001515A,107,He hasn't decided what team he wants to move{换行}to, but we wish him all the best for the future.{控制符3}{控制符4}
+00015267,177,{控制符3}What can I do for you, boss? Just go ahead and{换行}make any changes you see fit. I'll take care of{换行}the paperwork and make sure everything's{换行}cleared at the next board meeting.
 
-000151C6,97,{控制符2}We're over budget. We need to reduce our{换行}salary payments by {数字1} {数字8}.{控制符3}{控制符4}
+00015319,121,{控制符2}{控制符3}If there's nothing else, just press the B Button{换行}to leave the office, and let me get on with the{换行}paperwork.
 
-00015228,62,We're in no situation to be making offers, boss!{控制符3}{控制符4}
+0001539A,148,{控制符2}{控制符3}Is there anything else I can help you with?{换行}If not, just press the B Button to leave the office,{换行}and let me get on with the paperwork.
 
-00015267,177,{控制符2}What can I do for you, boss? Just go ahead and{换行}make any changes you see fit. I'll take care of{换行}the paperwork and make sure everything's{换行}cleared at the next board meeting.
+00015436,86,{控制符2}{控制符3}I'm looking forward to seeing what this kit{换行}looks like out on the pitch!
 
-00015319,121,{控制符1}{控制符2}If there's nothing else, just press the B Button{换行}to leave the office, and let me get on with the{换行}paperwork.
-
-0001539A,148,{控制符1}{控制符2}Is there anything else I can help you with?{换行}If not, just press the B Button to leave the office,{换行}and let me get on with the paperwork.
-
-00015436,86,{控制符1}{控制符2}I'm looking forward to seeing what this kit{换行}looks like out on the pitch!
-
-00015494,96,{控制符1}{控制符2}I hope that this smart new emblem will usher{换行}in a new era of success for the club!
+00015494,96,{控制符2}{控制符3}I hope that this smart new emblem will usher{换行}in a new era of success for the club!
 
 000154FC,8,staff_25
 
-00015505,101,{控制符1}{控制符2}So, we'll be rebranded as{换行}"{队名1}".{换行}I can't wait till I see it used in our next match!
+00015505,101,{控制符2}{控制符3}So, we'll be rebranded as{换行}"{队名1}".{换行}I can't wait till I see it used in our next match!
 
 00015572,45,{数字8} has decided to leave the club,{换行}{玩家名}
 
-000155A0,15,.{控制符3}{控制符1}
+000155A0,15,.{控制符4}{控制符2}
 
 000155B0,82,Because we didn't renew his contract{换行}{数字8} has decided to leave the{换行}club, {玩家名}
 
-00015603,15,.{控制符3}{控制符1}
+00015603,15,.{控制符4}{控制符2}
 
 00015613,8,staff_29
 
-0001561C,288,{控制符2}You can exchange team data with other nearby{换行}users via StreetPass.{控制符3}{换行}{控制符1}{控制符2}Play practice and friendly matches against{换行}teams you receive in the Stadium.{控制符3}{换行}{控制符1}{控制符2}Once you've played against a StreetPass team,{换行}data for that team will be deleted.{控制符3}{控制符4}
+0001561C,288,{控制符3}You can exchange team data with other nearby{换行}users via StreetPass.{控制符4}{换行}{控制符2}{控制符3}Play practice and friendly matches against{换行}teams you receive in the Stadium.{控制符4}{换行}{控制符2}{控制符3}Once you've played against a StreetPass team,{换行}data for that team will be deleted.{控制符4}{结束}
 
-0001573D,87,Boss, about that offer you made for {数字1}{换行}who's currently at {数字8}...{控制符3}{控制符1}
+0001573D,87,Boss, about that offer you made for {数字0}{换行}who's currently at {数字8}...{控制符4}{控制符2}
 
-00015795,87,Boss, about that offer you made for {数字1}{换行}who's currently at {数字8}...{控制符3}{控制符1}
+00015795,87,Boss, about that offer you made for {数字0}{换行}who's currently at {数字8}...{控制符4}{控制符2}
 
 000157ED,8,staff_33
 
 000157F6,8,train_00
 
-000157FF,108,Select one or more training cards and press the{换行}X Button to set that training for your player.{控制符3}{控制符4}
+000157FF,108,Select one or more training cards and press the{换行}X Button to set that training for your player.{控制符4}{结束}
 
-0001586C,45,{控制符2}Is this the training for today,{换行}{玩家名}
+0001586C,45,{控制符3}Is this the training for today,{换行}{玩家名}
+
+0001589A,8,?{控制符1}
 
 000158A3,6,{玩家名}
 
-000158AA,77,, the other day, we practised{换行}using a combination of "{数字8}" and {换行}"{数字1}"
+000158AA,77,, the other day, we practised{换行}using a combination of "{数字8}" and {换行}"{数字0}"
 
-000158F8,147,, and it struck me that adding{换行}one more might make the training even better.{控制符3}{换行}{控制符1}I'm not sure which one you'd add though...{控制符3}{控制符4}
+000158F8,147,, and it struck me that adding{换行}one more might make the training even better.{控制符4}{换行}{控制符2}I'm not sure which one you'd add though...{控制符4}{结束}
 
-0001598C,73,The members of the All Star team have been{换行}announced, boss.{控制符3}{控制符1}
+0001598C,73,The members of the All Star team have been{换行}announced, boss.{控制符4}{控制符2}
 
-000159D6,102,Unfortunately, they haven't selected any{换行}{队名1} players.{换行}That's a bit of a blow for us.{控制符3}{控制符4}
+000159D6,102,Unfortunately, they haven't selected any{换行}{队名1} players.{换行}That's a bit of a blow for us.{控制符4}{结束}
 
-00015A3D,62,We've had {数字2} {数字8} selected from{换行}{队名1}!{控制符3}{控制符1}
+00015A3D,62,We've had {数字2} {数字8} selected from{换行}{队名1}!{控制符4}{控制符2}
 
-00015A7C,208,This won't have any effect on our club matches,{换行}but the players who get selected do tend to get{换行}a fresh burst of enthusiasm for the game.{控制符3}{换行}{控制符1}Their skills may well be taken up a notch.{控制符3}{控制符4}
+00015A7C,208,This won't have any effect on our club matches,{换行}but the players who get selected do tend to get{换行}a fresh burst of enthusiasm for the game.{控制符4}{换行}{控制符2}Their skills may well be taken up a notch.{控制符4}{结束}
 
-00015B4D,106,Boss, it appears that my efforts at the club have{换行}been recognised. I'll try to do you proud!{控制符3}{控制符4}
+00015B4D,106,Boss, it appears that my efforts at the club have{换行}been recognised. I'll try to do you proud!{控制符4}{结束}
 
-00015BB8,136,I'll show them all what I'm capable of in the{换行}All Star team. Don't worry, I won't let you or{换行}{队名1} down.{换行}Just you watch!{控制符3}{控制符4}
+00015BB8,136,I'll show them all what I'm capable of in the{换行}All Star team. Don't worry, I won't let you or{换行}{队名1} down.{换行}Just you watch!{控制符4}{结束}
 
-00015C41,151,Because I've been working so hard here at{换行}{队名1}, I've finally{换行}realised my dream of making the All Star team.{换行}Thanks ever so much, boss!{控制符3}{控制符4}
+00015C41,151,Because I've been working so hard here at{换行}{队名1}, I've finally{换行}realised my dream of making the All Star team.{换行}Thanks ever so much, boss!{控制符4}{结束}
 
 00015CD9,11,national_07
 
@@ -1722,81 +1642,77 @@
 
 00015CFD,11,Hey, {玩家名}
 
-00015D1F,206,{换行}About the All Star game this weekend,{换行}apparently the All Star coach has fallen ill and{换行}won't be able to take care of the team.{控制符3}{换行}{控制符1}And guess what...{控制符3}{换行}They want YOU to take his place,{换行}{玩家名}
+00015D1F,206,{换行}About the All Star game this weekend,{换行}apparently the All Star coach has fallen ill and{换行}won't be able to take care of the team.{控制符4}{换行}{控制符2}And guess what...{控制符4}{换行}They want YOU to take his place,{换行}{玩家名}
 
-00015DEE,252,! It seems that your style{换行}of coaching has caught the federation's eye.{控制符3}{换行}{控制符1}The match is a friendly against{换行}{队名2}, a regular{换行}competitor in the World Club Classic.{控制符3}{换行}{控制符1}{控制符2}What do you think? Do you want to take{换行}on the challenge?
+00015DEE,259,! It seems that your style{换行}of coaching has caught the federation's eye.{控制符4}{换行}{控制符2}The match is a friendly against{换行}{队名2}, a regular{换行}competitor in the World Club Classic.{控制符4}{换行}{控制符2}{控制符3}What do you think? Do you want to take{换行}on the challenge?{控制符1}
 
-00015EF2,81,{控制符1}That's right! Whatever the result it'll be good{换行}experience for you, {玩家名}
+00015EF2,81,{控制符2}That's right! Whatever the result it'll be good{换行}experience for you, {玩家名}
 
-00015F44,46,!{换行}I think you'll do a great job!{控制符3}{控制符4}
+00015F44,46,!{换行}I think you'll do a great job!{控制符4}{结束}
 
-00015F73,45,{控制符1}You're going to turn them down,{换行}{玩家名}
+00015F73,45,{控制符2}You're going to turn them down,{换行}{玩家名}
 
-00015FA9,178, But this might be your{换行}only chance!{控制符3}{换行}{控制符1}{队名1}'s players are{换行}all really excited for you. Won't you rethink?{控制符3}{换行}{控制符1}{控制符2}Do you want to take on the challenge?
+00015FA9,185, But this might be your{换行}only chance!{控制符4}{换行}{控制符2}{队名1}'s players are{换行}all really excited for you. Won't you rethink?{控制符4}{换行}{控制符2}{控制符3}Do you want to take on the challenge?{控制符1}
 
-00016063,159,{控制符1}Oh, so you're really not interested... I thought it{换行}would have been a good idea, but OK...{换行}Let's concentrate on our work for{换行}{队名1} then.{控制符3}{控制符4}
+00016063,159,{控制符2}Oh, so you're really not interested... I thought it{换行}would have been a good idea, but OK...{换行}Let's concentrate on our work for{换行}{队名1} then.{控制符4}{结束}
 
-00016103,90,{控制符2}Are you happy with these All Star players?{换行}Well then, shall we head to the stadium?
+00016103,104,{控制符3}Are you happy with these All Star players?{换行}Well then, shall we head to the stadium?{控制符1}{结束}
 
-00016164,7,{控制符4}
+0001616C,56,{控制符3}Do you want to call up this player?{控制符1}{结束}
 
-0001616C,42,{控制符2}Do you want to call up this player?
+000161A5,126,Injured players cannot join the All Star team.{换行}Please replace them with other players who are{换行}fit and available.{控制符4}{结束}
 
-0001619D,7,{控制符4}
+00016224,184,Players from the team you're going to play{换行}against can't be selected for the All Star team.{换行}Please replace any opposing team players with{换行}other players who are available.{控制符4}{结束}
 
-000161A5,126,Injured players cannot join the All Star team.{换行}Please replace them with other players who are{换行}fit and available.{控制符3}{控制符4}
-
-00016224,184,Players from the team you're going to play{换行}against can't be selected for the All Star team.{换行}Please replace any opposing team players with{换行}other players who are available.{控制符3}{控制符4}
-
-000162DD,140,{控制符2}If you want to call up replacements, select the{换行}players you wish to swap out by touching{换行}them or pressing the A Button.{控制符3}{控制符4}
+000162DD,140,{控制符3}If you want to call up replacements, select the{换行}players you wish to swap out by touching{换行}them or pressing the A Button.{控制符4}{结束}
 
 0001636A,11,national_19
 
-00016376,101,{控制符2}It'll soon be time for the first game of the{换行}season. The players are looking a little nervous.
+00016376,101,{控制符3}It'll soon be time for the first game of the{换行}season. The players are looking a little nervous.
 
-000163DC,98,{控制符2}The opening game of the season's approaching.{换行}The nerves are showing on the players' faces.
+000163DC,98,{控制符3}The opening game of the season's approaching.{换行}The nerves are showing on the players' faces.
 
-0001643F,70,{控制符2}We have a match this week.{换行}Let's hope we can get our first win!
+0001643F,70,{控制符3}We have a match this week.{换行}Let's hope we can get our first win!
 
-00016486,76,{控制符2}We have a match this week.{换行}Make sure you adjust the team as required.
+00016486,76,{控制符3}We have a match this week.{换行}Make sure you adjust the team as required.
 
-000164D3,38,{控制符2}We have a match coming up soon.
+000164D3,38,{控制符3}We have a match coming up soon.
 
-000164FA,91,We won {数字4}-{数字5} on penalties!{换行}Seems we're getting much better at them!{控制符3}{控制符4}
+000164FA,91,We won {数字4}-{数字5} on penalties!{换行}Seems we're getting much better at them!{控制符4}{结束}
 
-00016556,141,We lost {数字4}-{数字5} on penalties...{换行}That's harsh. We'll just have to put some work{换行}into perfecting our technique in future.{控制符3}{控制符4}
+00016556,141,We lost {数字4}-{数字5} on penalties...{换行}That's harsh. We'll just have to put some work{换行}into perfecting our technique in future.{控制符4}{结束}
 
-000165E4,75,We won on away goals!{换行}It's down to all that hard work we did!{控制符3}{控制符4}
+000165E4,75,We won on away goals!{换行}It's down to all that hard work we did!{控制符4}{结束}
 
-00016630,113,We lost on the away goal difference...{换行}That's a shame. We'll have to work hard for{换行}our next chance.{控制符3}{控制符4}
+00016630,113,We lost on the away goal difference...{换行}That's a shame. We'll have to work hard for{换行}our next chance.{控制符4}{结束}
 
-000166A2,60,We won {数字1}-{数字3}!{换行}What a great friendly!{控制符3}{控制符4}
+000166A2,60,We won {数字1}-{数字3}!{换行}What a great friendly!{控制符4}{结束}
 
-000166DF,57,We lost {数字1}-{数字3}...{换行}How frustrating!{控制符3}{控制符4}
+000166DF,57,We lost {数字1}-{数字3}...{换行}How frustrating!{控制符4}{结束}
 
 00016719,24,We won {数字1}-{数字3}!{换行}
 
 00016732,27,We lost {数字1}-{数字3}...{换行}
 
-0001674E,115,You found some new training cards.{换行}Make sure that you put them to good use{换行}when training the players.{控制符3}{控制符4}
+0001674E,115,You found some new training cards.{换行}Make sure that you put them to good use{换行}when training the players.{控制符4}{结束}
 
-000167C2,106,You didn't find many training cards, but keep{换行}on training your players with what you've got.{控制符3}{控制符4}
+000167C2,106,You didn't find many training cards, but keep{换行}on training your players with what you've got.{控制符4}{结束}
 
-0001682D,94,You found some new training cards.{换行}Keep training, and try to win the next match.{控制符3}{控制符4}
+0001682D,94,You found some new training cards.{换行}Keep training, and try to win the next match.{控制符4}{结束}
 
-0001688C,93,You didn't find too many training cards, but{换行}try to win your next match anyway.{控制符3}{控制符4}
+0001688C,93,You didn't find too many training cards, but{换行}try to win your next match anyway.{控制符4}{结束}
 
-000168EA,81,Ah, a win would have been good...{换行}But it was still a good friendly.{控制符3}{控制符4}
+000168EA,81,Ah, a win would have been good...{换行}But it was still a good friendly.{控制符4}{结束}
 
-0001693C,144,You forfeited the game, so it'll be marked as{换行}a {数字1}-{数字3} loss. Next time, you'd better make{换行}sure you've got enough players!{控制符3}{控制符4}
+0001693C,144,You forfeited the game, so it'll be marked as{换行}a {数字1}-{数字3} loss. Next time, you'd better make{换行}sure you've got enough players!{控制符4}{结束}
 
 000169CD,26,A {数字1}-{数字3} draw...{换行}
 
-000169E8,51,Good job!{换行}That was an impressive win!{控制符3}{控制符4}
+000169E8,51,Good job!{换行}That was an impressive win!{控制符4}{结束}
 
-00016A1C,92,Good job!{换行}You couldn't quite secure a victory, but you led{换行}the team very well.{控制符3}{控制符4}
+00016A1C,92,Good job!{换行}You couldn't quite secure a victory, but you led{换行}the team very well.{控制符4}{结束}
 
-00016A79,90,Good job!{换行}Despite losing, I think it was a good learning{换行}experience for you.{控制符3}{控制符4}
+00016A79,90,Good job!{换行}Despite losing, I think it was a good learning{换行}experience for you.{控制符4}{结束}
 
 00016AD4,6,Boss, 
 
@@ -1804,159 +1720,155 @@
 
 00016AE9,13,aftermatch_20
 
-00016AF7,90,We won {数字6}-{数字7} on aggregate!{换行}It must be down to all that hard graft.{控制符3}{控制符4}
+00016AF7,90,We won {数字6}-{数字7} on aggregate!{换行}It must be down to all that hard graft.{控制符4}{结束}
 
-00016B52,119,We lost {数字6}-{数字7} on aggregate...{换行}That's a real shame. We'll have to get ready{换行}for our next chance.{控制符3}{控制符4}
+00016B52,119,We lost {数字6}-{数字7} on aggregate...{换行}That's a real shame. We'll have to get ready{换行}for our next chance.{控制符4}{结束}
 
-00016BCA,108,This player isn't attached to any club, so I think{换行}we'll be able to draw up a contract quite quickly.{控制符3}
+00016BCA,108,This player isn't attached to any club, so I think{换行}we'll be able to draw up a contract quite quickly.{控制符4}
 
-00016C3E,135,This one's at {数字8}'s{换行}club, but since he's on the friend market,{换行}we should be able to draw up a contract{换行}quite quickly.{控制符3}{控制符1}
+00016C3E,135,This one's at {数字8}'s{换行}club, but since he's on the friend market,{换行}we should be able to draw up a contract{换行}quite quickly.{控制符4}{控制符2}
 
-00016CC6,79,It appears that he hasn't been given{换行}the chance to play much at{换行}{队名2}.{控制符3}
+00016CC6,79,It appears that he hasn't been given{换行}the chance to play much at{换行}{队名2}.{控制符4}
 
-00016D16,131,It seems like this player spent most of last{换行}season at {队名2} on{换行}the bench. I think he'll be eager to prove{换行}himself useful.{控制符3}
+00016D16,131,It seems like this player spent most of last{换行}season at {队名2} on{换行}the bench. I think he'll be eager to prove{换行}himself useful.{控制符4}
 
-00016D9A,116,His club, {队名2}, are{换行}hovering around the bottom of the table, so{换行}he's hoping to be able to make a transfer.{控制符3}
+00016D9A,116,His club, {队名2}, are{换行}hovering around the bottom of the table, so{换行}he's hoping to be able to make a transfer.{控制符4}
 
-00016E0F,67,He's already scored {数字3} {数字8} for{换行}{队名2} this season.{控制符3}
+00016E0F,67,He's already scored {数字3} {数字8} for{换行}{队名2} this season.{控制符4}
 
-00016E53,74,Last season, this player scored {数字3} {数字8} in{换行}{数字1} {数字1}.{控制符3}
+00016E53,74,Last season, this player scored {数字3} {数字8} in{换行}{数字1} {数字0}.{控制符4}
 
-00016E9E,74,Apparently, this player's been suffering from{换行}injuries this season.{控制符3}
+00016E9E,74,Apparently, this player's been suffering from{换行}injuries this season.{控制符4}
 
-00016EE9,64,Apparently this player struggled with injury{换行}last season.{控制符3}
+00016EE9,64,Apparently this player struggled with injury{换行}last season.{控制符4}
 
 00016F2A,41,This player's been playing for a team in{换行}
 
-00016F5A,8,.{控制符3}
+00016F5A,8,.{控制符4}
 
-00016F63,50,This player's signed to {队名2}{换行}apparently.{控制符3}
+00016F63,50,This player's signed to {队名2}{换行}apparently.{控制符4}
 
-00016F96,7,{控制符1}
+00016F96,7,{控制符2}
 
-00016FA4,69,So we're not really sure whether he'll come and{换行}play for us...{控制符3}
+00016FA4,69,So we're not really sure whether he'll come and{换行}play for us...{控制符4}
 
-00016FF1,88,{控制符1}We might not be successful. It looks like he's{换行}interested in another team.{控制符3}
+00016FF1,88,{控制符2}We might not be successful. It looks like he's{换行}interested in another team.{控制符4}
 
-00017051,114,{控制符1}We can't say for sure how this will turn out.{换行}We'll just have to make an offer and see{换行}what happens.{控制符3}
+00017051,114,{控制符2}We can't say for sure how this will turn out.{换行}We'll just have to make an offer and see{换行}what happens.{控制符4}
 
-000170CB,7,{控制符1}
+000170CB,7,{控制符2}
 
 000170D9,58,We've heard that he's really eager to play{换行}for you, {玩家名}
 
-00017114,8,.{控制符3}
+00017114,8,.{控制符4}
 
-00017124,7,{控制符1}
+00017124,7,{控制符2}
 
-00017132,66,I'm pretty certain we'll get a good response{换行}from this one.{控制符3}
+00017132,66,I'm pretty certain we'll get a good response{换行}from this one.{控制符4}
 
-0001717C,44,{控制符2}Do you want to make an offer for him?
+0001717C,50,{控制符3}Do you want to make an offer for him?{待测2}
 
-000171AF,7,{控制符4}
+000171AF,7,{结束}
 
-000171B7,7,{控制符1}
+000171B7,7,{控制符2}
 
-000171C5,94,Hmm, it's a shame but that'd put us over budget.{换行}We can't make an offer for him.{控制符3}{控制符4}
+000171C5,94,Hmm, it's a shame but that'd put us over budget.{换行}We can't make an offer for him.{控制符4}{结束}
 
-0001722B,145,Sorry, but we've already reached our club's{换行}player limit. We can only have 25 players in{换行}total. So, we can't make an offer for him.{控制符3}{控制符4}
+0001722B,145,Sorry, but we've already reached our club's{换行}player limit. We can only have 25 players in{换行}total. So, we can't make an offer for him.{控制符4}{结束}
 
-000172C4,160,Sorry, but we've already reached the limit of{换行}players we can receive from the friend market.{换行}The maximum is 16, so we can't make an offer{换行}for him.{控制符3}{控制符4}
+000172C4,160,Sorry, but we've already reached the limit of{换行}players we can receive from the friend market.{换行}The maximum is 16, so we can't make an offer{换行}for him.{控制符4}{结束}
 
-00017365,90,That's game {数字1} over with.{换行}We've now got {数字3} {数字8}, {数字4} {数字1}{换行}and {数字5} 
-
-000173C6,15,.{控制符3}{控制符1}
+00017365,112,That's game {数字1} over with.{换行}We've now got {数字3} {数字8}, {数字4} {数字0}{换行}and {数字5} {数字9}.{控制符4}{控制符2}
 
 000173D6,23,Ah... {数字8} place...{换行}
 
-000173EE,36,Um... {数字8} place...{控制符3}{控制符1}
+000173EE,36,Um... {数字8} place...{控制符4}{控制符2}
 
 00017413,8,ratio_03
 
 0001741C,8,ratio_04
 
-00017425,93,I hope we can get our first win soon...{换行}The fans are really looking forward to it too.{控制符3}
+00017425,93,I hope we can get our first win soon...{换行}The fans are really looking forward to it too.{控制符4}
 
-00017483,86,We haven't managed to get a win yet. We're{换行}letting down our loyal supporters...{控制符3}
+00017483,86,We haven't managed to get a win yet. We're{换行}letting down our loyal supporters...{控制符4}
 
 000174DA,72,We can't be completely happy with our current{换行}performance. Right, {玩家名}
 
-00017523,8,?{控制符3}
+00017523,8,?{控制符4}
 
-0001752C,89,We're stuck in mid-table mediocrity...{换行}I think it's time to start upping our game.{控制符3}
+0001752C,89,We're stuck in mid-table mediocrity...{换行}I think it's time to start upping our game.{控制符4}
 
-00017586,73,We've won plenty of matches, so it's not like{换行}we're not capable...{控制符3}
+00017586,73,We've won plenty of matches, so it's not like{换行}we're not capable...{控制符4}
 
 000175D0,46,We're not going to give up now,{换行}are we, {玩家名}
 
-000175FF,8,?{控制符3}
+000175FF,8,?{控制符4}
 
-00017608,63,Now that we know we're champions, we can{换行}relax a little.{控制符3}
+00017608,63,Now that we know we're champions, we can{换行}relax a little.{控制符4}
 
-00017648,57,We're first!{换行}Let's stay on top and take the title!{控制符3}
+00017648,57,We're first!{换行}Let's stay on top and take the title!{控制符4}
 
-00017682,86,{数字8} place...{换行}Let's keep going! We have to keep on picking up{换行}up the points!{控制符3}
+00017682,86,{数字8} place...{换行}Let's keep going! We have to keep on picking up{换行}up the points!{控制符4}
 
-000176D9,101,Oh no! Relegated...{换行}I feel faint...{控制符3}{换行}{控制符1}I just hope that the fans won't desert us...{控制符3}
+000176D9,101,Oh no! Relegated...{换行}I feel faint...{控制符4}{换行}{控制符2}I just hope that the fans won't desert us...{控制符4}
 
-0001773F,80,Well, not a bad result after all.{控制符3}{换行}{控制符1}And it's all down to you, {玩家名}
+0001773F,80,Well, not a bad result after all.{控制符4}{换行}{控制符2}And it's all down to you, {玩家名}
 
-00017790,8,.{控制符3}
+00017790,8,.{控制符4}
 
-00017799,141,Well, we didn't do badly this season.{控制符3}{换行}{控制符1}But I think next season, we'll have to do better{换行}to fulfil the fans' expectations.{控制符3}
+00017799,141,Well, we didn't do badly this season.{控制符4}{换行}{控制符2}But I think next season, we'll have to do better{换行}to fulfil the fans' expectations.{控制符4}
 
-00017827,92,We've got some good players on the team...{换行}So why was it we couldn't win this season?{控制符3}
+00017827,92,We've got some good players on the team...{换行}So why was it we couldn't win this season?{控制符4}
 
 00017884,67,We've won the league! What a great feeling!{换行}Congratulations, {玩家名}
 
-000178C8,8,!{控制符3}
+000178C8,8,!{控制符4}
 
 000178D1,8,ratio_19
 
-000178DA,184,We finished the season in second place. We{换行}were so close to victory... But I suppose we{换行}can't complain about being runners-up.{控制符3}{换行}{控制符1}We'll have to try again next season!{控制符3}
+000178DA,184,We finished the season in second place. We{换行}were so close to victory... But I suppose we{换行}can't complain about being runners-up.{控制符4}{换行}{控制符2}We'll have to try again next season!{控制符4}
 
-00017993,181,We finished in second place and missed out on{换行}the top spot, but now we have a chance to make{换行}Pro League 1 through the play-off match.{控制符3}{换行}{控制符1}Good luck in the play-off!{控制符3}
+00017993,181,We finished in second place and missed out on{换行}the top spot, but now we have a chance to make{换行}Pro League 1 through the play-off match.{控制符4}{换行}{控制符2}Good luck in the play-off!{控制符4}
 
-00017A49,184,We finished in second place and missed out on{换行}the top spot, but we still won the right to play{换行}in the European Challenge Cup.{控制符3}{换行}{控制符1}Good luck on the international stage!{控制符3}
+00017A49,184,We finished in second place and missed out on{换行}the top spot, but we still won the right to play{换行}in the European Challenge Cup.{控制符4}{换行}{控制符2}Good luck on the international stage!{控制符4}
 
 00017B02,11,Hey, {玩家名}
 
-00017B0E,54,, if we can, let's try{换行}to avoid relegation, OK?{控制符3}
+00017B0E,54,, if we can, let's try{换行}to avoid relegation, OK?{控制符4}
 
 00017B45,36,That's the opening match over with.{换行}
 
-00017B6A,53,Great! Looks like we're off to a flying start!{控制符3}
+00017B6A,53,Great! Looks like we're off to a flying start!{控制符4}
 
-00017BA0,81,Oh... What a shame.{换行}We've only just started though, so there's{换行}still time.{控制符3}
+00017BA0,81,Oh... What a shame.{换行}We've only just started though, so there's{换行}still time.{控制符4}
 
-00017BF2,94,It would have been good to start off with a win,{换行}but a draw will have to do, I suppose.{控制符3}
+00017BF2,94,It would have been good to start off with a win,{换行}but a draw will have to do, I suppose.{控制符4}
 
-00017C51,91,That's the league over with. We finished with{换行}{数字1} {数字8}, {数字3} {数字1} and {数字4} 
+00017C51,115,That's the league over with. We finished with{换行}{数字1} {数字8}, {数字3} {数字0} and {数字4} {数字9}...{控制符4}{控制符2}
 
-00017CB3,17,...{控制符3}{控制符1}
+00017CC5,97,We were hoping to finish a bit higher. We'll{换行}have to do better for the fans next season...{控制符4}
 
-00017CC5,97,We were hoping to finish a bit higher. We'll{换行}have to do better for the fans next season...{控制符3}
+00017D27,100,Thankfully we managed to stay up this season...{换行}Let's hope we can do much better next season!{控制符4}
 
-00017D27,100,Thankfully we managed to stay up this season...{换行}Let's hope we can do much better next season!{控制符3}
+00017D8C,114,After being relegated, this is the best we could{换行}do? I'm worried that the fans will be leaving in{换行}droves...{控制符4}
 
-00017D8C,114,After being relegated, this is the best we could{换行}do? I'm worried that the fans will be leaving in{换行}droves...{控制符3}
+00017DFF,95,Well, we always knew things would be tough.{换行}We'll just have to do our best to stay up...{控制符4}
 
-00017DFF,95,Well, we always knew things would be tough.{换行}We'll just have to do our best to stay up...{控制符3}
+00017E5F,55,Our first win!{换行}Let's try to build some momentum!{控制符4}
 
-00017E5F,55,Our first win!{换行}Let's try to build some momentum!{控制符3}
+00017E97,109,At last! Our first win!{换行}Let's take each match as it comes and try to{换行}pick up as many wins as possible!{控制符4}
 
-00017E97,109,At last! Our first win!{换行}Let's take each match as it comes and try to{换行}pick up as many wins as possible!{控制符3}
+00017F05,82,We've now got more wins than losses.{换行}Let's carry on piling up those points!{控制符4}
 
-00017F05,82,We've now got more wins than losses.{换行}Let's carry on piling up those points!{控制符3}
+00017F58,145,We've lost more matches than we've won...{换行}If we carry on like this, we're going to lose a lot{换行}of supporters. Let's concentrate on winning!{控制符4}
 
-00017F58,145,We've lost more matches than we've won...{换行}If we carry on like this, we're going to lose a lot{换行}of supporters. Let's concentrate on winning!{控制符3}
+00017FEA,122,We've been losing a lot recently...{换行}We're all working hard but things just don't{换行}seem to be clicking at the moment.{控制符4}
 
-00017FEA,122,We've been losing a lot recently...{换行}We're all working hard but things just don't{换行}seem to be clicking at the moment.{控制符3}
+00018065,85,Victory is within our grasp!{换行}We need to put our all into each and every{换行}match.{控制符4}
 
-00018065,85,Victory is within our grasp!{换行}We need to put our all into each and every{换行}match.{控制符3}
+000180BB,128,We're almost in the promotion zone!{换行}We need to focus on one game at a time and{换行}try to pick up as many points as possible.{控制符4}
 
-000180BB,128,We're almost in the promotion zone!{换行}We need to focus on one game at a time and{换行}try to pick up as many points as possible.{控制符3}
-
-0001813C,38,That was a really long season.{换行}{控制符3}
+0001813C,38,That was a really long season.{换行}{控制符4}
 
 00018163,8,ratio_41
 
@@ -1964,13 +1876,13 @@
 
 00018175,17,We did it, {玩家名}
 
-00018187,122,!{换行}We've won the treble! This must be one of the{换行}best days in the history of the club.{换行}Congratulations, boss!{控制符3}{控制符4}
+00018187,122,!{换行}We've won the treble! This must be one of the{换行}best days in the history of the club.{换行}Congratulations, boss!{控制符4}{结束}
 
-00018202,58,That's {数字2} {数字8} we've won this season,{换行}boss!{控制符3}
+00018202,58,That's {数字2} {数字8} we've won this season,{换行}boss!{控制符4}
 
-0001823D,90,{控制符1}We could win the treble this season.{换行}I'm so excited! Let's go for it!{控制符3}{控制符4}
+0001823D,90,{控制符2}We could win the treble this season.{换行}I'm so excited! Let's go for it!{控制符4}{结束}
 
-00018298,165,{控制符1}It's not possible for us to win the treble this{换行}season, but our successes this year should give{换行}us the confidence to do even better next season!{控制符3}{控制符4}
+00018298,165,{控制符2}It's not possible for us to win the treble this{换行}season, but our successes this year should give{换行}us the confidence to do even better next season!{控制符4}{结束}
 
 0001833E,8,ratio_47
 
@@ -1980,41 +1892,41 @@
 
 00018359,60,It looks like you've avoided the fans' anger{换行}for now, {玩家名}
 
-00018396,46,.{换行}But we're not out of the woods yet...{控制符3}
+00018396,46,.{换行}But we're not out of the woods yet...{控制符4}
 
 000183C5,56,At least the fans seem happy with today's{换行}result, {玩家名}
 
-000183FE,56,. We mustn't start{换行}resting on our laurels though!{控制符3}
+000183FE,56,. We mustn't start{换行}resting on our laurels though!{控制符4}
 
 00018437,39,You're trying your best, I know,{换行}{玩家名}
 
-0001845F,190,...{控制符3}{换行}{控制符1}Some fans still support you, but there seem to{换行}be others who don't...{控制符3}{换行}{控制符1}You need to try to meet their expectations{换行}and improve your manager backing rate.{控制符3}
+0001845F,190,...{控制符4}{换行}{控制符2}Some fans still support you, but there seem to{换行}be others who don't...{控制符4}{换行}{控制符2}You need to try to meet their expectations{换行}and improve your manager backing rate.{控制符4}
 
 0001851E,64,Your style of football seems to be going down{换行}quite well, {玩家名}
 
-0001855F,8,!{控制符3}
+0001855F,8,!{控制符4}
 
-00018568,174,The fans' major worry seems to be that{换行}you might be thinking of leaving{换行}{队名1}...{控制符3}{换行}{控制符1}But with such loyal fans, you'd never dream{换行}of leaving us, would you?!{控制符3}
+00018568,174,The fans' major worry seems to be that{换行}you might be thinking of leaving{换行}{队名1}...{控制符4}{换行}{控制符2}But with such loyal fans, you'd never dream{换行}of leaving us, would you?!{控制符4}
 
 00018617,24,Your name is mud, {玩家名}
 
-00018630,74,...{控制符3}{换行}{控制符1}It's crunch time. We really are in a bad state...{控制符3}
+00018630,74,...{控制符4}{换行}{控制符2}It's crunch time. We really are in a bad state...{控制符4}
 
 0001867B,48,Your reputation isn't in a very good way,{换行}{玩家名}
 
-000186AC,108,...{控制符3}{换行}{控制符1}You'll have to work hard at getting the club out of{换行}the sticky situation it's in...{控制符3}
+000186AC,108,...{控制符4}{换行}{控制符2}You'll have to work hard at getting the club out of{换行}the sticky situation it's in...{控制符4}
 
 00018719,39,You're trying your best, I know,{换行}{玩家名}
 
-00018741,190,...{控制符3}{换行}{控制符1}Some fans still support you, but there seem to{换行}be others who don't...{控制符3}{换行}{控制符1}You need to try to meet their expectations{换行}and improve your manager backing rate.{控制符3}
+00018741,190,...{控制符4}{换行}{控制符2}Some fans still support you, but there seem to{换行}be others who don't...{控制符4}{换行}{控制符2}You need to try to meet their expectations{换行}and improve your manager backing rate.{控制符4}
 
 00018800,64,Your style of football seems to be going down{换行}quite well, {玩家名}
 
-00018841,91,!{控制符3}{换行}{控制符1}Once the results start coming there'll be nothing{换行}to complain about.{控制符3}
+00018841,91,!{控制符4}{换行}{控制符2}Once the results start coming there'll be nothing{换行}to complain about.{控制符4}
 
 0001889D,60,The fans' belief in you won't be destroyed so{换行}easily, {玩家名}
 
-000188DA,8,.{控制符3}
+000188DA,8,.{控制符4}
 
 000188EA,15,We need 3 more!
 
@@ -2378,43 +2290,43 @@
 
 00019A10,14,What happened?
 
-00019A1F,116,{控制符2}Putting fewer men in defence can be a risky{换行}tactic, but let's hope it pays off with more goals.{控制符3}{控制符4}
+00019A1F,116,{控制符3}Putting fewer men in defence can be a risky{换行}tactic, but let's hope it pays off with more goals.{控制符4}{结束}
 
-00019A94,108,{控制符2}Three at the back? They should be able to{换行}keep the opponent's attackers under pressure.{控制符3}{控制符4}
+00019A94,108,{控制符3}Three at the back? They should be able to{换行}keep the opponent's attackers under pressure.{控制符4}{结束}
 
-00019B01,172,{控制符2}Three at the back? The defenders won't be{换行}able to take part in the attack as much as they{换行}would with four at the back, but then they are{换行}the defence...{控制符3}{控制符4}
+00019B01,172,{控制符3}Three at the back? The defenders won't be{换行}able to take part in the attack as much as they{换行}would with four at the back, but then they are{换行}the defence...{控制符4}{结束}
 
-00019BAE,130,{控制符2}Three at the back? Remember that with fewer{换行}bodies at the back, they'll have to work harder{换行}to fill the gaps.{控制符3}{控制符4}
+00019BAE,130,{控制符3}Three at the back? Remember that with fewer{换行}bodies at the back, they'll have to work harder{换行}to fill the gaps.{控制符4}{结束}
 
-00019C31,177,{控制符2}Four at the back? You've more bodies in{换行}defence, but if your wing backs on both sides{换行}can link up with your attack, they'll pose a threat{换行}to your opponents.{控制符3}{控制符4}
+00019C31,177,{控制符3}Four at the back? You've more bodies in{换行}defence, but if your wing backs on both sides{换行}can link up with your attack, they'll pose a threat{换行}to your opponents.{控制符4}{结束}
 
-00019CE3,135,{控制符2}Four at the back? Sometimes you'll find that{换行}you're left with only two at the back if your full{换行}backs get forward.{控制符3}{控制符4}
+00019CE3,135,{控制符3}Four at the back? Sometimes you'll find that{换行}you're left with only two at the back if your full{换行}backs get forward.{控制符4}{结束}
 
-00019D6B,139,{控制符2}Five at the back? This is the most secure kind{换行}of defence, but you do lose something in terms{换行}of attacking capability.{控制符3}{控制符4}
+00019D6B,139,{控制符3}Five at the back? This is the most secure kind{换行}of defence, but you do lose something in terms{换行}of attacking capability.{控制符4}{结束}
 
-00019DF7,133,{控制符2}Hm, {数字2} {数字8}? {换行}With that many bodies at the back, you should{换行}concede considerably fewer goals than usual.{控制符3}{控制符4}
+00019DF7,133,{控制符3}Hm, {数字2} {数字8}? {换行}With that many bodies at the back, you should{换行}concede considerably fewer goals than usual.{控制符4}{结束}
 
-00019E7D,127,{控制符2}What? No one up front?{换行}I'm interested to see what kind of attacking play{换行}you'll be able to come up with...{控制符3}{控制符4}
+00019E7D,127,{控制符3}What? No one up front?{换行}I'm interested to see what kind of attacking play{换行}you'll be able to come up with...{控制符4}{结束}
 
-00019EFD,154,{控制符2}One up front? Forwards aren't just for{换行}scoring goals, they're also masters at pressuring{换行}the opponent's defence into making mistakes.{控制符3}{控制符4}
+00019EFD,154,{控制符3}One up front? Forwards aren't just for{换行}scoring goals, they're also masters at pressuring{换行}the opponent's defence into making mistakes.{控制符4}{结束}
 
-00019F98,174,{控制符2}Two up front? Cooperation between the two{换行}forwards is key. You might need to try several{换行}combinations of players before you find the{换行}perfect partnership.{控制符3}{控制符4}
+00019F98,174,{控制符3}Two up front? Cooperation between the two{换行}forwards is key. You might need to try several{换行}combinations of players before you find the{换行}perfect partnership.{控制符4}{结束}
 
-0001A047,151,{控制符2}You're going with two up front? Well, as long as{换行}the two of them link up well, we should still{换行}have enough of an attacking threat.{控制符3}{控制符4}
+0001A047,151,{控制符3}You're going with two up front? Well, as long as{换行}the two of them link up well, we should still{换行}have enough of an attacking threat.{控制符4}{结束}
 
-0001A0DF,127,{控制符2}Three up front? With three in attack, you'll have{换行}more attacking options, which should net you{换行}more goals.{控制符3}{控制符4}
+0001A0DF,127,{控制符3}Three up front? With three in attack, you'll have{换行}more attacking options, which should net you{换行}more goals.{控制符4}{结束}
 
-0001A15F,136,{控制符2}Hm, you've got {数字2} {数字8}?{换行}I'm just wondering how you're going to feed the{换行}ball through to them, that's all...{控制符3}{控制符4}
+0001A15F,136,{控制符3}Hm, you've got {数字2} {数字8}?{换行}I'm just wondering how you're going to feed the{换行}ball through to them, that's all...{控制符4}{结束}
 
-0001A1E8,128,{控制符2}You're going with fewer men in midfield.{换行}I'm just wondering how you're going to build up{换行}attacking plays...{控制符3}{控制符4}
+0001A1E8,128,{控制符3}You're going with fewer men in midfield.{换行}I'm just wondering how you're going to build up{换行}attacking plays...{控制符4}{结束}
 
-0001A269,108,{控制符2}That's a good balance.{换行}You should be able to get lots of passing moves{换行}going like this.{控制符3}{控制符4}
+0001A269,108,{控制符3}That's a good balance.{换行}You should be able to get lots of passing moves{换行}going like this.{控制符4}{结束}
 
-0001A2D6,101,{控制符2}I see!{换行}With this set-up, you're aiming to get a{换行}numerical advantage in midfield.{控制符3}{控制符4}
+0001A2D6,101,{控制符3}I see!{换行}With this set-up, you're aiming to get a{换行}numerical advantage in midfield.{控制符4}{结束}
 
-0001A33C,117,{控制符2}Hm, you've got {数字2} {数字8}.{换行}Well, at least you'll be able to dominate in{换行}middle of the park.{控制符3}{控制符4}
+0001A33C,117,{控制符3}Hm, you've got {数字2} {数字8}.{换行}Well, at least you'll be able to dominate in{换行}middle of the park.{控制符4}{结束}
 
-0001A3B2,109,{控制符2}Well, it'll be interesting to see how the formation{换行}changes will affect our performance.{控制符3}{控制符4}
+0001A3B2,109,{控制符3}Well, it'll be interesting to see how the formation{换行}changes will affect our performance.{控制符4}{结束}
 
 0001A420,12,formation_19
 
@@ -2422,31 +2334,25 @@
 
 0001A43A,12,formation_21
 
-0001A447,115,{控制符2}You can't play a match without{换行}a goalkeeper. You have to assign{换行}a player who can play in goal.{控制符3}{控制符4}
+0001A447,115,{控制符3}You can't play a match without{换行}a goalkeeper. You have to assign{换行}a player who can play in goal.{控制符4}{结束}
 
-0001A4BB,113,{控制符2}Something's happened during the{换行}match. You should leave this screen{换行}and see what's going on.{控制符3}{控制符4}
+0001A4BB,113,{控制符3}Something's happened during the{换行}match. You should leave this screen{换行}and see what's going on.{控制符4}{结束}
 
-0001A52D,48,{控制符2}Cancel any changes and leave{换行}this screen?
+0001A52D,62,{控制符3}Cancel any changes and leave{换行}this screen?{控制符1}{结束}
 
-0001A564,7,{控制符4}
+0001A56C,99,{控制符3}Press the X Button or touch OK to{换行}confirm these changes and leave{换行}this screen.{控制符4}{结束}
 
-0001A56C,99,{控制符2}Press the X Button or touch OK to{换行}confirm these changes and leave{换行}this screen.{控制符3}{控制符4}
+0001A5D0,96,{控制符3}{数字8} has been sent{换行}off, so your planned substitution{换行}has been cancelled.{控制符4}{结束}
 
-0001A5D0,96,{控制符2}{数字8} has been sent{换行}off, so your planned substitution{换行}has been cancelled.{控制符3}{控制符4}
+0001A631,86,You can open the Formations screen at any{换行}time by pressing the X Button.{控制符4}{结束}
 
-0001A631,86,You can open the Formations screen at any{换行}time by pressing the X Button.{控制符3}{控制符4}
+0001A688,231,Before you decide a starting line-up, you should{换行}first choose a formation.{控制符4}{换行}{控制符2}Some example formations are included in the{换行}Formations screen which will now open. Please{换行}select one of them for the time being.{控制符4}{结束}
 
-0001A688,231,Before you decide a starting line-up, you should{换行}first choose a formation.{控制符3}{换行}{控制符1}Some example formations are included in the{换行}Formations screen which will now open. Please{换行}select one of them for the time being.{控制符3}{控制符4}
+0001A770,46,{控制符3}Change to this formation?{控制符1}{结束}
 
-0001A770,32,{控制符2}Change to this formation?
+0001A79F,53,{控制符3}Substitute {数字8}{换行}with {数字0}?{控制符1}{结束}
 
-0001A797,7,{控制符4}
-
-0001A79F,39,{控制符2}Substitute {数字8}{换行}with {数字1}?
-
-0001A7CD,7,{控制符4}
-
-0001A7D5,94,{控制符2}You just chose {数字8}{换行}to go on. Let's give him a bit{换行}of game time first.{控制符3}{控制符4}
+0001A7D5,94,{控制符3}You just chose {数字8}{换行}to go on. Let's give him a bit{换行}of game time first.{控制符4}{结束}
 
 0001A834,102,One of the most{换行}popular 4-4-2{换行}formations. Midfield{换行}is laid out in one row{换行}for all-round zone{换行}coverage.
 
@@ -2472,9 +2378,9 @@
 
 0001AE30,11,strategy_01
 
-0001AE3C,90,{控制符2}I can't say much, because we don't{换行}know who our next opponents are...{控制符3}{控制符4}
+0001AE3C,90,{控制符3}I can't say much, because we don't{换行}know who our next opponents are...{控制符4}{结束}
 
-0001AE97,75,{控制符2}Let's talk about the limit and position{换行}of the zone...{控制符3}{控制符4}
+0001AE97,75,{控制符3}Let's talk about the limit and position{换行}of the zone...{控制符4}{结束}
 
 0001AEE3,11,strategy_04
 
@@ -2484,21 +2390,21 @@
 
 0001AF07,11,strategy_07
 
-0001AF13,34,{控制符2}Number {数字8}, {数字1}...{换行}
+0001AF13,41,{控制符3}Number {数字8}, {数字0}...{换行}{数字9}
 
-0001AF3D,38,{控制符2}And number {数字8}, {数字1}...{换行}
+0001AF3D,45,{控制符3}And number {数字8}, {数字0}...{换行}{数字9}
 
-0001AF6B,50,Make sure you mark him properly, OK?{控制符3}{控制符4}
+0001AF6B,50,Make sure you mark him properly, OK?{控制符4}{结束}
 
-0001AF9E,45,Don't give him any freedom, OK?{控制符3}{控制符4}
+0001AF9E,45,Don't give him any freedom, OK?{控制符4}{结束}
 
-0001AFCC,78,{控制符3}{控制符1}{控制符2}He's dangerous, so keep a close eye{换行}on him.{控制符3}{控制符4}
+0001AFCC,78,{控制符4}{控制符2}{控制符3}He's dangerous, so keep a close eye{换行}on him.{控制符4}{结束}
 
-0001B01B,72,{控制符3}{控制符1}{控制符2}You needn't worry about him{换行}too much.{控制符3}{控制符4}
+0001B01B,72,{控制符4}{控制符2}{控制符3}You needn't worry about him{换行}too much.{控制符4}{结束}
 
-0001B064,96,{控制符2}Their team is packed with danger men,{换行}but focus on the ones I've mentioned.{控制符3}{控制符4}
+0001B064,96,{控制符3}Their team is packed with danger men,{换行}but focus on the ones I've mentioned.{控制符4}{结束}
 
-0001B0C5,68,{控制符2}This is the formation we expect{换行}{数字8} to use.{控制符3}{控制符4}
+0001B0C5,68,{控制符3}This is the formation we expect{换行}{数字8} to use.{控制符4}{结束}
 
 0001B10A,11,strategy_16
 
@@ -2506,57 +2412,55 @@
 
 0001B122,11,strategy_18
 
-0001B12E,67,{控制符2}OK, next match coming up is against{换行}{数字8}...{控制符3}{控制符4}
+0001B12E,67,{控制符3}OK, next match coming up is against{换行}{数字8}...{控制符4}{结束}
 
-0001B172,79,{控制符2}I'm going to change my instructions{换行}for the {数字8} match.{控制符3}{控制符4}
+0001B172,79,{控制符3}I'm going to change my instructions{换行}for the {数字8} match.{控制符4}{结束}
 
-0001B1C2,81,{控制符2}OK, it's time for the match.{换行}Pipe down and listen carefully.{控制符3}{控制符4}
+0001B1C2,81,{控制符3}OK, it's time for the match.{换行}Pipe down and listen carefully.{控制符4}{结束}
 
-0001B214,87,{控制符2}I'm making a few adjustments, so{换行}pay attention to what I'm saying.{控制符3}{控制符4}
+0001B214,87,{控制符3}I'm making a few adjustments, so{换行}pay attention to what I'm saying.{控制符4}{结束}
 
-0001B26C,95,{控制符2}OK, I'll explain a few changes to the{换行}tactics. Make sure to remember them.{控制符3}{控制符4}
+0001B26C,95,{控制符3}OK, I'll explain a few changes to the{换行}tactics. Make sure to remember them.{控制符4}{结束}
 
-0001B2CC,100,{控制符2}We don't know our next opponents yet,{换行}but I want to adjust our basic tactics...{控制符3}{控制符4}
+0001B2CC,100,{控制符3}We don't know our next opponents yet,{换行}but I want to adjust our basic tactics...{控制符4}{结束}
 
-0001B331,59,{控制符2}Our opponents are in a lower league...{控制符3}{控制符4}
+0001B331,59,{控制符3}Our opponents are in a lower league...{控制符4}{结束}
 
-0001B36D,66,{控制符2}Our opponents are in the same{换行}league as us...{控制符3}{控制符4}
+0001B36D,66,{控制符3}Our opponents are in the same{换行}league as us...{控制符4}{结束}
 
-0001B3B0,60,{控制符2}Our opponents are in a higher league...{控制符3}{控制符4}
+0001B3B0,60,{控制符3}Our opponents are in a higher league...{控制符4}{结束}
 
-0001B3ED,62,{控制符2}Our opponents are a really strong{换行}team...{控制符3}{控制符4}
+0001B3ED,62,{控制符3}Our opponents are a really strong{换行}team...{控制符4}{结束}
 
-0001B42C,61,{控制符2}We can't lose this match. Is that clear?{控制符3}{控制符4}
+0001B42C,61,{控制符3}We can't lose this match. Is that clear?{控制符4}{结束}
 
-0001B46A,58,{控制符2}This is an important opening match...{控制符3}{控制符4}
+0001B46A,58,{控制符3}This is an important opening match...{控制符4}{结束}
 
-0001B4A5,54,{控制符2}We're up against the leaders? OK!{控制符3}{控制符4}
+0001B4A5,54,{控制符3}We're up against the leaders? OK!{控制符4}{结束}
 
-0001B4DC,65,{控制符2}We're up against the second placed{换行}team. OK?{控制符3}{控制符4}
+0001B4DC,65,{控制符3}We're up against the second placed{换行}team. OK?{控制符4}{结束}
 
-0001B51E,67,{控制符2}Hm, {数字1} against the{换行}{数字8}-placed team...{控制符3}{控制符4}
+0001B51E,67,{控制符3}Hm, {数字0} against the{换行}{数字8}-placed team...{控制符4}{结束}
 
-0001B562,56,{控制符2}Our opponents are ranked {数字8}...{控制符3}{控制符4}
+0001B562,56,{控制符3}Our opponents are ranked {数字8}...{控制符4}{结束}
 
-0001B59B,99,{控制符2}This may just be a practice match, but{换行}let's not lose concentration out there.{控制符3}{控制符4}
+0001B59B,99,{控制符3}This may just be a practice match, but{换行}let's not lose concentration out there.{控制符4}{结束}
 
-0001B5FF,88,{控制符2}It may just be a friendly, but don't{换行}forget about getting a result.{控制符3}{控制符4}
+0001B5FF,88,{控制符3}It may just be a friendly, but don't{换行}forget about getting a result.{控制符4}{结束}
 
-0001B658,49,{控制符2}These are tough opponents...{控制符3}{控制符4}
+0001B658,49,{控制符3}These are tough opponents...{控制符4}{结束}
 
-0001B68A,56,{控制符2}Hm, it's level pegging right now...{控制符3}{控制符4}
+0001B68A,56,{控制符3}Hm, it's level pegging right now...{控制符4}{结束}
 
-0001B6C3,57,{控制符2}Hm, we've got a {数字8}-goal lead...{控制符3}{控制符4}
+0001B6C3,57,{控制符3}Hm, we've got a {数字8}-goal lead...{控制符4}{结束}
 
-0001B6FD,74,{控制符2}Hm, we've allowed them to take{换行}a {数字8}-goal lead...{控制符3}{控制符4}
+0001B6FD,74,{控制符3}Hm, we've allowed them to take{换行}a {数字8}-goal lead...{控制符4}{结束}
 
-0001B748,49,{控制符2}This is {数字8}'s formation.{控制符3}{控制符4}
+0001B748,49,{控制符3}This is {数字8}'s formation.{控制符4}{结束}
 
 0001B77A,84,Pocket Channel -- The fastest and most reliable source of league and cup match info!
 
-0001B7CF,31,Medical report: {数字8} player 
-
-0001B7F5,24, ({数字1}) has suffered 
+0001B7CF,62,Medical report: {数字8} player {数字9} ({数字0}) has suffered 
 
 0001B814,34, but will be fit again in {数字1} 
 
@@ -2566,33 +2470,29 @@
 
 0001B8AA,8,{数字8} 
 
-0001B8B3,18,{数字8} ({数字1}, 
+0001B8B3,26,{数字8} ({数字0}, {数字9})
 
 0001B8CE,103,This season's league and cup fixtures have been announced. Pro League 1 starts in the 4th week of July.
 
-0001B936,49,Play-off result: {数字8} {数字1} {数字1}-{数字3} 
+0001B936,57,Play-off result: {数字8} {数字0} {数字1}-{数字3} {数字9} 
 
-0001B977,72,Play-off result: {数字8} {数字1} {数字1}-{数字3} (Pen. {数字4}-{数字5}) 
+0001B977,80,Play-off result: {数字8} {数字0} {数字1}-{数字3} (Pen. {数字4}-{数字5}) {数字9} 
 
-0001B9CF,83,The {数字8} season is now complete. {数字1} are the champions, and are promoted to 
+0001B9CF,91,The {数字8} season is now complete. {数字0} are the champions, and are promoted to {数字9}.
 
-0001BA2B,117,The {数字8} season is now complete. {数字1} are the champions, and enter the play-off match looking for promotion to 
+0001BA2B,125,The {数字8} season is now complete. {数字0} are the champions, and enter the play-off match looking for promotion to {数字9}.
 
-0001BAA9,83,The {数字8} season is now complete. {数字1} are the champions, and are promoted to 
-
-0001BB03,13,. Runners-up 
+0001BAA9,103,The {数字8} season is now complete. {数字0} are the champions, and are promoted to {数字9}. Runners-up 
 
 0001BB17,26, enter the play-off match.
 
-0001BB32,89,The {数字8} season is now complete. {数字1} are the champions and, along with runners-up 
+0001BB32,131,The {数字8} season is now complete. {数字0} are the champions and, along with runners-up {数字9}, have qualified for next season's 
 
-0001BB92,35,, have qualified for next season's 
+0001BBBE,30,{数字8}'s {数字0} took place. 
 
-0001BBBE,30,{数字8}'s {数字1} took place. 
+0001BBDD,31,{数字8} {数字1}-{数字3} {数字0}
 
-0001BBDD,31,{数字8} {数字1}-{数字3} {数字1}
-
-0001BBFD,54,{数字8} {数字1}-{数字3} (Pen. {数字4}-{数字5}) {数字1}
+0001BBFD,54,{数字8} {数字1}-{数字3} (Pen. {数字4}-{数字5}) {数字0}
 
 0001BC34,42,{数字8} have been crowned world champions!
 
@@ -2600,45 +2500,39 @@
 
 0001BC92,28,{数字8} have lifted the cup.
 
-0001BCAF,38,As a result, {数字8}{数字1} will face 
+0001BCAF,45,As a result, {数字8}{数字0} will face {数字9}
 
 0001BCE3,14, in the final.
 
 0001BCF2,7,town_20
 
-0001BCFA,51,Teams that have advanced include {数字8}, {数字1}, 
+0001BCFA,63,Teams that have advanced include {数字8}, {数字0}, {数字9} and 
 
-0001BD34,5, and 
-
-0001BD43,18,{数字8}, {数字1}, 
-
-0001BD5C,5, and 
+0001BD43,30,{数字8}, {数字0}, {数字9} and 
 
 0001BD68,28, are out of the competition.
 
-0001BD85,32,{数字8} have purchased {数字1}, 
+0001BD85,32,{数字8} have purchased {数字0}, 
 
-0001BDB5,26,). Salary estimated to be 
+0001BDAC,35, ({数字9}). Salary estimated to be 
 
 0001BDD6,7, coins.
 
-0001BDDE,29,{数字8} have signed {数字1}, 
+0001BDDE,29,{数字8} have signed {数字0}, 
 
-0001BE0B,26,). Salary estimated to be 
+0001BE02,35, ({数字9}). Salary estimated to be 
 
 0001BE2C,7, coins.
 
 0001BE34,6,{玩家名}
 
-0001BE3B,71,! There's a new manager{换行}in charge of {队名2}{换行}this season.{控制符3}{控制符1}
+0001BE3B,71,! There's a new manager{换行}in charge of {队名2}{换行}this season.{控制符4}{控制符2}
 
-0001BE83,84,A press conference was held for{换行}{数字8}.{控制符3}{换行}{控制符1}Do you remember who that is?{换行}
+0001BE83,84,A press conference was held for{换行}{数字8}.{控制符4}{换行}{控制符2}Do you remember who that is?{换行}
 
-0001BED8,63,It's the manager formerly with{换行}{数字1}, isn't it?{控制符3}{控制符4}
+0001BED8,63,It's the manager formerly with{换行}{数字0}, isn't it?{控制符4}{结束}
 
-0001BF18,93,The new manager said the following at the press{换行}conference: "I especially can't wait to face{换行}
-
-0001BF7C,50, again. When my last{换行}team played against {数字1},{换行}
+0001BF18,150,The new manager said the following at the press{换行}conference: "I especially can't wait to face{换行}{数字9} again. When my last{换行}team played against {数字0},{换行}
 
 0001BFAF,117,we lost {数字3} - {数字1}, so I'm looking for revenge.{换行}I'm going to work hard and make this team{换行}into a big success."
 
@@ -2680,13 +2574,9 @@
 
 0001C3E5,7,demo_00
 
-0001C3ED,38,{控制符2}End received data browser mode?
+0001C3ED,52,{控制符3}End received data browser mode?{控制符1}{结束}
 
-0001C41A,7,{控制符4}
-
-0001C422,22,Deactivate StreetPass?
-
-0001C43F,7,{控制符4}
+0001C422,36,Deactivate StreetPass?{控制符1}{结束}
 
 0001C447,8,debug_02
 
@@ -2700,55 +2590,45 @@
 
 0001C474,8,debug_07
 
-0001C47D,64,{控制符2}<DEBUG> Increased all training cards by 10.{控制符3}{控制符4}
+0001C47D,64,{控制符3}<DEBUG> Increased all training cards by 10.{控制符4}{结束}
 
 0001C4BE,8,debug_09
 
-0001C4C7,62,{控制符2}No empty save file.{换行}Please delete a file.{控制符3}{控制符4}
+0001C4C7,62,{控制符3}No empty save file.{换行}Please delete a file.{控制符4}{结束}
 
 0001C506,8,debug_11
 
 0001C50F,8,debug_12
 
-0001C518,21,{控制符2}End edit mode?
+0001C518,35,{控制符3}End edit mode?{控制符1}{结束}
 
-0001C534,7,{控制符4}
+0001C53C,61,{控制符3}Error occurred when saving in edit mode.{控制符4}{结束}
 
-0001C53C,61,{控制符2}Error occurred when saving in edit mode.{控制符3}{控制符4}
+0001C57A,47,{控制符3}Edit data saved correctly.{控制符4}{结束}
 
-0001C57A,47,{控制符2}Edit data saved correctly.{控制符3}{控制符4}
+0001C5AA,51,{控制符3}Boss, save to extended save data area?{待测2}
 
-0001C5AA,45,{控制符2}Boss, save to extended save data area?
+0001C5DE,7,{结束}
 
-0001C5DE,7,{控制符4}
+0001C5E6,48,{控制符3}Unfortunately, save failed.{控制符4}{结束}
 
-0001C5E6,48,{控制符2}Unfortunately, save failed.{控制符3}{控制符4}
+0001C617,37,{控制符3}Save successful.{控制符4}{结束}
 
-0001C617,37,{控制符2}Save successful.{控制符3}{控制符4}
-
-0001C63D,67,{控制符2}Couldn't download video.{换行}(Error code: {数字2}){控制符3}{控制符4}
+0001C63D,67,{控制符3}Couldn't download video.{换行}(Error code: {数字2}){控制符4}{结束}
 
 0001C681,8,debug_20
 
-0001C68A,64,{控制符2}Application error.{换行}(API No.{数字1}-{数字3}){控制符3}{控制符4}
+0001C68A,64,{控制符3}Application error.{换行}(API No.{数字1}-{数字3}){控制符4}{结束}
 
-0001C6CB,53,{控制符2}Match will be simulated as normal.{换行}Is that OK?
+0001C6CB,67,{控制符3}Match will be simulated as normal.{换行}Is that OK?{控制符1}{结束}
 
-0001C707,7,{控制符4}
+0001C70F,69,{控制符3}Will upload video with corrupted ID.{换行}Is that OK?{控制符1}{结束}
 
-0001C70F,55,{控制符2}Will upload video with corrupted ID.{换行}Is that OK?
+0001C755,75,{控制符3}Will upload video with corrupted checksum.{换行}Is that OK?{控制符1}{结束}
 
-0001C74D,7,{控制符4}
+0001C7A1,81,{控制符3}Will upload video with corrupted version number.{换行}Is that OK?{控制符1}{结束}
 
-0001C755,61,{控制符2}Will upload video with corrupted checksum.{换行}Is that OK?
-
-0001C799,7,{控制符4}
-
-0001C7A1,67,{控制符2}Will upload video with corrupted version number.{换行}Is that OK?
-
-0001C7EB,7,{控制符4}
-
-0001C7F3,71,{控制符2}Match results will be uploaded as {数字1}-{数字3}.{控制符3}{控制符4}
+0001C7F3,71,{控制符3}Match results will be uploaded as {数字1}-{数字3}.{控制符4}{结束}
 
 0001C83B,22,Connected to internet.
 
@@ -2776,15 +2656,15 @@
 
 0001C932,8,debug_39
 
-0001C93B,123,{控制符2}You can choose your own names for the players.{换行}You can even pull your friends' names directly{换行}from your Friend List.
+0001C93B,123,{控制符3}You can choose your own names for the players.{换行}You can even pull your friends' names directly{换行}from your Friend List.
 
-0001C9B7,52,{控制符2}You can use up to 10 characters for the name.
+0001C9B7,52,{控制符3}You can use up to 10 characters for the name.
 
-0001C9EC,30,{控制符2}Please select a friend.
+0001C9EC,30,{控制符3}Please select a friend.
 
-0001CA0B,54,Please select a country to be your base.{控制符3}{控制符4}
+0001CA0B,54,Please select a country to be your base.{控制符4}{结束}
 
-0001CA42,78,{控制符2}OK! Now please touch the area where{换行}you want to be based.{控制符3}{控制符4}
+0001CA42,78,{控制符3}OK! Now please touch the area where{换行}you want to be based.{控制符4}{结束}
 
 0001CA91,5,new_6
 
@@ -2816,41 +2696,39 @@
 
 0001CAEF,30,Formation Used{换行}In Past Matches
 
-0001CB0E,246,Focused training teams are available to{换行}purchase from Nintendo eShop.{控制符3}{换行}{控制符1}You can play practice and friendly matches{换行}against these teams and collect special combo{换行}sets targeted at the area of play you're trying{换行}to improve.{控制符3}{控制符4}
+0001CB0E,246,Focused training teams are available to{换行}purchase from Nintendo eShop.{控制符4}{换行}{控制符2}You can play practice and friendly matches{换行}against these teams and collect special combo{换行}sets targeted at the area of play you're trying{换行}to improve.{控制符4}{结束}
 
-0001CC05,107,{控制符2}{队名2} costs {数字1}{数字8}.{换行}Do you want to proceed to Nintendo eShop{换行}to purchase it from Nintendo?
+0001CC05,114,{控制符3}{队名2} costs {数字0}{数字8}.{换行}Do you want to proceed to Nintendo eShop{换行}to purchase it from Nintendo?{控制符1}
 
-0001CC78,60,{控制符2}You will now proceed to Nintendo eShop.{控制符3}{控制符4}
+0001CC78,60,{控制符3}You will now proceed to Nintendo eShop.{控制符4}{结束}
 
-0001CCB5,245,{控制符2}Purchase complete.{换行}You can now play practice and friendly matches{换行}against this team on weeks when you don't{换行}have an official match to play.{控制符3}{换行}{控制符1}To purchase further teams, please select them{换行}from the on-screen list.{控制符3}{控制符4}
+0001CCB5,245,{控制符3}Purchase complete.{换行}You can now play practice and friendly matches{换行}against this team on weeks when you don't{换行}have an official match to play.{控制符4}{换行}{控制符2}To purchase further teams, please select them{换行}from the on-screen list.{控制符4}{结束}
 
-0001CDAB,183,{控制符2}You've purchased a focused training team.{换行}You can now play practice and friendly matches{换行}against this team on weeks when you don't{换行}have an official match to play.{控制符3}{控制符4}
+0001CDAB,183,{控制符3}You've purchased a focused training team.{换行}You can now play practice and friendly matches{换行}against this team on weeks when you don't{换行}have an official match to play.{控制符4}{结束}
 
-0001CE63,106,{控制符2}You don't have enough funds in your balance.{换行}Do you want to connect to Nintendo eShop to{换行}add funds?
+0001CE63,113,{控制符3}You don't have enough funds in your balance.{换行}Do you want to connect to Nintendo eShop to{换行}add funds?{控制符1}
 
-0001CED5,101,{控制符2}You have already purchased this team.{换行}You can redownload it from Nintendo eShop.{控制符3}{控制符4}
+0001CED5,101,{控制符3}You have already purchased this team.{换行}You can redownload it from Nintendo eShop.{控制符4}{结束}
 
-0001CF3B,106,{控制符2}You've already purchased{换行}{队名2}.{换行}Do you want to connect to Nintendo eShop to{换行}redownload this team?
+0001CF3B,113,{控制符3}You've already purchased{换行}{队名2}.{换行}Do you want to connect to Nintendo eShop to{换行}redownload this team?{控制符1}
 
-0001CFAD,25,{控制符2}Download complete.
+0001CFAD,25,{控制符3}Download complete.
 
-0001CFCE,86,{控制符2}You can't play against this team as you{换行}haven't yet purchased it.{控制符3}{控制符4}
+0001CFCE,86,{控制符3}You can't play against this team as you{换行}haven't yet purchased it.{控制符4}{结束}
 
-0001D025,54,{控制符2}This team is no longer available.{控制符3}{控制符4}
+0001D025,54,{控制符3}This team is no longer available.{控制符4}{结束}
 
-0001D05C,78,{控制符2}Do you want to connect to Nintendo eShop{换行}to check the price of{换行}{队名2}?
+0001D05C,85,{控制符3}Do you want to connect to Nintendo eShop{换行}to check the price of{换行}{队名2}?{控制符1}
 
-0001D0B2,177,Challenge teams are available to purchase from{换行}Nintendo eShop.{控制符3}{换行}{控制符1}You can enjoy playing practice and friendly{换行}matches against these extraordinary teams.{控制符3}{控制符4}
+0001D0B2,177,Challenge teams are available to purchase from{换行}Nintendo eShop.{控制符4}{换行}{控制符2}You can enjoy playing practice and friendly{换行}matches against these extraordinary teams.{控制符4}{结束}
 
-0001D164,427,{控制符2}The three challenge teams are Copy Cats FC,{换行}Galactic V and Football Faculty. You can{换行}purchase these three teams as a pack and get{换行}access to them as soon as they are available.{控制符3}{换行}{控制符1}{控制符2}After you've purchased the Three-Team Pack,{换行}you can select Check Availability to check{换行}whether that team is ready to be downloaded.{控制符3}{换行}{控制符1}{控制符2}Do you want to proceed to Nintendo eShop{换行}to purchase it from Nintendo?
+0001D164,434,{控制符3}The three challenge teams are Copy Cats FC,{换行}Galactic V and Football Faculty. You can{换行}purchase these three teams as a pack and get{换行}access to them as soon as they are available.{控制符4}{换行}{控制符2}{控制符3}After you've purchased the Three-Team Pack,{换行}you can select Check Availability to check{换行}whether that team is ready to be downloaded.{控制符4}{换行}{控制符2}{控制符3}Do you want to proceed to Nintendo eShop{换行}to purchase it from Nintendo?{控制符1}
 
-0001D317,25,{控制符2}Purchase complete.
+0001D317,25,{控制符3}Purchase complete.
 
-0001D338,81,In addition to the training cards found during{换行}a game, you've also found {数字1} 
+0001D338,167,In addition to the training cards found during{换行}a game, you've also found {数字0} {数字9} of training{换行}cards you can use to make the{换行}{数字8} special combo.{控制符4}{结束}
 
-0001D390,79, of training{换行}cards you can use to make the{换行}{数字8} special combo.{控制符3}{控制符4}
-
-0001D3E0,130,{控制符2}This item lets you purchase all three challenge{换行}teams in one pack. You cannot play a match{换行}against this item.{控制符3}{控制符4}
+0001D3E0,130,{控制符3}This item lets you purchase all three challenge{换行}teams in one pack. You cannot play a match{换行}against this item.{控制符4}{结束}
 
 0001D463,9,Aegis AFC
 
@@ -2872,7 +2750,7 @@
 
 0001D4D0,11,3-Team Pack
 
-0001D4DC,14,{数字1}{数字8}
+0001D4DC,14,{数字0}{数字8}
 
 0001D4EB,257,If your team's lacking strength at the back,{换行}it might be an idea to give them some{换行}all-round defence training. Play this team{换行}to develop your club's defensive tenacity.{换行}You'll also be rewarded with special combo{换行}sets to train your team further in this area.
 
@@ -2892,31 +2770,31 @@
 
 0001DCF1,236,A genetically engineered super-team{换行}experiment gone wrong. These athletes{换行}need the DNA of one of your players to{换行}complete their genome, but who will it be?!{换行}For multiple copies of special combo sets,{换行}win by as large a margin as you can!
 
-0001DDDF,97,You can share players with your friends. Please{换行}select up to five players to share.{控制符3}{控制符4}
+0001DDDF,97,You can share players with your friends. Please{换行}select up to five players to share.{控制符4}{结束}
 
-0001DE41,49,You can only share up to 5 players.{控制符3}{控制符4}
+0001DE41,49,You can only share up to 5 players.{控制符4}{结束}
 
-0001DE73,95,Your selection will be uploaded to the friend{换行}market when you next connect to it.{控制符3}{控制符4}
+0001DE73,95,Your selection will be uploaded to the friend{换行}market when you next connect to it.{控制符4}{结束}
 
-0001DED3,144,Your selection will be uploaded to the friend{换行}market when you next connect to it. Dismissed{换行}and un-ticked players will be removed.{控制符3}{控制符4}
+0001DED3,144,Your selection will be uploaded to the friend{换行}market when you next connect to it. Dismissed{换行}and un-ticked players will be removed.{控制符4}{结束}
 
-0001DF64,89,Player data will be updated the next time you{换行}connect to the friend market.{控制符3}{控制符4}
+0001DF64,89,Player data will be updated the next time you{换行}connect to the friend market.{控制符4}{结束}
 
-0001DFBE,140,You haven't selected any players to share, so{换行}you cannot access the friend market.{控制符3}{换行}{控制符1}Do you want to choose players to share now?
+0001DFBE,147,You haven't selected any players to share, so{换行}you cannot access the friend market.{控制符4}{换行}{控制符2}Do you want to choose players to share now?{控制符1}
 
 0001E052,30,Connecting to friend market...
 
-0001E071,96,Please select at least one player to share with{换行}your friends. Do you want to select players now?
+0001E071,103,Please select at least one player to share with{换行}your friends. Do you want to select players now?{控制符1}
 
-0001E0D9,161,You haven't chosen any players to offer, so you{换行}cannot access the friend market. Dismissed and{换行}un-ticked players have been removed from the{换行}server.{控制符3}{控制符4}
+0001E0D9,161,You haven't chosen any players to offer, so you{换行}cannot access the friend market. Dismissed and{换行}un-ticked players have been removed from the{换行}server.{控制符4}{结束}
 
-0001E17B,109,Could not find any players from your friends.{换行}The system will now disconnect from the{换行}internet.{控制符3}{控制符4}
+0001E17B,109,Could not find any players from your friends.{换行}The system will now disconnect from the{换行}internet.{控制符4}{结束}
 
-0001E1E9,95,Found players from your friends.{换行}(You can receive up to 16 players{换行}from friends.){控制符3}{控制符4}
+0001E1E9,95,Found players from your friends.{换行}(You can receive up to 16 players{换行}from friends.){控制符4}{结束}
 
-0001E249,39,Do you want to leave the friend market?
+0001E249,46,Do you want to leave the friend market?{控制符1}
 
-0001E278,99,You already have this player. You cannot make{换行}an offer for a player you already have.{控制符3}{控制符4}
+0001E278,99,You already have this player. You cannot make{换行}an offer for a player you already have.{控制符4}{结束}
 
 0001E2DC,89,You can share players with your friends and{换行}obtain players that your friends have shared.
 
